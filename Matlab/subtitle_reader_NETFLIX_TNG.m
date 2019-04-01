@@ -1,16 +1,26 @@
-SUB = xml2struct('/home/anwaldt/Desktop/SUB_title/TNG');
 
-SUB = xml2struct('TNG');
 
-SUB = xml2struct('lost-arc.xml');
 
-% https://www.youtube.com/watch?v=ZpejTczG8Ho
+
+function [] = subtitle_reader_NETFLIX_TNG(inFile, scaleFAC, outFile)
+
+
+if nargin<3
+    
+    [~,y,~] = fileparts(inFile);
+    outFile = [y '.sub'];
+end
+
+if nargin<2
+    scaleFAC = 41000000;
+end
+
+SUB = xml2struct(inFile);
 
 %%
 
-scaleFAC = 80000000;
 
-%fid = fopen('TNG','w');
+fid = fopen(outFile,'w');
 
 XXX= SUB.Children(4).Children(2).Children;
 
@@ -39,31 +49,36 @@ for entryCNT = 1:nEntries
             if ~isempty(tt.Data)
                 
                 
-                holder  = {y.Attributes.Value};
                 
-                tStart_SEC  = str2double(holder{1}(1:end-1))/scaleFAC;
-                
-                
-                tStart_MIN =  tStart_SEC/60;
-                
-                tStart_REM = rem(tStart_MIN,1)*60;
-                
-                tStart_MIN = floor(tStart_MIN);
-                
-%                 tStop   = str2double(holder{2}(1:end-1))/60000000 / 60;
-                
-                tmpLine = tt.Data;
+                tmpID = tt.Data;
                 
                 
-                if ~isempty(strfind(tmpLine,'(' ))
+                if ~isempty(strfind(tmpID,'(' ))
+                    
+                    
+                    
+                    
+                    holder  = {y.Attributes.Value};
+                    
+                    tStart_SEC  = str2double(holder{1}(1:end-1))/scaleFAC;
+                    
+                                
+                    tStop_SEC  = str2double(holder{2}(1:end-1))/scaleFAC;
+
                      
+                    
+                    
+                    tmpLine = T(2).Children.Data;
+                    
                     fprintf(fid, num2str(cc));
                     fprintf(fid, '\t\t');
                     
-                    fprintf(fid, '%d', tStart_MIN);
+                    fprintf(fid, '%.1f', tStart_SEC);
                     fprintf(fid,'\t');
-                    fprintf(fid, '%3.1f', tStart_REM);
-                    fprintf(fid, '\t\t\t\t');
+%                      
+%                     fprintf(fid, '%.1f', tStop_SEC);
+%                     fprintf(fid,'\t');
+                    
                     
                     %  fprintf(fid, num2str(tStop));
                     %  fprintf(fid, '\t\t');

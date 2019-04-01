@@ -1,8 +1,9 @@
-SUB = xml2struct('../RAW/Hitchhiker_Netflix.xml');
+%SUB = xml2struct('../RAW/Hitchhiker_Netflix.xml');
 
-% SUB = xml2struct('TNG');
-
-% SUB = xml2struct('lost-arc.xml');
+%SUB = xml2struct('../RAW/TNG_S01E23.xml');
+SUB = xml2struct('../RAW/TOS_S03E21.xml');
+ 
+%SUB = xml2struct('../RAW/lost-arc.xml');
 
 % https://www.youtube.com/watch?v=ZpejTczG8Ho
 
@@ -10,7 +11,7 @@ SUB = xml2struct('../RAW/Hitchhiker_Netflix.xml');
 
 scaleFAC = 70000000;
 
-fid = fopen('test_OUT','w');
+fid = fopen('tng.sub','w');
 
 XXX= SUB.Children(4).Children(2).Children;
 
@@ -53,7 +54,7 @@ for entryCNT = 1:nEntries
                 tmpLine = tt.Data;
                 
                 
-                if ~isempty(strfind(tmpLine,'(' ))
+                if ~isempty(strfind(tmpLine,'[' ))
                      
                     fprintf(fid, num2str(cc));
                     fprintf(fid, '\t\t');

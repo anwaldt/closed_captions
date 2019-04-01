@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import jack
 import os
@@ -14,26 +16,23 @@ from pythonosc import osc_server
 from pythonosc import udp_client
 from pythonosc import osc_message_builder as omb
 
-
-from JackTime import JackTime
+ 
 
 from SubTitle import SubTitle
  
-from PlotWindow import PlotWindow
-
 import sys
 
 from PyQt5.QtCore import Qt
 
 from PyQt5.QtWidgets import (QMainWindow, QAction, QFileDialog, QCheckBox, QLineEdit)
 
-from PyQt5.QtWidgets import (QApplication, QGridLayout, QGroupBox,QDialog, QSlider, 
+from PyQt5.QtWidgets import (QApplication, QGridLayout, QDialog,  
         QMenu, QPushButton, QRadioButton, QVBoxLayout,QHBoxLayout, QWidget, QButtonGroup, QAbstractButton, QLabel)
 
 
-from PyQt5.QtGui import (QIcon, QPixmap, QFont)
+from PyQt5.QtGui import (QIcon, QFont)
 
- 
+from math import floor
 
 count = 1
 
@@ -52,8 +51,8 @@ class SubTitleMain(QMainWindow):
         
         self.initUI()
         
-        self.jackPos      = 0
-        self.last_jackPos = 0
+        self.t_rel  = 0
+        self.last_t = 0
     
     
         self.fs = 0;
@@ -71,16 +70,6 @@ class SubTitleMain(QMainWindow):
         self.directory = directory
 
         self.openProject()
-        
-        
-          
-        self.jack_client = jack.Client('osc-player')
-        self.jack_client.activate();
-        
-        self.fs = self.jack_client.samplerate;
-        
-        #_thread.start_new_thread( JackTime, () )
-         
        
         t = threading.Thread(target=self.JackClocker)
              
@@ -134,11 +123,11 @@ class SubTitleMain(QMainWindow):
         
         self.b = QCheckBox("Connected?")
         #self.b.stateChanged.connect(self.clickBox)
-        self.glayout.addWidget(self.b);
+        #self.glayout.addWidget(self.b);
 
         self.jacktimeBox = QLineEdit(self)  
         self.jacktimeBox.setReadOnly(1);
-        self.glayout.addWidget(self.jacktimeBox);
+        #self.glayout.addWidget(self.jacktimeBox);
          
         #--------- window setup --------------------------------------------------
  
@@ -170,7 +159,7 @@ class SubTitleMain(QMainWindow):
 
         
             
-        self.directory = "../PREP"
+        #self.directory = "../PREP"
 
         global count
     
@@ -247,51 +236,44 @@ class SubTitleMain(QMainWindow):
              
         self.SubTitleObjects.append(SubTitle(count, label))
         
-        
-
-        if 0 < count <= 16:
-            yoff = 0
-            xoff = 0
-            
-        elif 16 < count <= 32:
-            yoff  = 4
-            xoff  = 16
-            
-        elif 32 < count <= 48:
-            yoff  = 8
-            xoff  = 32
-            
-        elif 48 < count :
-            yoff  = 12
-            xoff  = 48
+ 
                 
-        #b.clicked.connect(self.Button)
+        # b.clicked.connect(self.Button)
         
-        l1 = QLabel()
-        l1.setText(label)
-            
-        font= QFont('Courier', 22, QFont.Bold)
+        box1 = QVBoxLayout()
         
-        l1.setFont(font)
-        
-        self.glayout.addWidget(l1,      0+yoff,count-xoff)
+        l1   = QLabel()                    
+        font = QFont('Courier', 22, QFont.Bold)
+        l1.setText(label+':')        
+        l1.setFont(font)        
 
-        
+
         tmpBox = QLineEdit(self)
-        font= QFont('Courier', 18, QFont.Bold)
+        font   = QFont('Courier', 18, QFont.Bold)
         tmpBox.setFont(font)
+        
+        
+        
         
         tmpBox.setAutoFillBackground(True)
         p2 = tmpBox.palette()
         p2.setColor(tmpBox.backgroundRole(), Qt.black)
         p2.setColor(tmpBox.foregroundRole(), Qt.green)
-
         tmpBox.setPalette(p2)
+        
+      
+        box1.addWidget(l1)
+        box1.addWidget(tmpBox)
+
+
+
 
         self.textboxes.append(tmpBox)
         
-       
-        self.glayout.addWidget(tmpBox,1+yoff,count-xoff)
+        y = floor((count-1) / 3) *2
+ 
+        self.glayout.addWidget(l1,      y, (count-1) % 3)
+        self.glayout.addWidget(tmpBox,  y+1, (count-1) % 3)
 
         self.glayout.widget
                 
@@ -303,41 +285,36 @@ class SubTitleMain(QMainWindow):
 
     def JackClocker(self):
     
-        print("Connecting to Jack server!")
+        t_start = time.time();
 
         while 1:
-                       
-            self.jackPos = self.jack_client.transport_frame
+                    
+            self.t_rel = time.time() - t_start
+  
                         
-            if self.jackPos != self.last_jackPos:
+            if self.t_rel != self.last_t:
 # 
-                Tsec = self.jackPos / self.fs;
+                 
                 
-                self.jacktimeBox.setText('%.2f' % (Tsec));
+                self.jacktimeBox.setText('%.2f' % (self.t_rel));
                 
                 
                 cnt = 0
                 for i in self.SubTitleObjects:
                                   
                     if i.state=="R":
- 
-                            
-                       tmpSTR =  i.JackPosChange(Tsec, self)    
-                       
-                       #self.textbox.setText(tmpSTR)
+    
+                       tmpSTR =  i.JackPosChange(self.t_rel, self)    
                        
                        self.textboxes[cnt].setText(tmpSTR)
                         
                        cnt +=1
                          
-                self.last_jackPos = self.jackPos;    
+                self.last_t = self.t_rel;    
         
-            time.sleep(0.002)          
+            time.sleep(0.02)          
    
-
-   
-        
-        
+      
 ###############################################################################################
 # 
    
@@ -353,5 +330,5 @@ if __name__ == "__main__":
 
     
     app = QApplication(sys.argv)
-    ex = SubTitleMain(dir)
+    ex = SubTitleMain(args.dir)
     sys.exit(app.exec_())
