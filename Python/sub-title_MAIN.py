@@ -22,9 +22,9 @@ from SubTitle import SubTitle
  
 import sys
 
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import (Qt)
 
-from PyQt5.QtWidgets import (QMainWindow, QAction, QFileDialog, QCheckBox, QLineEdit)
+from PyQt5.QtWidgets import (QMainWindow, QAction, QFileDialog, QCheckBox, QLineEdit, QSpacerItem, QSizePolicy)
 
 from PyQt5.QtWidgets import (QApplication, QGridLayout, QDialog,  
         QMenu, QPushButton, QRadioButton, QVBoxLayout,QHBoxLayout, QWidget, QButtonGroup, QAbstractButton, QLabel)
@@ -71,11 +71,11 @@ class SubTitleMain(QMainWindow):
 
         self.openProject()
        
-        t = threading.Thread(target=self.JackClocker)
+        t = threading.Thread(target=self.clocker)
              
         t.start()
 
-
+        self.showFullScreen()
         
     def initUI(self):  
                 
@@ -113,7 +113,11 @@ class SubTitleMain(QMainWindow):
         
     
        
-        
+        # Set window background color
+        self.setAutoFillBackground(True)
+        p = self.palette()
+        p.setColor(self.backgroundRole(), Qt.black)
+        self.setPalette(p)
         
         
          #--------- BUTTONS on left  --------------------------------------------------
@@ -142,7 +146,7 @@ class SubTitleMain(QMainWindow):
         self.setWindowTitle('OSCollect')
         self.show()
         wid.setLayout(self.glayout)
-
+        self.glayout.setVerticalSpacing(5)
  
                         
      
@@ -243,13 +247,15 @@ class SubTitleMain(QMainWindow):
         box1 = QVBoxLayout()
         
         l1   = QLabel()                    
-        font = QFont('Courier', 22, QFont.Bold)
+        font = QFont('Courier', 16, QFont.Bold)
         l1.setText(label+':')        
         l1.setFont(font)        
-
+        p2 = l1.palette()
+        p2.setColor(l1.foregroundRole(), Qt.white)
+        l1.setPalette(p2)
 
         tmpBox = QLineEdit(self)
-        font   = QFont('Courier', 18, QFont.Bold)
+        font   = QFont('Courier', 22, QFont.Bold)
         tmpBox.setFont(font)
         
         
@@ -270,10 +276,16 @@ class SubTitleMain(QMainWindow):
 
         self.textboxes.append(tmpBox)
         
-        y = floor((count-1) / 3) *2
+        y = floor((count-1) / 3) *3
  
         self.glayout.addWidget(l1,      y, (count-1) % 3)
         self.glayout.addWidget(tmpBox,  y+1, (count-1) % 3)
+            
+        
+        verticalSpacer = QSpacerItem(20, 40,1, QSizePolicy.Expanding)
+        
+        self.glayout.addItem(verticalSpacer,  y+2, (count-1) % 3)
+
 
         self.glayout.widget
                 
@@ -283,7 +295,7 @@ class SubTitleMain(QMainWindow):
 # 
     """ ACID """
 
-    def JackClocker(self):
+    def clocker(self):
     
         t_start = time.time();
 
