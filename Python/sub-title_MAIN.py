@@ -302,14 +302,10 @@ class SubTitleMain(QMainWindow):
         while 1:
                     
             self.t_rel = time.time() - t_start
-  
-                        
+          
             if self.t_rel != self.last_t:
 # 
-                 
-                
                 self.jacktimeBox.setText('%.2f' % (self.t_rel));
-                
                 
                 cnt = 0
                 for i in self.SubTitleObjects:
@@ -318,7 +314,7 @@ class SubTitleMain(QMainWindow):
     
                        tmpSTR =  i.JackPosChange(self.t_rel, self)    
                        
-                       self.textboxes[cnt].setText(tmpSTR)
+                       self.textboxes[cnt].setText('['+tmpSTR[1:len(tmpSTR)]+']')
                         
                        cnt +=1
                          
