@@ -1,3 +1,5 @@
+![CC LOGO](./images/cc.png)
+
 # About
 
 *Captions* is a conceptual piece based on 
