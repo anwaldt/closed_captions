@@ -54,6 +54,7 @@ class SubTitleMain(QMainWindow):
         self.t_rel  = 0
         self.last_t = 0
     
+        self.is_playing = 0
     
         self.fs = 0;
     
@@ -80,37 +81,7 @@ class SubTitleMain(QMainWindow):
         
     def initUI(self):  
                 
-        
-        
-    # Optional, resize window to image size
-     
-        
-        #--------- MENU --------------------------------------------------
 
- 
-        self.statusBar()
-
-        openDirectory = QAction(QIcon('open.png'), 'Open', self)
-        openDirectory.setShortcut('Ctrl+O')
-        openDirectory.setStatusTip('Select Directory for loading project')
-        openDirectory.triggered.connect(self.openProject)
-        
-        
-        newDirectory = QAction(QIcon('open.png'), 'New', self)
-        newDirectory.setShortcut('Ctrl+O')
-        newDirectory.setStatusTip('Chose Directory for creating new project')
-        newDirectory.triggered.connect(self.newProject)
-
-    
-
-        menubar = self.menuBar()
-        
-        fileMenu = menubar.addMenu('&Project')
-        fileMenu.addAction(openDirectory)       
-        fileMenu.addAction(newDirectory)      
-        
-    
-       
         # Set window background color
         self.setAutoFillBackground(True)
         p = self.palette()
@@ -119,54 +90,69 @@ class SubTitleMain(QMainWindow):
         
         
          #--------- BUTTONS on left  --------------------------------------------------
- 
- 
-        
-        
-        self.b = QCheckBox("Connected?")
-        #self.b.stateChanged.connect(self.clickBox)
-        #self.glayout.addWidget(self.b);
-
-        self.jacktimeBox = QLineEdit(self)  
-        self.jacktimeBox.setReadOnly(1);
+  
+    
         #self.glayout.addWidget(self.jacktimeBox);
          
         #--------- window setup --------------------------------------------------
  
-        
-        
-    
         wid = QWidget(self)        
         self.setCentralWidget(wid)
 
             
         self.setGeometry(300, 300, 1900, 1000)
-        self.setWindowTitle('OSCollect')
+        self.setWindowTitle('Closed Captions')
         self.show()
         wid.setLayout(self.glayout)
         self.glayout.setVerticalSpacing(5)
+  
  
-                        
-     
-###############################################################################################
-# 
+        self.pBut =  QPushButton("Play")
+        self.glayout.addWidget(self.pBut)        
+        self.pBut.clicked.connect(self.handle_playbutton)
+        self.glayout.addWidget(self.pBut,  0, 0)       
         
-               
+        self.sBut =  QPushButton("Stop")
+        self.glayout.addWidget(self.sBut)     
+        self.sBut.clicked.connect(self.handle_stopbutton)
 
-###############################################################################################
-# 
+        self.glayout.addWidget(self.sBut,  0, 1)  
         
-    def openProject(self):
+        self.rBut =  QPushButton("Reset")
+        self.glayout.addWidget(self.rBut)     
+        self.glayout.addWidget(self.rBut,  0, 2)  
+        
+        
+        self.jacktimeBox = QLineEdit(self)
+        self.jacktimeBox.setReadOnly(1);
+        self.glayout.addWidget(self.jacktimeBox,  1, 1)  
 
-
+        #self.pBut.clicked.connect(self.handleAddButton)
+        
+        
+        
+        
+        
+    def handle_playbutton(self):
+        
+        self.t_start = time.time();
+        self.is_playing = 1
+        
         
             
-        #self.directory = "../PREP"
-
-        global count
-    
         
-    
+    def handle_stopbutton(self):
+        
+        #self.t_start = time.time();
+        self.is_playing = 0  
+         
+###############################################################################################
+# 
+         
+    def openProject(self):
+ 
+        global count
+     
         oscFiles = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
 
         #--------- create objects, first --------------------------------------------------
@@ -238,14 +224,11 @@ class SubTitleMain(QMainWindow):
              
         self.SubTitleObjects.append(SubTitle(count, label))
         
- 
-                
-        # b.clicked.connect(self.Button)
-        
+      
         box1 = QVBoxLayout()
         
         l1   = QLabel()                    
-        font = QFont('Courier', 16, QFont.Bold)
+        font = QFont('Courier', 20, QFont.Bold)
         l1.setText(label+':')        
         l1.setFont(font)        
         p2 = l1.palette()
@@ -255,8 +238,6 @@ class SubTitleMain(QMainWindow):
         tmpBox = QLineEdit(self)
         font   = QFont('Courier', 22, QFont.Bold)
         tmpBox.setFont(font)
-        
-        
         
         
         tmpBox.setAutoFillBackground(True)
@@ -276,13 +257,13 @@ class SubTitleMain(QMainWindow):
         
         y = floor((count-1) / 3) *3
  
-        self.glayout.addWidget(l1,      y, (count-1) % 3)
-        self.glayout.addWidget(tmpBox,  y+1, (count-1) % 3)
+        self.glayout.addWidget(l1,      y+2, (count-1) % 3)
+        self.glayout.addWidget(tmpBox,  y+3, (count-1) % 3)
             
         
         verticalSpacer = QSpacerItem(20, 40,1, QSizePolicy.Expanding)
         
-        self.glayout.addItem(verticalSpacer,  y+2, (count-1) % 3)
+        self.glayout.addItem(verticalSpacer,  y+4, (count-1) % 3)
 
 
         self.glayout.widget
@@ -295,28 +276,30 @@ class SubTitleMain(QMainWindow):
 
     def clocker(self):
     
-        t_start = time.time();
+        
 
         while 1:
+            
+            if self.is_playing == 1:
+            
+                self.t_rel = time.time() - self.t_start
+              
+                if self.t_rel != self.last_t:
+    # 
+                    self.jacktimeBox.setText('%.2f' % (self.t_rel));
                     
-            self.t_rel = time.time() - t_start
-          
-            if self.t_rel != self.last_t:
-# 
-                self.jacktimeBox.setText('%.2f' % (self.t_rel));
-                
-                cnt = 0
-                for i in self.SubTitleObjects:
-                                  
-                    if i.state=="R":
-    
-                       tmpSTR =  i.JackPosChange(self.t_rel, self)    
-                       
-                       self.textboxes[cnt].setText('['+tmpSTR[1:len(tmpSTR)]+']')
-                        
-                       cnt +=1
-                         
-                self.last_t = self.t_rel;    
+                    cnt = 0
+                    for i in self.SubTitleObjects:
+                                      
+                        if i.state=="R":
+        
+                           tmpSTR =  i.JackPosChange(self.t_rel, self)    
+                           
+                           self.textboxes[cnt].setText('['+tmpSTR[1:len(tmpSTR)]+']')
+                            
+                           cnt +=1
+                             
+                    self.last_t = self.t_rel;    
         
             time.sleep(0.02)          
    
