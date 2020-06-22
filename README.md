@@ -1,4 +1,4 @@
-![CC LOGO](./images/cc.png | width=200)
+![CC LOGO](./images/cc.png =200x)
 
 # About
 
