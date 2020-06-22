@@ -75,13 +75,11 @@ class SubTitleMain(QMainWindow):
              
         t.start()
 
-        self.showFullScreen()
+        self.show 
+        #self.showFullScreen()
         
     def initUI(self):  
                 
-        
-        #self.setWindowIcon(QIcon('graphics/TU-Berlin-Logo.svg'))
-        
         
         
     # Optional, resize window to image size
