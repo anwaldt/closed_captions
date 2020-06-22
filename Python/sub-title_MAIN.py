@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
-import jack
+#import jack
 import os
 import time
 
@@ -11,13 +11,12 @@ import _thread
 from os import listdir
 from os.path import isfile, join
 
-from pythonosc import dispatcher
-from pythonosc import osc_server
-from pythonosc import udp_client
-from pythonosc import osc_message_builder as omb
+#from pythonosc import dispatcher
+#from pythonosc import osc_server
+#from pythonosc import udp_client
+#from pythonosc import osc_message_builder as omb
 
  
-
 from SubTitle import SubTitle
  
 import sys
@@ -33,6 +32,8 @@ from PyQt5.QtWidgets import (QApplication, QGridLayout, QDialog,
 from PyQt5.QtGui import (QIcon, QFont)
 
 from math import floor
+
+
 
 count = 1
 
@@ -64,8 +65,8 @@ class SubTitleMain(QMainWindow):
  
         args.dir     = 0;
                 
-        self.panoramixOSCclient = udp_client.SimpleUDPClient("127.0.0.1", 4002)        
-        self.wonderOSCclient    = udp_client.SimpleUDPClient("192.168.3.1", 58100)
+        #self.panoramixOSCclient = udp_client.SimpleUDPClient("127.0.0.1", 4002)        
+        #self.wonderOSCclient    = udp_client.SimpleUDPClient("192.168.3.1", 58100)
 
 
         self.directory = directory
@@ -118,14 +119,14 @@ class SubTitleMain(QMainWindow):
 
         self.glayout.addWidget(self.sBut,  0, 1)  
         
-        self.rBut =  QPushButton("Reset")
-        self.glayout.addWidget(self.rBut)     
-        self.glayout.addWidget(self.rBut,  0, 2)  
+        #self.rBut =  QPushButton("Reset")
+        #self.glayout.addWidget(self.rBut)     
+        #self.glayout.addWidget(self.rBut,  0, 2)  
         
         
         self.jacktimeBox = QLineEdit(self)
         self.jacktimeBox.setReadOnly(1);
-        self.glayout.addWidget(self.jacktimeBox,  1, 1)  
+        self.glayout.addWidget(self.jacktimeBox,  0, 2)  
 
         #self.pBut.clicked.connect(self.handleAddButton)
         
