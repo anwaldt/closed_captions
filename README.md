@@ -46,3 +46,39 @@ a fast pick:
 # Running Captions
 
     python3 sub-title_MAIN.py --dir ../PREP/TNG/
+
+
+# Creating New Caption Files
+
+
+
+## Getting Captions From Netflix
+
+For generating new content,
+these steps are taken from:
+
+https://github.com/isaacbernat/netflix-to-srt
+
+
+- use Google Chrome
+- open devtools 
+        - Cmd + Alt + i.
+        - or by pressing F12.
+- go to Network tab within dev tools.
+- load movie/episode.
+- select the subtitle 
+- devtools 
+    - sort by name 
+    - look  a file with ?o= 
+    - download as XML
+
+## Converting XML to .sub Files
+
+When extracting captions from subtitles files,
+they need to be distinguished from spoken text.
+
+<p begin="28787508t" end="58817508t" region="region_00" tts:extent="17.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle0">THAT WAS</p>
+
+    subtitle_reader_NETFLIX_TNG('TNG_S07E25.xml',70000000,'TNG_S07E25.sub')
+
+

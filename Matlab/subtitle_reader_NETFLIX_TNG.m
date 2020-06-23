@@ -36,40 +36,34 @@ for entryCNT = 1:nEntries
     y = XXX(entryCNT);
     
     T = y.Children;
-    
-    
-    
+
     if ~isempty(T)
         
         for i=1:length(T)
             
             tt = T(i);
             
-            
             if ~isempty(tt.Data)
-                
-                
-                
+ 
                 tmpID = tt.Data;
-                
-                
+ 
                 if ~isempty(strfind(tmpID,'(' ))
-                    
-                    
-                    
-                    
+ 
                     holder  = {y.Attributes.Value};
                     
                     tStart_SEC  = str2double(holder{1}(1:end-1))/scaleFAC;
                     
                                 
                     tStop_SEC  = str2double(holder{2}(1:end-1))/scaleFAC;
-
-                     
+ 
+                    tmpLine = T(1).Data;
                     
-                    
-                    tmpLine = T(2).Children.Data;
-                    
+                    if length(tmpLine)>1
+                        
+                        xxx = strsplit(tmpLine,'(');
+                        yyy = xxx{2};
+                        zzz = strsplit(yyy,')');
+                        outLine = zzz{1};
                     fprintf(fid, num2str(cc));
                     fprintf(fid, '\t\t');
                     
@@ -83,26 +77,22 @@ for entryCNT = 1:nEntries
                     %  fprintf(fid, num2str(tStop));
                     %  fprintf(fid, '\t\t');
                     
-                    fprintf(fid, tmpLine);
+                    fprintf(fid, outLine);
                     fprintf(fid, '\t');
                     
                     
                     fprintf(fid, '\n');
                     cc = cc+1;
+                    end
                 end
-                
-                
-                
+ 
             end
             
         end
         
-        
         ff = tt.Children;
-        
-        
+
         if ~isempty(ff)
-            
             
         end
         

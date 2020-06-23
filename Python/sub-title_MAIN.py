@@ -23,7 +23,7 @@ import sys
 
 from PyQt5.QtCore import (Qt)
 
-from PyQt5.QtWidgets import (QMainWindow, QAction, QFileDialog, QCheckBox, QLineEdit, QSpacerItem, QSizePolicy)
+from PyQt5.QtWidgets import (QMainWindow, QAction, QFileDialog, QCheckBox, QLineEdit, QTextEdit, QSpacerItem, QSizePolicy)
 
 from PyQt5.QtWidgets import (QApplication, QGridLayout, QDialog,  
         QMenu, QPushButton, QRadioButton, QVBoxLayout,QHBoxLayout, QWidget, QButtonGroup, QAbstractButton, QLabel)
@@ -236,7 +236,7 @@ class SubTitleMain(QMainWindow):
         box1 = QVBoxLayout()
         
         l1   = QLabel()                    
-        font = QFont('Courier', 20, QFont.Bold)
+        font = QFont('Courier', 24, QFont.Bold)
         l1.setText(label+':')        
         l1.setFont(font)        
         p2 = l1.palette()
@@ -244,7 +244,7 @@ class SubTitleMain(QMainWindow):
         l1.setPalette(p2)
 
         tmpBox = QLineEdit(self)
-        font   = QFont('Courier', 22, QFont.Bold)
+        font   = QFont('Courier', 28, QFont.Bold)
         tmpBox.setFont(font)
         
         
