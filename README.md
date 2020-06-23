@@ -4,7 +4,8 @@
 
 ---
 
-*Closed Captions* is a conceptual composition tool
+*Closed Captions* is a conceptual composition -
+and a compositional tool -
 based on closed captions of movies and TV series.
 Captions can be extracted with their timestamps
 from streaming platforms and converted using Matlab scripts.
@@ -21,22 +22,23 @@ presented to the musicians on a GUI:
 
 Depending on the source material for the captions,
 *Closed Captions* results in an individual composition.
-The TNG version uses the captions of eleven
+The TNG version uses the captions of 12
 episodes from *Star Trek - The Next Generation*.
-This is by no means a best-off selection, merely
-a fast pick:
+This is by no means a real best-off selection, merely
+a fast pick of episodes:
 
 - Season 01 - Episode 23: "Skin of Evil"
 - Season 02 - Episode 08: "A Matter of Honor"
 - Season 02 - Episode 09: "The Measure of a Man"
 - Season 02 - Episode 13: "Time Squared"
-- Season 03 - Episode 13: "Déjà Q"
 - Season 02 - Episode 18: "Up the Long Ladder"
+- Season 03 - Episode 13: "Déjà Q"
 - Season 03 - Episode 21: "The Survivors"
 - Season 04 - Episode 01: "The Best of Both Worlds, Part II"
 - Season 05 - Episode 02: "Darmok"
 - Season 06 - Episode 20: "The Chase"
 - Season 06 - Episode 25: "Timescape"
+- Season 07 - Episode 25: "All Good Things..."
 
 
 # Python3 Dependencies
