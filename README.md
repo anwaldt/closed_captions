@@ -4,20 +4,20 @@
 
 ---
 
-*Closed Captions* is a conceptual composition
+*Closed Captions* is a conceptual composition tool
 based on closed captions of movies and TV series.
 Captions can be extracted with their timestamps
 from streaming platforms and converted using Matlab scripts.
-
 In the performance, a Python-based
 tool is used to play a set of captions,
 presented to the musicians on a GUI.
-
+Depending on the source material for the captions,
+*Closed Captions* results in an individual composition.
 
 
 ### TNG Version
 
-The TNG version uses the captions of eleven  
+The TNG version uses the captions of eleven
 episodes from *Star Trek - The Next Generation*.
 This is by no means a best-off selection, merely
 a fast pick:
@@ -41,4 +41,4 @@ a fast pick:
 
 # Running Captions
 
-``python3 sub-title_MAIN.py --dir ../PREP/TNG/``
+    python3 sub-title_MAIN.py --dir ../PREP/TNG/
