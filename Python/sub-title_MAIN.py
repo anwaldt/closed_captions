@@ -146,6 +146,13 @@ class SubTitleMain(QMainWindow):
         
         #self.t_start = time.time();
         self.is_playing = 0  
+        
+        cnt=0
+        for i in self.SubTitleObjects:
+                                       
+            self.textboxes[cnt].setText(' ')
+                            
+            cnt +=1
          
 ###############################################################################################
 # 
