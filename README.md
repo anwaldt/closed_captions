@@ -15,6 +15,9 @@ Depending on the source material for the captions,
 *Closed Captions* results in an individual composition.
 
 
+<img src="./images/TNG.png" width="600" />
+
+
 ### TNG Version
 
 The TNG version uses the captions of eleven
