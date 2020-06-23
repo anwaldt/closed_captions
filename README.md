@@ -72,20 +72,24 @@ https://github.com/isaacbernat/netflix-to-srt
     - look  a file with ?o= 
     - download as XML
 
-## Converting XML to .sub Files
+## The XML Files
 
 A caption element is defined by a couple   
 of attributes, defining the time of occurence,
-spatial alignment and content:
+spatial alignment and content.
+When extracting captions from subtitles files,
+they need to be distinguished from spoken text.
+Usually, they can be identified by round brackets:
 
 ```xml
     <p begin="9936600006t" end="9955367505t" region="region_00" tts:extent="60.00% 5.33%"
     tts:origin="17.50% 84.62%" xml:id="subtitle479">( shouting indistinctly )</p>
 ```
 
-When extracting captions from subtitles files,
-they need to be distinguished from spoken text.
+## Converting XML to .sub Files
 
+The timestamps are need to bee rescaled by 
+a heuristic value of 70000000 to be roughly correct:
 
     subtitle_reader_NETFLIX_TNG('TNG_S07E25.xml',70000000,'TNG_S07E25.sub')
 
