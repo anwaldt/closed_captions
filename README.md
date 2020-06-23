@@ -10,9 +10,8 @@ Captions can be extracted with their timestamps
 from streaming platforms and converted using Matlab scripts.
 In the performance, a Python-based
 tool is used to play a set of captions,
-presented to the musicians on a GUI.
-Depending on the source material for the captions,
-*Closed Captions* results in an individual composition.
+presented to the musicians on a GUI:
+
 
 
 <img src="./images/TNG.png" width="600" />
@@ -20,6 +19,8 @@ Depending on the source material for the captions,
 
 ### TNG Version
 
+Depending on the source material for the captions,
+*Closed Captions* results in an individual composition.
 The TNG version uses the captions of eleven
 episodes from *Star Trek - The Next Generation*.
 This is by no means a best-off selection, merely
