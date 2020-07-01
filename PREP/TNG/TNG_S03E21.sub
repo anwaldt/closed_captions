@@ -1,33 +1,67 @@
-1		27.3	 loudly	
-2		114.6	 sighs	
-3		124.7	 sighs	
-4		148.1	 sighs	
-5		149.0	 panting	
-6		156.5	 chuckling	
-7		216.5	 tricorder beeping	
-8		258.1	 chuckles	
-9		262.5	 sighs	
-10		290.8	 birds singing	
-11		291.3	 holodeck doors close	
-12		302.7	 swords clashing,	
-13		322.4	 clears throat	
-14		339.4	 laughs	
-15		423.1	 sighs	
-16		429.0	 birds singing	
-17		430.4	 men laughing in the distance	
-18		431.4	 holodeck door closes	
-19		433.2	 laughter	
-20		453.9	 laughing	
-21		463.7	 stifles laughter	
-22		484.7	 rumbling	
-23		485.1	 console beeping	
-24		502.9	 loud snoring	
-25		549.0	 rumbling	
-26		554.9	 rumbling	
-27		555.8	 console beeping insistently	
-28		568.6	 alarm beeps loudly	
-29		592.6	 alarm beeps loudly	
-30		614.9	 alarm beeps loudly	
-31		645.9	 computer beeps	
-32		647.5	 computer beeps	
-33		649.3	 computer beeps	
+0		0.0	---	
+1		55.5	 loudly	
+0		57.5	---	
+2		234.5	 sighs	
+0		237.5	---	
+3		255.5	 sighs	
+0		257.5	---	
+4		303.5	 sighs	
+0		305.5	---	
+5		305.0	 panting	
+0		308.0	---	
+6		320.5	 chuckling	
+0		322.5	---	
+7		443.5	 tricorder beeping	
+0		446.5	---	
+8		529.0	 chuckles	
+0		531.0	---	
+9		538.0	 sighs	
+0		539.0	---	
+10		596.0	 birds singing	
+0		598.0	---	
+11		597.0	 holodeck doors close	
+0		599.0	---	
+12		620.5	 swords clashing,	
+0		622.5	---	
+13		660.5	 clears throat	
+0		662.5	---	
+14		695.5	 laughs	
+0		697.5	---	
+15		867.0	 sighs	
+0		868.0	---	
+16		879.5	 birds singing	
+0		881.5	---	
+17		882.0	 men laughing in the distance	
+0		886.0	---	
+18		884.0	 holodeck door closes	
+0		886.0	---	
+19		888.0	 laughter	
+0		889.0	---	
+20		930.5	 laughing	
+0		933.5	---	
+21		950.5	 stifles laughter	
+0		952.5	---	
+22		993.5	 rumbling	
+0		994.5	---	
+23		994.0	 console beeping	
+0		996.0	---	
+24		1030.5	 loud snoring	
+0		1033.5	---	
+25		1125.0	 rumbling	
+0		1127.0	---	
+26		1137.5	 rumbling	
+0		1140.5	---	
+27		1139.0	 console beeping insistently	
+0		1141.0	---	
+28		1165.5	 alarm beeps loudly	
+0		1167.5	---	
+29		1214.5	 alarm beeps loudly	
+0		1215.5	---	
+30		1260.5	 alarm beeps loudly	
+0		1261.5	---	
+31		1324.0	 computer beeps	
+0		1325.0	---	
+32		1327.0	 computer beeps	
+0		1329.0	---	
+33		1331.0	 computer beeps	
+0		1333.0	---	

@@ -1,34 +1,69 @@
-1		4.3	 console beeping	
-2		33.8	 metallic screeching	
-3		94.4	 tricorder humming	
-4		138.5	 growls quietly	
-5		150.4	 sighs	
-6		196.8	 sighs	
-7		282.2	 door opens and closes	
-8		292.6	 yells in pain	
-9		315.7	 distorted voice-like static)	
-10		318.7	 excited conversation	
-11		321.5	 exclamations of concern	
-12		321.9	 Q cries out in fear	
-13		327.9	 electric buzzing,	
-14		332.0	 groans in pain	
-15		353.6	 chuckles	
-16		384.7	 sighing	
-17		416.5	 bored	
-18		436.4	 alarm blaring	
-19		445.1	 whooshing whir	
-20		447.3	 yelling	
-21		449.1	 straining groans	
-22		450.6	 electronic buzzing	
-23		452.6	 yells	
-24		452.9	 electronic crackling	
-25		474.2	 door chimes	
-26		501.0	 door opens and closes	
-27		516.3	 console beeping	
-28		547.9	 sighs	
-29		552.7	 groans	
-30		580.4	 sighs	
-31		595.4	 playing mariachi music	
-32		605.7	 sighs	
-33		622.8	 laughing uproariously	
-34		633.0	 console beeping	
+0		0.0	---	
+1		8.5	 console beeping	
+0		10.5	---	
+2		69.0	 metallic screeching	
+0		71.0	---	
+3		193.0	 tricorder humming	
+0		195.0	---	
+4		283.5	 growls quietly	
+0		285.5	---	
+5		308.0	 sighs	
+0		312.0	---	
+6		403.5	 sighs	
+0		406.5	---	
+7		578.5	 door opens and closes	
+0		580.5	---	
+8		599.5	 yells in pain	
+0		601.5	---	
+9		647.0	 distorted voice-like static)	
+0		649.0	---	
+10		653.0	 excited conversation	
+0		660.0	---	
+11		659.0	 exclamations of concern	
+0		660.0	---	
+12		659.5	 Q cries out in fear	
+0		661.5	---	
+13		672.0	 electric buzzing,	
+0		674.0	---	
+14		680.5	 groans in pain	
+0		682.5	---	
+15		724.5	 chuckles	
+0		726.5	---	
+16		788.5	 sighing	
+0		790.5	---	
+17		853.5	 bored	
+0		855.5	---	
+18		894.5	 alarm blaring	
+0		896.5	---	
+19		912.0	 whooshing whir	
+0		915.0	---	
+20		916.5	 yelling	
+0		919.5	---	
+21		920.5	 straining groans	
+0		923.5	---	
+22		923.5	 electronic buzzing	
+0		925.5	---	
+23		927.5	 yells	
+0		928.5	---	
+24		928.0	 electronic crackling	
+0		930.0	---	
+25		972.0	 door chimes	
+0		973.0	---	
+26		1026.5	 door opens and closes	
+0		1029.5	---	
+27		1058.0	 console beeping	
+0		1060.0	---	
+28		1123.0	 sighs	
+0		1126.0	---	
+29		1133.0	 groans	
+0		1135.0	---	
+30		1189.5	 sighs	
+0		1191.5	---	
+31		1220.5	 playing mariachi music	
+0		1222.5	---	
+32		1241.5	 sighs	
+0		1242.5	---	
+33		1276.5	 laughing uproariously	
+0		1281.5	---	
+34		1297.5	 console beeping	
+0		1298.5	---	

@@ -124,8 +124,18 @@ class SubTitleMain(QMainWindow):
         #self.glayout.addWidget(self.rBut,  0, 2)  
         
         
-        self.jacktimeBox = QLineEdit(self)
-        self.jacktimeBox.setReadOnly(1);
+        
+        self.jacktimeBox = QLabel(self)
+        
+        
+        font = QFont('Courier', 33, QFont.Bold) 
+        self.jacktimeBox.setFont(font) 
+        
+        p2 = self.jacktimeBox.palette()
+        p2.setColor(self.jacktimeBox.foregroundRole(), Qt.yellow)
+        self.jacktimeBox.setPalette(p2)
+        
+        #self.jacktimeBox.setReadOnly(1);
         self.glayout.addWidget(self.jacktimeBox,  0, 2)  
 
         #self.pBut.clicked.connect(self.handleAddButton)

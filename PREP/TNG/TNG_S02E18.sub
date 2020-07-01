@@ -1,21 +1,43 @@
-1		3.6	 groaning	
-2		5.3	 door opens	
-3		8.6	 breathing heavily	
-4		11.4	 electronic pulsing	
-5		81.9	 growls	
-6		102.6	 deep exhale	
-7		103.0	 door chime	
-8		196.1	 sheep baaing	
-9		196.6	 rooster crowing	
-10		200.1	 sheep baaing,	
-11		203.4	 pig squealing	
-12		210.2	 loud commotion,	
-13		215.3	 clears throat	
-14		246.1	 alarm sounding	
-15		272.9	 chuckling	
-16		340.0	 people talking, sheep baaing)	
-17		361.2	 wheezing	
-18		366.0	 wheezing	
-19		377.5	 women laughing	
-20		414.8	 whirring softly	
-21		624.7	 men laughing	
+0		0.0	---	
+1		7.0	 groaning	
+0		10.0	---	
+2		10.5	 door opens	
+0		13.5	---	
+3		17.5	 breathing heavily	
+0		21.5	---	
+4		23.0	 electronic pulsing	
+0		28.0	---	
+5		167.5	 growls	
+0		168.5	---	
+6		210.0	 deep exhale	
+0		212.0	---	
+7		211.0	 door chime	
+0		212.0	---	
+8		401.5	 sheep baaing	
+0		404.5	---	
+9		403.0	 rooster crowing	
+0		405.0	---	
+10		410.0	 sheep baaing,	
+0		414.0	---	
+11		416.5	 pig squealing	
+0		418.5	---	
+12		430.5	 loud commotion,	
+0		432.5	---	
+13		441.0	 clears throat	
+0		445.0	---	
+14		504.5	 alarm sounding	
+0		505.5	---	
+15		559.0	 chuckling	
+0		562.0	---	
+16		697.0	 people talking, sheep baaing)	
+0		700.0	---	
+17		740.5	 wheezing	
+0		743.5	---	
+18		750.0	 wheezing	
+0		752.0	---	
+19		773.5	 women laughing	
+0		777.5	---	
+20		850.0	 whirring softly	
+0		853.0	---	
+21		1280.5	 men laughing	
+0		1282.5	---	

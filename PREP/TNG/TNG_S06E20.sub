@@ -1,22 +1,45 @@
-1		31.6	 snaps fingers	
-2		48.1	 sighs	
-3		61.5	 sighs	
-4		103.0	 chuckles	
-5		132.2	 sighs	
-6		145.1	 door chimes	
-7		149.2	 sighs	
-8		219.9	 alarms blaring	
-9		227.9	 monitor beeping	
-10		231.5	 steady tone	
-11		284.4	 door chimes	
-12		309.0	 sighs	
-13		367.9	 sighs	
-14		425.1	 hissing	
-15		467.7	 conversations and laughter	
-16		481.6	 grunting	
-17		486.3	 grunting	
-18		501.6	 beeping	
-19		514.9	 low growl	
-20		555.5	 whoosh of active transport	
-21		567.2	 whispering	
-22		625.6	 sighs	
+0		0.0	---	
+1		64.5	 snaps fingers	
+0		65.5	---	
+2		98.5	 sighs	
+0		100.5	---	
+3		126.0	 sighs	
+0		128.0	---	
+4		211.0	 chuckles	
+0		213.0	---	
+5		270.5	 sighs	
+0		273.5	---	
+6		297.0	 door chimes	
+0		299.0	---	
+7		305.5	 sighs	
+0		307.5	---	
+8		450.5	 alarms blaring	
+0		452.5	---	
+9		467.0	 monitor beeping	
+0		469.0	---	
+10		474.5	 steady tone	
+0		477.5	---	
+11		583.0	 door chimes	
+0		584.0	---	
+12		633.0	 sighs	
+0		635.0	---	
+13		754.0	 sighs	
+0		757.0	---	
+14		871.5	 hissing	
+0		872.5	---	
+15		958.5	 conversations and laughter	
+0		961.5	---	
+16		987.0	 grunting	
+0		989.0	---	
+17		997.0	 grunting	
+0		999.0	---	
+18		1028.0	 beeping	
+0		1030.0	---	
+19		1055.5	 low growl	
+0		1057.5	---	
+20		1138.5	 whoosh of active transport	
+0		1140.5	---	
+21		1162.5	 whispering	
+0		1163.5	---	
+22		1282.0	 sighs	
+0		1284.0	---	

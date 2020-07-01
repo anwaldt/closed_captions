@@ -1,32 +1,65 @@
-1		41.6	 laughing	
-2		120.3	 sighs	
-3		276.6	 sighs	
-4		290.1	 sighs	
-5		309.9	 shouting	
-6		313.3	 roaring sound	
-7		316.2	 roaring	
-8		322.8	 roaring	
-9		345.1	 electrical crackling	
-10		345.7	 electrical crackling	
-11		347.4	 electrical crackling	
-12		348.9	 sighs	
-13		353.6	 loud crackling	
-14		364.7	 roaring	
-15		367.7	 loud crackling	
-16		368.1	 crackling stops	
-17		379.1	 violent crackling roar	
-18		380.3	 creature shrieks angrily	
-19		380.9	 shrieks	
-20		382.2	 groans	
-21		388.0	 groans	
-22		388.9	 groaning	
-23		400.3	 electronic crackling	
-24		403.1	 gasping	
-25		419.3	 sighs	
-26		471.3	 groans	
-27		501.9	 groaning	
-28		519.5	 sighs	
-29		568.3	 roaring	
-30		570.3	 roaring	
-31		572.6	 roaring	
-32		597.3	 door opening	
+0		0.0	---	
+1		85.0	 laughing	
+0		88.0	---	
+2		246.5	 sighs	
+0		248.5	---	
+3		567.0	 sighs	
+0		568.0	---	
+4		594.5	 sighs	
+0		596.5	---	
+5		635.0	 shouting	
+0		639.0	---	
+6		642.0	 roaring sound	
+0		646.0	---	
+7		648.0	 roaring	
+0		650.0	---	
+8		661.5	 roaring	
+0		663.5	---	
+9		707.0	 electrical crackling	
+0		709.0	---	
+10		708.5	 electrical crackling	
+0		710.5	---	
+11		712.0	 electrical crackling	
+0		713.0	---	
+12		715.0	 sighs	
+0		716.0	---	
+13		724.5	 loud crackling	
+0		726.5	---	
+14		747.5	 roaring	
+0		748.5	---	
+15		753.5	 loud crackling	
+0		755.5	---	
+16		754.5	 crackling stops	
+0		756.5	---	
+17		777.0	 violent crackling roar	
+0		780.0	---	
+18		779.5	 creature shrieks angrily	
+0		781.5	---	
+19		780.5	 shrieks	
+0		782.5	---	
+20		783.5	 groans	
+0		784.5	---	
+21		795.0	 groans	
+0		797.0	---	
+22		797.0	 groaning	
+0		798.0	---	
+23		820.5	 electronic crackling	
+0		821.5	---	
+24		826.0	 gasping	
+0		829.0	---	
+25		859.5	 sighs	
+0		860.5	---	
+26		966.0	 groans	
+0		968.0	---	
+27		1028.5	 groaning	
+0		1030.5	---	
+28		1064.5	 sighs	
+0		1066.5	---	
+29		1165.0	 roaring	
+0		1166.0	---	
+30		1169.0	 roaring	
+0		1170.0	---	
+31		1173.5	 roaring	
+0		1176.5	---	
+32		1224.0	 door opening	
+0		1226.0	---	

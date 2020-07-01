@@ -63,15 +63,20 @@ class SubTitle:
   
         print("datapoints: "+str(np.size(self.t)))
  
- 
-        
+         
     def JackPosChange(self, timeVal, parent):
         
-      
+        # this one plays closest index
         tmpIdx = np.argmin(np.abs(np.subtract(self.t , timeVal))) 
-      
-        outPath = self.text[tmpIdx] 
         
+
+
+        # this one plays original length only        
+        # rangers = np.argwhere(self.t <= timeVal)        
+        # tmpIdx  = rangers[-1][0] 
+          
+        outPath =  self.text[tmpIdx]
+                    
         
         return outPath
          
