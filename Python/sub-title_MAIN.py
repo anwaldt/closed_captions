@@ -254,7 +254,7 @@ class SubTitleMain(QMainWindow):
         l1.setPalette(p2)
 
         tmpBox = QLineEdit(self)
-        font   = QFont('Courier', 28, QFont.Bold)
+        font   = QFont('Courier', 22, QFont.Bold)
         tmpBox.setFont(font)
         
         

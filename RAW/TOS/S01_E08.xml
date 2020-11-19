@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/2006/10/ttaf1" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling" ttp:cellResolution="40 19" ttp:pixelAspectRatio="1 1" ttp:tickRate="10000000" ttp:timeBase="media" tts:extent="640px 480px" xmlns="http://www.w3.org/2006/10/ttaf1">
+<head use="dfxp-ls-sdh">
+<ttp:profile xmlns:ttp="http://www.w3.org/2006/10/ttaf1"/>
+<layout>
+<region xml:id="region_00">
+<style tts:textAlign="left"/>
+<style tts:displayAlign="center"/>
+<style tts:backgroundColor="transparent"/>
+</region>
+<region xml:id="region_01">
+<style tts:textAlign="left"/>
+<style tts:displayAlign="center"/>
+<style tts:backgroundColor="transparent"/>
+</region>
+<region xml:id="region_02">
+<style tts:textAlign="left"/>
+<style tts:displayAlign="center"/>
+<style tts:backgroundColor="transparent"/>
+</region>
+</layout>
+<styling>
+<style tts:color="white" tts:fontFamily="monospaceSansSerif" tts:fontSize="100%" xml:id="style0"/>
+<style tts:color="white" tts:fontFamily="monospaceSansSerif" tts:fontSize="100%" tts:fontStyle="italic" xml:id="style_0"/>
+</styling>
+</head>
+<body style="style0">
+<div xml:space="preserve">
+<p begin="190607500t" end="216472506t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle0"><span style="style_0">ALL SECTIONS--</span></p>
+<p begin="190607500t" end="216472506t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle1"><span style="style_0">SECURITY CHECK IN PROGRESS.</span></p>
+<p begin="217725006t" end="236910006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle2"><span style="style_0">REPORT.</span></p>
+<p begin="238162507t" end="251502500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle3">WE'RE ENTERING</p>
+<p begin="238162507t" end="251502500t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle4">STANDARD ORBIT, NURSE.</p>
+<p begin="252755001t" end="279037508t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle5">IT WON'T BE MUCH LONGER.</p>
+<p begin="319912508t" end="336592506t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle6"><span style="style_0">FORWARD SCANNER</span></p>
+<p begin="319912508t" end="336592506t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle7"><span style="style_0">TO BRIDGE.</span></p>
+<p begin="337845006t" end="369545008t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle8">I UNDERSTAND YOU GAVE UP</p>
+<p begin="337845006t" end="369545008t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle9">A CAREER IN BIO-RESEARCH</p>
+<p begin="370787500t" end="397905006t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle10">TO SIGN ABOARD A STARSHIP.</p>
+<p begin="399157508t" end="429187508t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle11">I KNOW HE'S ALIVE</p>
+<p begin="399157508t" end="429187508t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle12">DOWN THERE, CAPTAIN.</p>
+<p begin="440439999t" end="459635008t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="25.00% 79.29%" xml:id="subtitle13"><span style="style_0">SCANNER TO BRIDGE,</span></p>
+<p begin="440439999t" end="459635008t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle14"><span style="style_0">STATUS REPORT, PLEASE.</span></p>
+<p begin="460877500t" end="493830002t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle15">IT'S BEEN FIVE YEARS</p>
+<p begin="460877500t" end="493830002t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle16">SINCE HIS LAST MESSAGE.</p>
+<p begin="495082503t" end="520937500t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle17">ROGER'S</p>
+<p begin="495082503t" end="520937500t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle18">A VERY DETERMINED MAN.</p>
+<p begin="522190001t" end="534705003t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle19">HE'D FIND A WAY TO LIVE.</p>
+<p begin="535957505t" end="563482502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle20">BEGINNING SIGNALS</p>
+<p begin="535957505t" end="563482502t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle21">TO SURFACE, SIR.</p>
+<p begin="599775008t" end="620212508t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle22">PUT IT ON ALL</p>
+<p begin="599775008t" end="620212508t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle23">FREQUENCIES, LIEUTENANT.</p>
+<p begin="621455000t" end="644815003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle24">SHIP'S RECORD BANKS</p>
+<p begin="621455000t" end="644815003t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle25">SHOW LITTLE WE DON'T</p>
+<p begin="621455000t" end="644815003t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle26">ALREADY KNOW</p>
+<p begin="646067505t" end="659417508t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle27">ABOUT THIS PLANET,</p>
+<p begin="646067505t" end="659417508t" region="region_01" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle28">CAPTAIN.</p>
+<p begin="660660000t" end="679020007t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle29">GRAVITY IS 1.1 OF EARTH.</p>
+<p begin="680272508t" end="696952506t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle30">ATMOSPHERE WITHIN</p>
+<p begin="680272508t" end="696952506t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle31">SAFETY LIMITS.</p>
+<p begin="698205006t" end="716972506t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 73.96%" xml:id="subtitle32">BUT THE SURFACE</p>
+<p begin="698205006t" end="716972506t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle33">TEMPERATURE</p>
+<p begin="698205006t" end="716972506t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle34">OF THAT PLANET</p>
+<p begin="718225006t" end="734905003t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle35">IS 100 DEGREES BELOW 0.</p>
+<p begin="736157505t" end="750342508t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle36">IT MAY HAVE BEEN</p>
+<p begin="736157505t" end="750342508t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="12.50% 84.62%" xml:id="subtitle37">INHABITED ONCE,</p>
+<p begin="751585000t" end="767022506t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle38">BUT THE SUN</p>
+<p begin="751585000t" end="767022506t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle39">IN THIS SYSTEM</p>
+<p begin="768275006t" end="789547508t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle40">HAS BEEN FADING STEADILY</p>
+<p begin="768275006t" end="789547508t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle41">FOR A HALF MILLION YEARS.</p>
+<p begin="790790000t" end="825830003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle42">NOW DR. KORBY--</p>
+<p begin="827082506t" end="859200007t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="17.50% 79.29%" xml:id="subtitle43">OFTEN CALLED THE PASTEUR</p>
+<p begin="827082506t" end="859200007t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="17.50% 84.62%" xml:id="subtitle44">OF ARCHAEOLOGICAL MEDICINE.</p>
+<p begin="860452508t" end="893812502t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle45">HIS TRANSLATION</p>
+<p begin="860452508t" end="893812502t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle46">OF MEDICAL RECORDS</p>
+<p begin="860452508t" end="893812502t" region="region_02" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle47">FROM THE ORION RUINS</p>
+<p begin="895065003t" end="915920003t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle48">REVOLUTIONIZED</p>
+<p begin="895065003t" end="915920003t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle49">OUR IMMUNIZATION</p>
+<p begin="895065003t" end="915920003t" region="region_02" tts:extent="37.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle50">TECHNIQUES.</p>
+<p begin="917172506t" end="952202500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle51">REQUIRED READING AT</p>
+<p begin="917172506t" end="952202500t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle52">THE ACADEMY, MR. SPOCK.</p>
+<p begin="953455001t" end="982232500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle53">I'VE ALWAYS WANTED</p>
+<p begin="953455001t" end="982232500t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle54">TO MEET HIM.</p>
+<p begin="983485001t" end="1008097506t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle55">DO YOU THINK</p>
+<p begin="983485001t" end="1008097506t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle56">THERE'S ANY CHANCE OF</p>
+<p begin="983485001t" end="1008097506t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle57">HIM STILL BEING ALIVE?</p>
+<p begin="1064817502t" end="1090682508t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle58">I'VE TRIED</p>
+<p begin="1064817502t" end="1090682508t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle59">ALL FREQUENCIES, SIR.</p>
+<p begin="1064817502t" end="1090682508t" region="region_02" tts:extent="52.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle60">NO RETURN SIGNAL.</p>
+<p begin="1091925000t" end="1113197501t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle61">KEEP TRYING.</p>
+<p begin="1114450002t" end="1146567505t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="42.50% 79.29%" xml:id="subtitle62"><span style="style_0">WARP CAPACITY</span></p>
+<p begin="1114450002t" end="1146567505t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle63"><span style="style_0">.07 AND BUILDING.</span></p>
+<p begin="1147820006t" end="1175762503t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle64"><span style="style_0">COMMUNICATOR,</span></p>
+<p begin="1147820006t" end="1175762503t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle65"><span style="style_0">WE NEED MORE LINES</span></p>
+<p begin="1147820006t" end="1175762503t" region="region_02" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle66"><span style="style_0">TO THE IMPULSE DECK.</span></p>
+<p begin="1205375003t" end="1255007502t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle67">HIS LAST SIGNAL</p>
+<p begin="1205375003t" end="1255007502t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle68">TOLD ABOUT FINDING</p>
+<p begin="1205375003t" end="1255007502t" region="region_02" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle69">UNDERGROUND CAVERNS.</p>
+<p begin="1256260003t" end="1296300003t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle70">AND SINCE THEN</p>
+<p begin="1256260003t" end="1296300003t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle71">TWO EXPEDITIONS HAVE</p>
+<p begin="1256260003t" end="1296300003t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle72">FAILED TO FIND HIM.</p>
+<p begin="1336757505t" end="1371787500t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle73">I'VE RUN ALL FREQUENCIES</p>
+<p begin="1336757505t" end="1371787500t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle74">A SECOND TIME, CAPTAIN.</p>
+<p begin="1336757505t" end="1371787500t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle75">THERE'S NO--</p>
+<p begin="1373040001t" end="1386807505t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle76"><span style="style_0">[BEEP BEEP]</span></p>
+<p begin="1388060006t" end="1429770007t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle77">ENTERPRISE,</p>
+<p begin="1388060006t" end="1429770007t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle78"><span style="style_0">COME IN,</span><span style="style0"> ENTERPRISE.</span></p>
+<p begin="1431022508t" end="1450625008t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle79"><span style="style_0">THIS IS ROGER KORBY.</span></p>
+<p begin="1451867500t" end="1475645003t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle80"><span style="style_0">REPEATING--</span></p>
+<p begin="1451867500t" end="1475645003t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle81"><span style="style_0">THIS IS DR. ROGER KORBY.</span></p>
+<p begin="1476897505t" end="1503170001t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle82"><span style="style_0">DO YOU READ ME,</span></p>
+<p begin="1476897505t" end="1503170001t" region="region_01" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle83">ENTERPRISE?</p>
+<p begin="1504422502t" end="1526112503t" region="region_00" tts:extent="17.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle84"><span style="style_0">THIS IS</span></p>
+<p begin="1504422502t" end="1526112503t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle85"><span style="style_0">DR. ROGER KORBY...</span></p>
+<p begin="1527365005t" end="1542792500t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle86"><span style="style_0">STANDING BY.</span></p>
+<p begin="1618707506t" end="1649155006t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle87"><span style="style_0">SPACE--</span></p>
+<p begin="1618707506t" end="1649155006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle88"><span style="style_0">THE FINAL FRONTIER.</span></p>
+<p begin="1650407508t" end="1689612507t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle89"><span style="style_0">THESE ARE THE VOYAGES</span></p>
+<p begin="1650407508t" end="1689612507t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle90"><span style="style_0">OF THE STARSHIP</span><span style="style0"> ENTERPRISE.</span></p>
+<p begin="1690865008t" end="1712962500t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle91"><span style="style_0">ITS FIVE-YEAR MISSION--</span></p>
+<p begin="1714215001t" end="1750925008t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle92"><span style="style_0">TO EXPLORE</span></p>
+<p begin="1714215001t" end="1750925008t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle93"><span style="style_0">STRANGE NEW WORLDS...</span></p>
+<p begin="1752167500t" end="1776780003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle94"><span style="style_0">TO SEEK OUT NEW LIFE</span></p>
+<p begin="1752167500t" end="1776780003t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle95"><span style="style_0">AND NEW CIVILIZATIONS...</span></p>
+<p begin="1778032506t" end="1821819999t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle96"><span style="style_0">TO BOLDLY GO WHERE</span></p>
+<p begin="1778032506t" end="1821819999t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle97"><span style="style_0">NO MAN HAS GONE BEFORE.</span></p>
+<p begin="2147567505t" end="2192190000t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle98"><span style="style_0">CAPTAIN'S LOG--</span></p>
+<p begin="2147567505t" end="2192190000t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle99"><span style="style_0">STARDATE 2712.4.</span></p>
+<p begin="2193442500t" end="2216802503t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle100"><span style="style_0">A SIGNAL</span></p>
+<p begin="2193442500t" end="2216802503t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle101"><span style="style_0">FROM PLANET EXO-III.</span></p>
+<p begin="2218055005t" end="2243075000t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle102"><span style="style_0">DR. ROGER KORBY</span></p>
+<p begin="2218055005t" end="2243075000t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle103"><span style="style_0">HAS BEEN LOCATED,</span></p>
+<p begin="2244327501t" end="2273522500t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle104"><span style="style_0">HE AND PART OF HIS</span></p>
+<p begin="2244327501t" end="2273522500t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle105"><span style="style_0">EXPEDITION REMAINING ALIVE</span></p>
+<p begin="2274775001t" end="2293542500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle106"><span style="style_0">DUE TO THE DISCOVERY</span></p>
+<p begin="2274775001t" end="2293542500t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle107"><span style="style_0">OF UNDERGROUND RUINS</span></p>
+<p begin="2294795001t" end="2333165000t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle108"><span style="style_0">LEFT BY THE FORMER</span></p>
+<p begin="2294795001t" end="2333165000t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle109"><span style="style_0">INHABITANTS OF THIS WORLD.</span></p>
+<p begin="2334417501t" end="2349855006t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle110"><span style="style_0">ENTERPRISE</span><span style="style0"> TO KORBY,</span></p>
+<p begin="2351107508t" end="2362777500t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle111">WE HAVE YOUR LANDING</p>
+<p begin="2351107508t" end="2362777500t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle112">COORDINATES PINPOINTED.</p>
+<p begin="2364030001t" end="2387807505t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle113">WE'RE PREPARING</p>
+<p begin="2364030001t" end="2387807505t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle114">TO BEAM DOWN A PARTY.</p>
+<p begin="2389060006t" end="2415332502t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 73.96%" xml:id="subtitle115">IT MAY INTEREST YOU</p>
+<p begin="2389060006t" end="2415332502t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle116">THAT WE HAVE ABOARD</p>
+<p begin="2389060006t" end="2415332502t" region="region_02" tts:extent="50.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle117">THIS VESSEL--</p>
+<p begin="2416585003t" end="2434517501t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle118"><span style="style_0">I'VE AN UNUSUAL</span></p>
+<p begin="2416585003t" end="2434517501t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle119"><span style="style_0">REQUEST, CAPTAIN KIRK.</span></p>
+<p begin="2435770002t" end="2459130006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle120"><span style="style_0">BEAM DOWN ALONE,</span></p>
+<p begin="2435770002t" end="2459130006t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle121"><span style="style_0">JUST YOURSELF.</span></p>
+<p begin="2460382507t" end="2489577506t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle122"><span style="style_0">WE'VE MADE DISCOVERIES</span></p>
+<p begin="2460382507t" end="2489577506t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle123"><span style="style_0">OF SUCH A NATURE</span></p>
+<p begin="2490830007t" end="2520442507t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle124"><span style="style_0">THEY MAY REQUIRE</span></p>
+<p begin="2490830007t" end="2520442507t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle125"><span style="style_0">AN EXTRAORDINARY</span></p>
+<p begin="2490830007t" end="2520442507t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle126"><span style="style_0">DECISION FROM YOU.</span></p>
+<p begin="2548802506t" end="2565900002t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle127">THAT IS AN UNUSUAL REQUEST.</p>
+<p begin="2576745003t" end="2615532502t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle128">THE MAN MAKING IT</p>
+<p begin="2576745003t" end="2615532502t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle129">IS DR. ROGER KORBY.</p>
+<p begin="2633882500t" end="2655155001t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle130">YOU'RE CERTAIN</p>
+<p begin="2633882500t" end="2655155001t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle131">YOU RECOGNIZE HIS VOICE?</p>
+<p begin="2656407502t" end="2689777506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle132">HAVE YOU EVER BEEN</p>
+<p begin="2656407502t" end="2689777506t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle133">ENGAGED, MR. SPOCK?</p>
+<p begin="2715215001t" end="2739827506t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle134">OH, YES,</p>
+<p begin="2715215001t" end="2739827506t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle135">IT'S ROGER.</p>
+<p begin="2749837506t" end="2764012500t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle136">AGREED, DOCTOR.</p>
+<p begin="2765265001t" end="2782780000t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle137">HOWEVER, THERE</p>
+<p begin="2765265001t" end="2782780000t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle138">WILL BE TWO OF US.</p>
+<p begin="2784032500t" end="2802800000t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle139">HELLO, ROGER.</p>
+<p begin="2830752507t" end="2842432508t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle140"><span style="style_0">CHRISTINE?</span></p>
+<p begin="2843675000t" end="2854102500t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle141">YES, ROGER.</p>
+<p begin="2855355001t" end="2871210007t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle142"><span style="style_0">DARLING, HOW--</span></p>
+<p begin="2855355001t" end="2871210007t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle143"><span style="style_0">WHERE ARE YOU?</span></p>
+<p begin="2872462508t" end="2892482508t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle144"><span style="style_0">YES, YES, BY ALL MEANS,</span></p>
+<p begin="2872462508t" end="2892482508t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle145"><span style="style_0">CAPTAIN.</span></p>
+<p begin="2893725000t" end="2914997501t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle146"><span style="style_0">I--I HAD</span></p>
+<p begin="2893725000t" end="2914997501t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle147"><span style="style_0">NO IDEA, NO HOPE.</span></p>
+<p begin="2916250002t" end="2928765005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle148"><span style="style_0">DARLING,</span></p>
+<p begin="2916250002t" end="2928765005t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle149"><span style="style_0">ARE YOU ALL RIGHT?</span></p>
+<p begin="2930017506t" end="2943357500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle150">YES, ROGER.</p>
+<p begin="2944610001t" end="2972970000t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle151">EVERYTHING'S</p>
+<p begin="2944610001t" end="2972970000t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle152">ALL RIGHT NOW.</p>
+<p begin="2974222500t" end="2995495001t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle153">WE'RE ON OUR WAY,</p>
+<p begin="2974222500t" end="2995495001t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle154">DOCTOR.</p>
+<p begin="2996747502t" end="3013427500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle155">WE'LL BE WITH YOU</p>
+<p begin="2996747502t" end="3013427500t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle156">IN A MOMENT.</p>
+<p begin="3014680001t" end="3032622508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle157"><span style="style_0">ENTERPRISE</span><span style="style0"> OUT.</span></p>
+<p begin="3186102502t" end="3211132507t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle158">ENERGIZE.</p>
+<p begin="3526025001t" end="3546462502t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle159">HE SAID HE'D BE WAITING.</p>
+<p begin="3547715003t" end="3572745008t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle160">DR. KORBY.</p>
+<p begin="3639892506t" end="3664912500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle161">DR. KORBY.</p>
+<p begin="3679097505t" end="3717467502t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle162">IT'S POSSIBLE WE MAY HAVE</p>
+<p begin="3679097505t" end="3717467502t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle163">HIT THE WRONG ENTRY POINT.</p>
+<p begin="3718720003t" end="3740827506t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle164">KIRK TO<span style="style_0"> ENTERPRISE.</span></p>
+<p begin="3742080007t" end="3760847506t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle165"><span style="style_0">SPOCK HERE, CAPTAIN.</span></p>
+<p begin="3762100007t" end="3789625005t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle166">BEAM DOWN...</p>
+<p begin="3790877506t" end="3809645005t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle167">TWO SECURITY MEN.</p>
+<p begin="3810897506t" end="3822577508t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle168"><span style="style_0">ANY PROBLEMS,</span></p>
+<p begin="3810897506t" end="3822577508t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle169"><span style="style_0">CAPTAIN?</span></p>
+<p begin="3823819999t" end="3841762507t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle170">SOME DELAY</p>
+<p begin="3823819999t" end="3841762507t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle171">IN MEETING US.</p>
+<p begin="3843015008t" end="3860947506t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle172">PROBABLY NOTHING</p>
+<p begin="3843015008t" end="3860947506t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle173">AT ALL. KIRK OUT.</p>
+<p begin="3875122500t" end="3902240007t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle174">CORRIDORS COULD BE</p>
+<p begin="3875122500t" end="3902240007t" region="region_01" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle175">QUITE DEEP.</p>
+<p begin="3947280002t" end="3969387505t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle176">GETTING HERE MAY</p>
+<p begin="3947280002t" end="3969387505t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle177">HAVE TAKEN MORE TIME</p>
+<p begin="3947280002t" end="3969387505t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle178">THAN HE ESTIMATED.</p>
+<p begin="3970640006t" end="3988155003t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle179">DON'T WORRY.</p>
+<p begin="3989407505t" end="4005670001t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle180">THANK YOU.</p>
+<p begin="4124955000t" end="4148732503t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle181">RAYBURN,</p>
+<p begin="4124955000t" end="4148732503t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle182">MAINTAIN POST HERE.</p>
+<p begin="4149985005t" end="4167917502t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="60.00% 73.96%" xml:id="subtitle183">YES, SIR.</p>
+<p begin="4169170003t" end="4185432500t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle184">MATHEWS, WE'LL LOOK FOR</p>
+<p begin="4169170003t" end="4185432500t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle185">DR. KORBY. YOU ACCOMPANY US.</p>
+<p begin="4186685001t" end="4206287501t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle186">YES, SIR.</p>
+<p begin="4809392503t" end="4830247505t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="45.00% 84.62%" xml:id="subtitle187">AAH!</p>
+<p begin="4831500006t" end="4852355006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle188">[CLATTERING]</p>
+<p begin="5200200003t" end="5224395008t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle189">IS THAT YOU,</p>
+<p begin="5200200003t" end="5224395008t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle190">DR. KORBY?</p>
+<p begin="5261930006t" end="5281950006t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle191">DR. BROWN!</p>
+<p begin="5261930006t" end="5281950006t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle192">IT'S ROGER'S ASSISTANT.</p>
+<p begin="5283202507t" end="5299047502t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle193">BROWNIE, WHERE'S ROGER?</p>
+<p begin="5300300003t" end="5321155005t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle194">[MAN SCREAMING]</p>
+<p begin="5354942508t" end="5384137508t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle195">BE CAREFUL!</p>
+<p begin="5354942508t" end="5384137508t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle196">PLEASE, BE CAREFUL.</p>
+<p begin="5385380000t" end="5408740002t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle197">IS THERE</p>
+<p begin="5385380000t" end="5408740002t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle198">A PATH DOWN THERE?</p>
+<p begin="5409992503t" end="5431265005t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle199">THERE'S NO HOPE,</p>
+<p begin="5409992503t" end="5431265005t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle200">CAPTAIN. IT'S BOTTOMLESS.</p>
+<p begin="5432517506t" end="5447110001t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle201">HE MUST HAVE SLIPPED.</p>
+<p begin="5448362502t" end="5470052503t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle202">ANY CHANCE OF</p>
+<p begin="5448362502t" end="5470052503t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle203">A PROJECTION OR A LEDGE?</p>
+<p begin="5471305005t" end="5489655003t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle204">NONE, CAPTAIN.</p>
+<p begin="5576822500t" end="5609357502t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle205">UNFORTUNATE.</p>
+<p begin="5610610003t" end="5631047505t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle206">TERRIBLY UNFORTUNATE.</p>
+<p begin="5632300006t" end="5647727501t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle207">DR. KORBY WAS DETAINED.</p>
+<p begin="5648980002t" end="5678592502t" region="region_00" tts:extent="15.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle208">I CAME</p>
+<p begin="5648980002t" end="5678592502t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle209">AS SOON AS I COULD.</p>
+<p begin="5690272503t" end="5706117500t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle210">NOT SOON ENOUGH.</p>
+<p begin="5724060007t" end="5739905003t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle211">BROWNIE,</p>
+<p begin="5741157505t" end="5758255001t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle212">WHAT IS IT?</p>
+<p begin="5759507502t" end="5774527508t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle213">EXPLAIN.</p>
+<p begin="5775770000t" end="5796207500t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle214">DON'T YOU RECOGNIZE ME?</p>
+<p begin="5817480001t" end="5835005008t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle215">CHRISTINE.</p>
+<p begin="5836247500t" end="5856685000t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle216">YOU LOOK WELL.</p>
+<p begin="5857937501t" end="5883802507t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle217">MY NAME IS BROWN,</p>
+<p begin="5857937501t" end="5883802507t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle218">DR. KORBY'S ASSISTANT.</p>
+<p begin="5885055008t" end="5904657508t" region="region_00" tts:extent="22.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle219">I PRESUME</p>
+<p begin="5885055008t" end="5904657508t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle220">YOU ARE CAPTAIN KIRK.</p>
+<p begin="5949697502t" end="5973057506t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle221">HE'S DEAD.</p>
+<p begin="5974310007t" end="5990572503t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle222">I ASSURE YOU.</p>
+<p begin="5991825005t" end="6009757502t" region="region_00" tts:extent="22.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle223">COME.</p>
+<p begin="6011010003t" end="6031030003t" region="region_00" tts:extent="22.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle224">DR. KORBY</p>
+<p begin="6011010003t" end="6031030003t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle225">WILL BE WAITING.</p>
+<p begin="6032282506t" end="6055642508t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle226">YOU DO KNOW HIM WELL?</p>
+<p begin="6057302500t" end="6073575006t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle227">AN OLD FRIEND?</p>
+<p begin="6084420007t" end="6127372500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle228">WELL, I SUPPOSE LIVING HERE</p>
+<p begin="6084420007t" end="6127372500t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle229">FOR FIVE YEARS...</p>
+<p begin="6218715001t" end="6245832508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle230">CAPTAIN KIRK</p>
+<p begin="6218715001t" end="6245832508t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle231">TO RAYBURN. REPORT.</p>
+<p begin="6247075000t" end="6270852503t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle232"><span style="style_0">ALL QUIET HERE</span></p>
+<p begin="6247075000t" end="6270852503t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle233"><span style="style_0">AT THE ENTRY, CAPTAIN.</span></p>
+<p begin="6272105005t" end="6287532500t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle234">ANY PROBLEMS THERE, SIR?</p>
+<p begin="6288785001t" end="6334252507t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle235"><span style="style_0">WE LOST MATHEWS.</span></p>
+<p begin="6288785001t" end="6334252507t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle236"><span style="style_0">APPARENTLY AN ACCIDENT.</span></p>
+<p begin="6349262502t" end="6388050001t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="37.50% 73.96%" xml:id="subtitle237"><span style="style_0">TELL THE</span><span style="style0"> ENTERPRISE</span></p>
+<p begin="6349262502t" end="6388050001t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle238"><span style="style_0">TO HAVE A FULL SECURITY</span></p>
+<p begin="6349262502t" end="6388050001t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle239"><span style="style_0">PARTY STANDING BY.</span></p>
+<p begin="6389302502t" end="6408070001t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle240">YES, SIR.</p>
+<p begin="6409322502t" end="6444362507t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle241"><span style="style_0">AND WE'LL BOTH REPORT</span></p>
+<p begin="6409322502t" end="6444362507t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle242"><span style="style_0">IN AT HOURLY INTERVALS.</span></p>
+<p begin="6445615008t" end="6466877500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle243"><span style="style_0">IF YOU AND I</span></p>
+<p begin="6445615008t" end="6466877500t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle244"><span style="style_0">LOSE CONTACT,</span></p>
+<p begin="6468130001t" end="6493577506t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle245"><span style="style_0">OR IF HE FAILS TO HEAR</span></p>
+<p begin="6468130001t" end="6493577506t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle246"><span style="style_0">FROM EITHER OF US,</span></p>
+<p begin="6494830007t" end="6543210006t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="32.50% 73.96%" xml:id="subtitle247"><span style="style_0">HE'S TO BEAM</span></p>
+<p begin="6494830007t" end="6543210006t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle248"><span style="style_0">THE SECURITY PARTY DOWN</span></p>
+<p begin="6494830007t" end="6543210006t" region="region_02" tts:extent="77.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle249"><span style="style_0">IMMEDIATELY. KIRK OUT.</span></p>
+<p begin="6623290006t" end="6639970002t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle250">DR. KORBY HAS DISCOVERED</p>
+<p begin="6641222503t" end="6659572502t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle251">THAT AS THEIR SUN DIMMED,</p>
+<p begin="6660825003t" end="6676262508t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle252">THE INHABITANTS</p>
+<p begin="6660825003t" end="6676262508t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle253">OF THIS PLANET</p>
+<p begin="6660825003t" end="6676262508t" region="region_02" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle254">MOVED UNDERGROUND</p>
+<p begin="6677505000t" end="6725477508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle255">FROM AN OPEN ENVIRONMENT</p>
+<p begin="6677505000t" end="6725477508t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle256">TO THIS DARK WORLD.</p>
+<p begin="6726719999t" end="6746332508t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle257">WHEN YOU WERE</p>
+<p begin="6726719999t" end="6746332508t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle258">A STUDENT OF HIS,</p>
+<p begin="6726719999t" end="6746332508t" region="region_02" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle259">CHRISTINE,</p>
+<p begin="6747575000t" end="6783867506t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle260">YOU MUST HAVE OFTEN</p>
+<p begin="6747575000t" end="6783867506t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle261">HEARD DR. KORBY REMARK</p>
+<p begin="6785120007t" end="6833082506t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle262">HOW FREEDOM OF MOVEMENT</p>
+<p begin="6785120007t" end="6833082506t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle263">AND CHOICE PRODUCED</p>
+<p begin="6785120007t" end="6833082506t" region="region_02" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle264">THE HUMAN SPIRIT.</p>
+<p begin="6834335006t" end="6873122506t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle265">THE CULTURE OF EXO-III</p>
+<p begin="6834335006t" end="6873122506t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle266">PROVED HIS THEORY.</p>
+<p begin="6874375006t" end="6908152500t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle267">WHEN THEY MOVED</p>
+<p begin="6874375006t" end="6908152500t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle268">FROM LIGHT TO DARKNESS,</p>
+<p begin="6909405001t" end="6950697502t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle269">THEY REPLACED FREEDOM</p>
+<p begin="6909405001t" end="6950697502t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle270">WITH A MECHANISTIC CULTURE.</p>
+<p begin="6951950003t" end="7002417505t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle271">DR. KORBY HAS BEEN ABLE</p>
+<p begin="6951950003t" end="7002417505t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle272">TO UNCOVER ELEMENTS</p>
+<p begin="6951950003t" end="7002417505t" region="region_02" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle273">OF THIS CULTURE</p>
+<p begin="7003670006t" end="7023272506t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle274">WHICH WILL REVOLUTIONIZE</p>
+<p begin="7003670006t" end="7023272506t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle275">THE UNIVERSE</p>
+<p begin="7024525006t" end="7059555001t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle276">WHEN FREED FROM</p>
+<p begin="7024525006t" end="7059555001t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle277">THIS CAVERNOUS ENVIRONMENT.</p>
+<p begin="7372370003t" end="7391555003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle278">I'M ANDREA.</p>
+<p begin="7392807505t" end="7430342502t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle279">YOU MUST BE CHRISTINE.</p>
+<p begin="7431595003t" end="7469547501t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle280">I'VE ALWAYS THOUGHT HOW</p>
+<p begin="7431595003t" end="7469547501t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle281">BEAUTIFUL YOUR NAME IS.</p>
+<p begin="7515015006t" end="7533782506t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle282">AND YOU</p>
+<p begin="7515015006t" end="7533782506t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle283">MUST BE CAPTAIN KIRK</p>
+<p begin="7535035006t" end="7557967500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle284">OF THE STARSHIP</p>
+<p begin="7535035006t" end="7557967500t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle285"><span style="style_0">ENTERPRISE.</span></p>
+<p begin="7559220001t" end="7601765003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle286">WE APPRECIATE</p>
+<p begin="7559220001t" end="7601765003t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle287">YOU BRINGING ROGER'S</p>
+<p begin="7559220001t" end="7601765003t" region="region_02" tts:extent="67.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle288">FIANCÉE TO HIM.</p>
+<p begin="7603017505t" end="7625960007t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="17.50% 79.29%" xml:id="subtitle289">I DON'T REMEMBER DR. KORBY</p>
+<p begin="7603017505t" end="7625960007t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="17.50% 84.62%" xml:id="subtitle290">MENTIONING AN ANDREA.</p>
+<p begin="7657242508t" end="7691855003t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle291">BUT YOU ARE EXACTLY</p>
+<p begin="7657242508t" end="7691855003t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle292">AS ROGER DESCRIBED YOU.</p>
+<p begin="7693107505t" end="7711040002t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle293">NO WONDER</p>
+<p begin="7693107505t" end="7711040002t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle294">HE MISSED YOU SO.</p>
+<p begin="7712292503t" end="7723972506t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle295">WHERE IS DR. KORBY?</p>
+<p begin="7725225006t" end="7741070002t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle296">HERE, CAPTAIN.</p>
+<p begin="7752332503t" end="7773605005t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle297">I, UH...</p>
+<p begin="7774857506t" end="7798625000t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle298">I'VE BEEN LOOKING</p>
+<p begin="7774857506t" end="7798625000t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle299">FORWARD TO--</p>
+<p begin="7972970003t" end="7997165008t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle300">OH, I KNEW</p>
+<p begin="7972970003t" end="7997165008t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle301">I'D FIND YOU.</p>
+<p begin="7998407500t" end="8036370007t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle302">EVERYTHING'S</p>
+<p begin="7998407500t" end="8036370007t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle303">ALL RIGHT NOW.</p>
+<p begin="8090585001t" end="8107692508t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle304">OH.</p>
+<p begin="8108935000t" end="8130207501t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle305">FORGIVE ME, CAPTAIN.</p>
+<p begin="8131460002t" end="8161490002t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle306">I'M, UH, I'M ROGER KORBY.</p>
+<p begin="8162742503t" end="8183597505t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle307">THERE'S NO NEED</p>
+<p begin="8162742503t" end="8183597505t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle308">TO APOLOGIZE, SIR,</p>
+<p begin="8184850006t" end="8202782503t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle309">AND CERTAINLY NO NEED</p>
+<p begin="8184850006t" end="8202782503t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle310">TO INTRODUCE YOURSELF.</p>
+<p begin="8204035005t" end="8235317506t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle311">THE CAPTAIN LOST</p>
+<p begin="8204035005t" end="8235317506t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle312">A MAN IN THE CAVERNS,</p>
+<p begin="8204035005t" end="8235317506t" region="region_02" tts:extent="37.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle313">DOCTOR.</p>
+<p begin="8236570007t" end="8251997502t" region="region_00" tts:extent="22.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle314">WHAT?</p>
+<p begin="8253250003t" end="8264512506t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle315">HOW DID IT HAPPEN?</p>
+<p begin="8265765006t" end="8287037508t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle316">THE PIT NEAR</p>
+<p begin="8265765006t" end="8287037508t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle317">THE OUTER JUNCTION.</p>
+<p begin="8288279999t" end="8308717500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle318">THE EDGE</p>
+<p begin="8288279999t" end="8308717500t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle319">MUST HAVE GIVEN WAY.</p>
+<p begin="8309970001t" end="8335417506t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle320">I'M TERRIBLY SORRY,</p>
+<p begin="8309970001t" end="8335417506t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle321">CAPTAIN.</p>
+<p begin="8336670007t" end="8352515003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle322">PERHAPS</p>
+<p begin="8336670007t" end="8352515003t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle323">IF I'D BEEN THERE--</p>
+<p begin="8353767505t" end="8370030001t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle324">I KNOW THE PASSAGES</p>
+<p begin="8353767505t" end="8370030001t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle325">SO WELL.</p>
+<p begin="8371282502t" end="8381292502t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle326">IT WASN'T YOUR FAULT.</p>
+<p begin="8382545003t" end="8412575003t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle327">KIRK TO RAYBURN. REPORT.</p>
+<p begin="8413827505t" end="8436352507t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle328">I'M REQUIRED TO MAKE</p>
+<p begin="8413827505t" end="8436352507t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle329">A SECURITY CONFIRMATION.</p>
+<p begin="8437605008t" end="8452197502t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="17.50% 79.29%" xml:id="subtitle330">WHEN I CALL MY SHIP,</p>
+<p begin="8437605008t" end="8452197502t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="17.50% 84.62%" xml:id="subtitle331">IF YOU LIST YOUR PERSONNEL,</p>
+<p begin="8453450003t" end="8463042503t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle332">CARGO REQUIREMENTS,</p>
+<p begin="8453450003t" end="8463042503t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle333">ANY SPECIAL NEEDS--</p>
+<p begin="8464295005t" end="8485150006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle334">CAPTAIN,</p>
+<p begin="8464295005t" end="8485150006t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle335">I'D MUCH PREFER--</p>
+<p begin="8486402507t" end="8493907505t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle336">RAYBURN,</p>
+<p begin="8486402507t" end="8493907505t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle337">ARE YOU RECEIVING?</p>
+<p begin="8495160006t" end="8504752506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle338">I'D PREFER YOU WAITED,</p>
+<p begin="8495160006t" end="8504752506t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle339">CAPTAIN,</p>
+<p begin="8506005006t" end="8532277502t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle340">PLEASE, TILL</p>
+<p begin="8506005006t" end="8532277502t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle341">I'VE TALKED TO YOU.</p>
+<p begin="8533530003t" end="8563560003t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle342">I'VE LOST CONTACT</p>
+<p begin="8533530003t" end="8563560003t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle343">WITH MY GUARD.</p>
+<p begin="8533530003t" end="8563560003t" region="region_02" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle344">I MUST CALL MY SHIP.</p>
+<p begin="8564812506t" end="8591502502t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle345">NO COMMUNICATIONS,</p>
+<p begin="8564812506t" end="8591502502t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle346">CAPTAIN.</p>
+<p begin="8592755003t" end="8602765003t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle347">ROGER!</p>
+<p begin="8604017505t" end="8622785003t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle348">I'M SORRY.</p>
+<p begin="8624037505t" end="8635300006t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle349">IF THEY SHOULD SEND</p>
+<p begin="8624037505t" end="8635300006t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle350">DOWN MORE PEOPLE--</p>
+<p begin="8636552507t" end="8644892506t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle351">ROGER, THAT--</p>
+<p begin="8646145006t" end="8673670003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle352">HE WON'T BE HARMED.</p>
+<p begin="8646145006t" end="8673670003t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle353">I PROMISE YOU.</p>
+<p begin="8674922506t" end="8696612507t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle354">ISN'T IT POSSIBLE THERE</p>
+<p begin="8674922506t" end="8696612507t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle355">COULD BE THINGS HERE</p>
+<p begin="8697865008t" end="8725807506t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle356">UNKNOWN TO YOU</p>
+<p begin="8697865008t" end="8725807506t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle357">SO TERRIBLY IMPORTANT--</p>
+<p begin="8727060007t" end="8744157505t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle358">SIR, ONE MAN IS DEAD.</p>
+<p begin="8745410006t" end="8768760000t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle359">I'VE LOST CONTACT</p>
+<p begin="8745410006t" end="8768760000t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle360">WITH THE OTHER.</p>
+<p begin="8770012500t" end="8794207505t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle361">ANDREA.</p>
+<p begin="8813392503t" end="8832995003t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle362">WHAT ARE YOU DOING?</p>
+<p begin="8834247505t" end="8857607508t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle363">THIS IS NECESSARY,</p>
+<p begin="8834247505t" end="8857607508t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle364">CAPTAIN.</p>
+<p begin="8858850000t" end="8881375001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle365">YOU WILL UNDERSTAND.</p>
+<p begin="8882627502t" end="8898890000t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle366">ANDREA.</p>
+<p begin="9070312500t" end="9085332506t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle367">DROP IT!</p>
+<p begin="9199607500t" end="9218802508t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="60.00% 79.29%" xml:id="subtitle368">[CHRISTINE]</p>
+<p begin="9199607500t" end="9218802508t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle369">OHH!</p>
+<p begin="9333495003t" end="9363107502t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle370">ENTERPRISE</p>
+<p begin="9333495003t" end="9363107502t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle371"><span style="style_0">FROM CAPTAIN KIRK.</span></p>
+<p begin="9333495003t" end="9363107502t" region="region_02" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle372"><span style="style_0">COME IN. DO YOU READ?</span></p>
+<p begin="9364360003t" end="9403982503t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle373">FREQUENCY OPEN,</p>
+<p begin="9364360003t" end="9403982503t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle374">MR. SPOCK.</p>
+<p begin="9405235005t" end="9421915001t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle375">SPOCK HERE, CAPTAIN.</p>
+<p begin="9423167502t" end="9445692506t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle376"><span style="style_0">CONTACT ESTABLISHED</span></p>
+<p begin="9423167502t" end="9445692506t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle377"><span style="style_0">WITH DR. KORBY.</span></p>
+<p begin="9446945006t" end="9469460000t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle378">WE WERE BECOMING</p>
+<p begin="9446945006t" end="9469460000t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle379">CONCERNED, CAPTAIN.</p>
+<p begin="9470712500t" end="9485732506t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="17.50% 84.62%" xml:id="subtitle380">YOUR CHECK-IN WAS OVERDUE,</p>
+<p begin="9486985006t" end="9495742506t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle381">AND SINCE WE'D NOT HEARD</p>
+<p begin="9486985006t" end="9495742506t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle382">FROM YOUR SECURITY TEAM--</p>
+<p begin="9496995006t" end="9522850002t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle383"><span style="style_0">NO PROBLEM, MR. SPOCK.</span></p>
+<p begin="9496995006t" end="9522850002t" region="region_01" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle384"><span style="style_0">BEAR WITH ME.</span></p>
+<p begin="9524102503t" end="9549132508t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="32.50% 73.96%" xml:id="subtitle385">[KIRK'S VOICE]</p>
+<p begin="9524102503t" end="9549132508t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle386">WE'LL RETURN TO THE SHIP</p>
+<p begin="9524102503t" end="9549132508t" region="region_02" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle387">WITHIN 48 HOURS.</p>
+<p begin="9550375000t" end="9588755008t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle388">DR. KORBY'S RECORDS</p>
+<p begin="9550375000t" end="9588755008t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle389">AND SPECIMENS WILL</p>
+<p begin="9550375000t" end="9588755008t" region="region_02" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle390">REQUIRE CAREFUL PACKING.</p>
+<p begin="9603765003t" end="9640047500t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle391">CAPTAIN,</p>
+<p begin="9603765003t" end="9640047500t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle392">ARE YOU ALL RIGHT?</p>
+<p begin="9603765003t" end="9640047500t" region="region_02" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle393">YOU SOUND TIRED.</p>
+<p begin="9641300001t" end="9665495005t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle394">IF YOU MOVE OR CRY OUT,</p>
+<p begin="9641300001t" end="9665495005t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle395">RUK MAY INJURE YOU.</p>
+<p begin="9666747506t" end="9693855003t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="32.50% 73.96%" xml:id="subtitle396">AT LEAST WAIT</p>
+<p begin="9666747506t" end="9693855003t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle397">UNTIL YOU AND I</p>
+<p begin="9666747506t" end="9693855003t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle398">CAN TALK.</p>
+<p begin="9695107505t" end="9723050002t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="42.50% 73.96%" xml:id="subtitle399">[SPOCK]</p>
+<p begin="9695107505t" end="9723050002t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="25.00% 79.29%" xml:id="subtitle400"><span style="style_0">ACKNOWLEDGE, CAPTAIN.</span></p>
+<p begin="9695107505t" end="9723050002t" region="region_02" tts:extent="72.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle401"><span style="style_0">IS EVERYTHING ALL RIGHT?</span></p>
+<p begin="9724302503t" end="9738487508t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle402"><span style="style_0">FINE, MR. SPOCK.</span></p>
+<p begin="9739730000t" end="9770595000t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle403"><span style="style_0">DR. KORBY HAS MADE SOME</span></p>
+<p begin="9739730000t" end="9770595000t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle404"><span style="style_0">FASCINATING DISCOVERIES.</span></p>
+<p begin="9771847501t" end="9785615005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle405"><span style="style_0">ALL UNDER CONTROL.</span></p>
+<p begin="9786867506t" end="9827742507t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle406"><span style="style_0">STAND BY FOR REGULAR</span></p>
+<p begin="9786867506t" end="9827742507t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle407"><span style="style_0">CONTACT. KIRK OUT.</span></p>
+<p begin="9828995008t" end="9854432503t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle408">THIS IS NOT</p>
+<p begin="9828995008t" end="9854432503t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle409">A VAIN DISPLAY, CAPTAIN.</p>
+<p begin="9855685005t" end="9871112500t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle410">I'M A SCIENTIST.</p>
+<p begin="9872365001t" end="9893220002t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle411">YOU OBVIOUSLY KNOW</p>
+<p begin="9872365001t" end="9893220002t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle412">OF MY REPUTATION.</p>
+<p begin="9894472503t" end="9912822502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle413">TRUST ME.</p>
+<p begin="9914075003t" end="9939105008t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle414">YES, I KNOW</p>
+<p begin="9914075003t" end="9939105008t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle415">YOUR REPUTATION.</p>
+<p begin="9940347500t" end="9982475001t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle416">THE WHOLE GALAXY</p>
+<p begin="9940347500t" end="9982475001t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle417">KNOWS WHO YOU ARE</p>
+<p begin="9940347500t" end="9982475001t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle418">AND WHAT YOU STAND FOR.</p>
+<p begin="9983727502t" end="10010835000t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle419">THAT'S WHY ALL THIS</p>
+<p begin="9983727502t" end="10010835000t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle420">MAKES NO SENSE.</p>
+<p begin="10012087501t" end="10035030003t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle421">THERE IS SO MUCH</p>
+<p begin="10012087501t" end="10035030003t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle422">YOU MUST LEARN</p>
+<p begin="10036282506t" end="10059225008t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle423">BEFORE YOU MAKE</p>
+<p begin="10036282506t" end="10059225008t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle424">A FINAL JUDGMENT.</p>
+<p begin="10060467500t" end="10072565001t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle425">FOR EXAMPLE...</p>
+<p begin="10083410002t" end="10098012507t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle426">ANDREA.</p>
+<p begin="10115110003t" end="10147645006t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle427">[ANDREA'S VOICE]</p>
+<p begin="10115110003t" end="10147645006t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle428">YOU MUST BE</p>
+<p begin="10115110003t" end="10147645006t" region="region_02" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle429">CAPTAIN KIRK...</p>
+<p begin="10148897508t" end="10181840001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle430">OF THE STARSHIP</p>
+<p begin="10148897508t" end="10181840001t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle431"><span style="style_0">ENTERPRISE.</span></p>
+<p begin="10210200000t" end="10259007508t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="27.50% 73.96%" xml:id="subtitle432">[KORBY'S VOICE]</p>
+<p begin="10210200000t" end="10259007508t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle433">CHRISTINE,</p>
+<p begin="10210200000t" end="10259007508t" region="region_02" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle434">IT'S ALL RIGHT NOW.</p>
+<p begin="10260250000t" end="10274435003t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle435">YOU SEE, CAPTAIN?</p>
+<p begin="10275687505t" end="10288202507t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle436">[CHRISTINE'S VOICE]</p>
+<p begin="10275687505t" end="10288202507t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle437">YES, ROGER.</p>
+<p begin="10289455008t" end="10312805001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle438">EVERYTHING</p>
+<p begin="10289455008t" end="10312805001t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle439">IS ALL RIGHT NOW.</p>
+<p begin="10314057502t" end="10339922508t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle440">THAT'S ENOUGH.</p>
+<p begin="10341165000t" end="10362437501t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle441">YOU ARE NOT</p>
+<p begin="10341165000t" end="10362437501t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle442">TO MOCK CHRISTINE.</p>
+<p begin="10363690002t" end="10382457501t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle443">YOU WILL</p>
+<p begin="10363690002t" end="10382457501t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle444">NEVER HARM HER.</p>
+<p begin="10383710002t" end="10395807505t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle445">OR DISOBEY</p>
+<p begin="10383710002t" end="10395807505t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle446">AN ORDER FROM HER.</p>
+<p begin="10424585003t" end="10459207508t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle447">YOU WILL NOT DISOBEY</p>
+<p begin="10424585003t" end="10459207508t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle448">HER ORDERS.</p>
+<p begin="10460450000t" end="10480062508t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle449">SATISFIED,</p>
+<p begin="10460450000t" end="10480062508t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle450">CAPTAIN KIRK?</p>
+<p begin="10481305000t" end="10505082503t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle451">BOTH LOVE AND TRUST.</p>
+<p begin="10506335005t" end="10550540000t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle452">NOW GIVE ME 24 HOURS</p>
+<p begin="10506335005t" end="10550540000t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle453">TO CONVINCE YOU.</p>
+<p begin="10551792500t" end="10579327508t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle454">DOCTOR, DO I NEED</p>
+<p begin="10551792500t" end="10579327508t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle455">TO BE A PRISONER</p>
+<p begin="10551792500t" end="10579327508t" region="region_02" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle456">TO BE CONVINCED?</p>
+<p begin="10580570000t" end="10624367502t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle457">WHAT WOULD</p>
+<p begin="10580570000t" end="10624367502t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle458">YOUR FIRST DUTY BE UPON</p>
+<p begin="10580570000t" end="10624367502t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle459">RETURN TO YOUR VESSEL?</p>
+<p begin="10625620003t" end="10652727501t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="27.50% 73.96%" xml:id="subtitle460">A REPORT. DO YOU</p>
+<p begin="10625620003t" end="10652727501t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle461">REALIZE THE NUMBER</p>
+<p begin="10625620003t" end="10652727501t" region="region_02" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle462">OF DISCOVERIES LOST</p>
+<p begin="10653980002t" end="10673582502t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle463">BECAUSE OF SUPERSTITION?</p>
+<p begin="10653980002t" end="10673582502t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle464">OF IGNORANCE?</p>
+<p begin="10674835003t" end="10707370006t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle465">OF A LAYMAN'S INABILITY</p>
+<p begin="10674835003t" end="10707370006t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle466">TO COMPREHEND?</p>
+<p begin="10708622507t" end="10736565005t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle467">A SIMPLE LAYMAN'S</p>
+<p begin="10708622507t" end="10736565005t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle468">QUESTION, DOCTOR...</p>
+<p begin="10785780003t" end="10808305006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle469">WHERE IS</p>
+<p begin="10785780003t" end="10808305006t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle470">MY OTHER CREWMAN?</p>
+<p begin="10809557508t" end="10826655005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle471">ALIVE?</p>
+<p begin="10827907506t" end="10843752502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle472">DEAD?</p>
+<p begin="10845005003t" end="10866277505t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle473">RUK WAS PROGRAMMED TO</p>
+<p begin="10845005003t" end="10866277505t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle474">PROTECT MY EXPERIMENTS.</p>
+<p begin="10867530006t" end="10902560001t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle475">THE LOGIC OF HIS MACHINE</p>
+<p begin="10867530006t" end="10902560001t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle476">MIND SAW DANGER TO ME.</p>
+<p begin="10903812502t" end="10925920003t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle477">WHERE IS MY OTHER CREWMAN?</p>
+<p begin="10927172506t" end="10954280002t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle478">RUK DESTROYED THEM BOTH,</p>
+<p begin="10955532503t" end="10989320007t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle479">BUT TOTALLY AGAINST</p>
+<p begin="10955532503t" end="10989320007t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle480">MY WISHES, I ASSURE YOU.</p>
+<p begin="11015175003t" end="11045622503t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle481">HE'S AN ANDROID...</p>
+<p begin="11015175003t" end="11045622503t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle482">LIKE BROWN?</p>
+<p begin="11046875005t" end="11079827508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle483">MORE COMPLEX THAN BROWN.</p>
+<p begin="11081070000t" end="11116110003t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle484">MUCH SUPERIOR.</p>
+<p begin="11117362506t" end="11157820006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle485">I WAS LEFT HERE</p>
+<p begin="11117362506t" end="11157820006t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle486">BY THE OLD ONES.</p>
+<p begin="11159072507t" end="11187850006t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle487">RUK WAS STILL</p>
+<p begin="11159072507t" end="11187850006t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle488">TENDING THE MACHINERY</p>
+<p begin="11159072507t" end="11187850006t" region="region_02" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle489">WHEN WE ARRIVED HERE.</p>
+<p begin="11189102507t" end="11219967508t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle490">HOW MANY CENTURIES?</p>
+<p begin="11233725001t" end="11264172502t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle491">EVEN RUK DOESN'T KNOW.</p>
+<p begin="11265425003t" end="11290037508t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="32.50% 73.96%" xml:id="subtitle492">WITH HIS HELP,</p>
+<p begin="11265425003t" end="11290037508t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle493">WITH THE RECORDS</p>
+<p begin="11265425003t" end="11290037508t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle494">I COULD FIND,</p>
+<p begin="11291280000t" end="11309222507t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle495">WE BUILT BROWN.</p>
+<p begin="11310475008t" end="11350097508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle496">YOU'VE CONVINCED ME,</p>
+<p begin="11310475008t" end="11350097508t" region="region_01" tts:extent="27.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle497">DOCTOR.</p>
+<p begin="11351340000t" end="11375535003t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle498">YOU'VE CONVINCED ME</p>
+<p begin="11351340000t" end="11375535003t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle499">THAT YOU'RE DANGEROUS.</p>
+<p begin="11423915001t" end="11436012503t" region="region_00" tts:extent="17.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle500">[CRASH]</p>
+<p begin="11456450003t" end="11478140006t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="70.00% 84.62%" xml:id="subtitle501">RUK, NO!</p>
+<p begin="11571977500t" end="11593667501t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle502">I DO NOT UNDERSTAND.</p>
+<p begin="11642047500t" end="11662902500t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle503">WHY ARE YOU UNHAPPY?</p>
+<p begin="11664155001t" end="11688350006t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle504">YOU ARE</p>
+<p begin="11664155001t" end="11688350006t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle505">WITH ROGER AGAIN.</p>
+<p begin="11689602507t" end="11715040002t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle506">WHERE IS CAPTAIN KIRK?</p>
+<p begin="11782187500t" end="11800965008t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle507">YOU ARE CONCERNED</p>
+<p begin="11782187500t" end="11800965008t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle508">ABOUT THE CAPTAIN?</p>
+<p begin="11802207500t" end="11825567502t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle509">YES, I AM CONCERNED.</p>
+<p begin="11849762507t" end="11890637508t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle510">HOW CAN YOU LOVE ROGER</p>
+<p begin="11849762507t" end="11890637508t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="12.50% 84.62%" xml:id="subtitle511">WITHOUT TRUSTING HIM?</p>
+<p begin="11915657502t" end="11953192500t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle512">WHY DOES IT</p>
+<p begin="11915657502t" end="11953192500t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle513">BOTHER YOU WHEN</p>
+<p begin="11915657502t" end="11953192500t" region="region_02" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle514">I USE THE NAME ROGER?</p>
+<p begin="11954445001t" end="11975300002t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle515">ANDREA,</p>
+<p begin="11976552503t" end="12005747502t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle516">IT'S SUFFICIENT THAT</p>
+<p begin="11976552503t" end="12005747502t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle517">IT DOES DISTURB HER.</p>
+<p begin="12027437505t" end="12070817508t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle518">YOU WILL CALL ME</p>
+<p begin="12027437505t" end="12070817508t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="42.50% 79.29%" xml:id="subtitle519">DR. KORBY FROM</p>
+<p begin="12027437505t" end="12070817508t" region="region_02" tts:extent="70.00% 5.33%" tts:origin="42.50% 84.62%" xml:id="subtitle520">NOW ON, ANDREA.</p>
+<p begin="12072060000t" end="12085827502t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle521">YES, DR. KORBY.</p>
+<p begin="12105430002t" end="12129207506t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle522">I DIDN'T MEAN</p>
+<p begin="12105430002t" end="12129207506t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle523">TO EAVESDROP, DARLING.</p>
+<p begin="12130460007t" end="12159237506t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle524">AS YOU CAN SEE, UH,</p>
+<p begin="12160490007t" end="12177170003t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle525">CAPTAIN KIRK IS FINE.</p>
+<p begin="12160490007t" end="12177170003t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle526">HE WON'T BE HARMED.</p>
+<p begin="12178422506t" end="12204695001t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle527">THE THINGS AT STAKE HERE</p>
+<p begin="12178422506t" end="12204695001t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle528">SIMPLY MAKE IT NECESSARY</p>
+<p begin="12205947502t" end="12234307501t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle529">HE DOESN'T SEND</p>
+<p begin="12205947502t" end="12234307501t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle530">A REPORT TO HIS SHIP.</p>
+<p begin="12235560002t" end="12268930006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle531">I NEED TIME TO EXPLAIN</p>
+<p begin="12235560002t" end="12268930006t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle532">AND DEMONSTRATE...</p>
+<p begin="12270182507t" end="12293950001t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle533">TO HIM AND TO YOU.</p>
+<p begin="12295202502t" end="12316892503t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle534">NOW SHALL</p>
+<p begin="12295202502t" end="12316892503t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle535">WE START WITH ANDREA?</p>
+<p begin="12318145005t" end="12356932503t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle536">YES, LET'S</p>
+<p begin="12318145005t" end="12356932503t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle537">START WITH ANDREA.</p>
+<p begin="12395720002t" end="12442022508t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle538">I'M LIKE DR. BROWN--</p>
+<p begin="12395720002t" end="12442022508t" region="region_01" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle539">AN ANDROID.</p>
+<p begin="12482470000t" end="12505830002t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle540">DIDN'T YOU KNOW?</p>
+<p begin="12525432502t" end="12549627506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle541">REMARKABLE, ISN'T SHE?</p>
+<p begin="12550880007t" end="12575482502t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle542">NOTICE THE--</p>
+<p begin="12576735003t" end="12591755008t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle543">THE LIFELIKE</p>
+<p begin="12576735003t" end="12591755008t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle544">PIGMENTATION,</p>
+<p begin="12592997500t" end="12618862506t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle545">THE VARIATION</p>
+<p begin="12592997500t" end="12618862506t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle546">IN SKIN TONES.</p>
+<p begin="12620115006t" end="12650980007t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle547">THE FLESH--</p>
+<p begin="12620115006t" end="12650980007t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle548">THE FLESH HAS WARMTH.</p>
+<p begin="12652232508t" end="12671835008t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle549">THERE'S EVEN A PULSE,</p>
+<p begin="12673077500t" end="12688515005t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle550">PHYSICAL SENSATION.</p>
+<p begin="12689767506t" end="12711875008t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle551">HOW CONVENIENT.</p>
+<p begin="12723127500t" end="12737312503t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle552">CHRISTINE,</p>
+<p begin="12738565005t" end="12774847501t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle553">YOU MUST REALIZE</p>
+<p begin="12738565005t" end="12774847501t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle554">AN ANDROID IS</p>
+<p begin="12738565005t" end="12774847501t" region="region_02" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle555">LIKE A COMPUTER.</p>
+<p begin="12776100002t" end="12796955003t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle556">IT DOES ONLY</p>
+<p begin="12776100002t" end="12796955003t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle557">WHAT I PROGRAM.</p>
+<p begin="12798207505t" end="12824480001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle558">AS A TRAINED</p>
+<p begin="12798207505t" end="12824480001t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle559">SCIENTIST YOURSELF,</p>
+<p begin="12798207505t" end="12824480001t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle560">YOU MUST REALIZE--</p>
+<p begin="12825732502t" end="12836577502t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle561">THAT GIVEN</p>
+<p begin="12825732502t" end="12836577502t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle562">A MECHANICAL DR. BROWN,</p>
+<p begin="12837830003t" end="12871617508t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle563">A MECHANICAL GEISHA</p>
+<p begin="12837830003t" end="12871617508t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle564">WOULD BE NO MORE DIFFICULT.</p>
+<p begin="12872860000t" end="12889550006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle565">YOU THINK I COULD LOVE</p>
+<p begin="12872860000t" end="12889550006t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle566">A MACHINE?</p>
+<p begin="12890802507t" end="12906230002t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle567">DID YOU?</p>
+<p begin="12923745000t" end="12943347500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle568">ANDREA'S INCAPABLE</p>
+<p begin="12923745000t" end="12943347500t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle569">OF THAT.</p>
+<p begin="12944600001t" end="12969630006t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle570">SHE SIMPLY OBEYS ORDERS.</p>
+<p begin="12970882507t" end="12985892502t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle571">SHE HAS</p>
+<p begin="12970882507t" end="12985892502t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle572">NO MEANING FOR ME.</p>
+<p begin="12987145003t" end="13008417505t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle573">THERE'S</p>
+<p begin="12987145003t" end="13008417505t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle574">NO EMOTIONAL BOND.</p>
+<p begin="13009670006t" end="13030525006t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle575">ANDREA...</p>
+<p begin="13031777508t" end="13060972507t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle576">KISS, UH, CAPTAIN KIRK.</p>
+<p begin="13121032507t" end="13146052502t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle577">NOW STRIKE HIM.</p>
+<p begin="13158985005t" end="13181092507t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle578">YOU SEE?</p>
+<p begin="13182345008t" end="13211540007t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle579">THERE'S NO EMOTION IN IT,</p>
+<p begin="13182345008t" end="13211540007t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle580">NO EMOTIONAL INVOLVEMENT.</p>
+<p begin="13212792508t" end="13236977502t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle581">SHE SIMPLY RESPONDS</p>
+<p begin="13212792508t" end="13236977502t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle582">TO ORDERS.</p>
+<p begin="13238230003t" end="13267842503t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle583">SHE'S A TOTALLY</p>
+<p begin="13238230003t" end="13267842503t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle584">LOGICAL COMPUTER,</p>
+<p begin="13269095005t" end="13288697505t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle585">A THING.</p>
+<p begin="13289950006t" end="13311222507t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle586">NOT A WOMAN.</p>
+<p begin="13312475008t" end="13345835001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle587">NOW DO YOU UNDERSTAND?</p>
+<p begin="13347087502t" end="13384622500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle588">IF THESE MECHANICAL</p>
+<p begin="13347087502t" end="13384622500t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle589">THINGS HAVE NO FEELINGS</p>
+<p begin="13385875001t" end="13407565003t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="25.00% 79.29%" xml:id="subtitle590">AND PERFORM ONLY</p>
+<p begin="13385875001t" end="13407565003t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle591">AS YOU PROGRAM THEM,</p>
+<p begin="13408817505t" end="13429255005t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle592">THEN WHY DID BROWN</p>
+<p begin="13408817505t" end="13429255005t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle593">TRY TO SHOOT ME?</p>
+<p begin="13430507506t" end="13454275000t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle594">WHY DID HE KILL</p>
+<p begin="13430507506t" end="13454275000t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle595">TWO OF MY MEN?</p>
+<p begin="13455527501t" end="13494315000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="27.50% 73.96%" xml:id="subtitle596">THERE ARE</p>
+<p begin="13455527501t" end="13494315000t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle597">MANY THINGS I DON'T</p>
+<p begin="13455527501t" end="13494315000t" region="region_02" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle598">UNDERSTAND, DOCTOR.</p>
+<p begin="13495567501t" end="13545200001t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle599">I WILL ANSWER ALL OF</p>
+<p begin="13495567501t" end="13545200001t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle600">YOUR QUESTIONS...NOW.</p>
+<p begin="13727885003t" end="13752080007t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle601">THIS IS HOW</p>
+<p begin="13727885003t" end="13752080007t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle602">YOU MAKE AN ANDROID.</p>
+<p begin="13761255006t" end="13777100002t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle603">[MACHINE BEEPS]</p>
+<p begin="13839665005t" end="13866772502t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="70.00% 84.62%" xml:id="subtitle604">ANDREA.</p>
+<p begin="14119110003t" end="14136625001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle605">[LOW RUMBLING]</p>
+<p begin="14197937502t" end="14220462506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle606">HE'S NOT BEING HARMED.</p>
+<p begin="14221715006t" end="14240900006t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle607">I PROMISE.</p>
+<p begin="14341417506t" end="14366020001t" region="region_00" tts:extent="15.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle608">ROGER,</p>
+<p begin="14341417506t" end="14366020001t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle609">WHAT'S HAPPENED TO YOU?</p>
+<p begin="14367272502t" end="14380205005t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle610">WHEN I SAT</p>
+<p begin="14367272502t" end="14380205005t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle611">IN YOUR CLASS,</p>
+<p begin="14381457506t" end="14419827505t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle612">YOU WOULDN'T</p>
+<p begin="14381457506t" end="14419827505t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle613">EVEN DREAM OF HARMING</p>
+<p begin="14381457506t" end="14419827505t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle614">AN INSECT OR AN ANIMAL.</p>
+<p begin="14421080006t" end="14449857505t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle615">THEIR LIFE WAS</p>
+<p begin="14421080006t" end="14449857505t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle616">SACRED TO YOU THEN.</p>
+<p begin="14555375000t" end="14585405000t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle617">CHRISTINE,</p>
+<p begin="14555375000t" end="14585405000t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle618">IF I'D SIMPLY BEAMED UP</p>
+<p begin="14555375000t" end="14585405000t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle619">TO THEIR VESSEL</p>
+<p begin="14586657501t" end="14604589999t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle620">WITH BROWN</p>
+<p begin="14586657501t" end="14604589999t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle621">AND THE OTHERS,</p>
+<p begin="14605842500t" end="14630872506t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle622">I'D HAVE GIVEN THEM</p>
+<p begin="14605842500t" end="14630872506t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle623">OBJECTS OF CURIOSITY,</p>
+<p begin="14632125006t" end="14661320006t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle624">BEGINNINGS</p>
+<p begin="14632125006t" end="14661320006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle625">OF WILD STORIES,</p>
+<p begin="14632125006t" end="14661320006t" region="region_02" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle626">FOOLISH THEORIES.</p>
+<p begin="14796867501t" end="14812305006t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="70.00% 84.62%" xml:id="subtitle627">RUK!</p>
+<p begin="14828567502t" end="14842335006t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle628">[HIGH-PITCHED SQUEALING]</p>
+<p begin="14843587508t" end="14863607508t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle629">NOW WATCH CAREFULLY.</p>
+<p begin="15386622500t" end="15411652506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle630">CHOOSE, CHRISTINE.</p>
+<p begin="15412905006t" end="15442517506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle631">WHICH IS YOUR CAPTAIN?</p>
+<p begin="15505082508t" end="15525509999t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle632">I DON'T KNOW.</p>
+<p begin="15540530003t" end="15566802500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle633">THEY'RE EXACT.</p>
+<p begin="15568055001t" end="15596832500t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle634">I HONESTLY DON'T KNOW.</p>
+<p begin="15598085001t" end="15612270006t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle635">SYNTHETIC ORGANS</p>
+<p begin="15598085001t" end="15612270006t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle636">ARE IN PLACE.</p>
+<p begin="15613522507t" end="15636872500t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle637">WE MERELY</p>
+<p begin="15613522507t" end="15636872500t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle638">SYNCHRONIZE THEM</p>
+<p begin="15638125001t" end="15656892500t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle639">WITH KIRK'S</p>
+<p begin="15638125001t" end="15656892500t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle640">AUTONOMIC</p>
+<p begin="15638125001t" end="15656892500t" region="region_02" tts:extent="67.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle641">NERVOUS SYSTEM,</p>
+<p begin="15658145001t" end="15681087505t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="37.50% 73.96%" xml:id="subtitle642">DUPLICATING</p>
+<p begin="15658145001t" end="15681087505t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle643">THE RHYTHMS</p>
+<p begin="15658145001t" end="15681087505t" region="region_02" tts:extent="55.00% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle644">OF HIS BODY.</p>
+<p begin="15682340006t" end="15693185006t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle645">AT THE SAME TIME,</p>
+<p begin="15694437508t" end="15715699999t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle646">WE DUPLICATE</p>
+<p begin="15694437508t" end="15715699999t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle647">THE MENTAL PATTERN.</p>
+<p begin="15716952500t" end="15741982506t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle648">NOW...</p>
+<p begin="15743235006t" end="15765342508t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle649">PHYSICAL PATTERN</p>
+<p begin="15743235006t" end="15765342508t" region="region_01" tts:extent="22.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle650">COMPLETE,</p>
+<p begin="15766585000t" end="15793702507t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle651">WE NOW MAKE</p>
+<p begin="15766585000t" end="15793702507t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle652">A MENTAL PATTERN.</p>
+<p begin="15818305001t" end="15846665000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle653">READY FOR FINAL</p>
+<p begin="15818305001t" end="15846665000t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle654">SYNAPTIC FUSION.</p>
+<p begin="15863772507t" end="15899637502t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle655">ANDREA, STAND BY</p>
+<p begin="15863772507t" end="15899637502t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle656">FOR CORTEX CIRCUITS.</p>
+<p begin="15900890003t" end="15930085003t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle657">THE ANDROID</p>
+<p begin="15900890003t" end="15930085003t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle658">WILL BE SO PERFECT,</p>
+<p begin="15931337505t" end="15956357500t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle659">IT COULD EVEN</p>
+<p begin="15931337505t" end="15956357500t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle660">REPLACE THE CAPTAIN.</p>
+<p begin="15957610001t" end="15982640006t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle661">THE SAME MEMORIES,</p>
+<p begin="15957610001t" end="15982640006t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle662">THE SAME ATTITUDES,</p>
+<p begin="15983892507t" end="16001825005t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle663">THE SAME ABILITIES.</p>
+<p begin="16023932507t" end="16039777502t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle664">ACTIVATE CIRCUITS.</p>
+<p begin="16041030003t" end="16059380002t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle665">MIND YOUR OWN BUSINESS,</p>
+<p begin="16041030003t" end="16059380002t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle666">MR. SPOCK.</p>
+<p begin="16060632503t" end="16085662508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle667">I'M SICK OF YOUR</p>
+<p begin="16060632503t" end="16085662508t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle668">HALF-BREED INTERFERENCE,</p>
+<p begin="16060632503t" end="16085662508t" region="region_02" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle669">DO YOU HEAR ME?</p>
+<p begin="16086905000t" end="16102760006t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle670">MIND YOUR OWN BUSINESS,</p>
+<p begin="16086905000t" end="16102760006t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle671">MR. SPOCK.</p>
+<p begin="16104012507t" end="16117770001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle672">I'M SICK OF YOUR--</p>
+<p begin="16119022502t" end="16136537500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle673">[BUZZ]</p>
+<p begin="16196179999t" end="16227045000t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle674">[STATIC]</p>
+<p begin="16392215005t" end="16414322507t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle675">COMPLETE.</p>
+<p begin="16443100006t" end="16458110001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle676">ARE YOU ALL RIGHT?</p>
+<p begin="16462285005t" end="16481887505t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle677">AS FAR AS I KNOW.</p>
+<p begin="16483140006t" end="16501072503t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle678">NOW...</p>
+<p begin="16502325005t" end="16521927505t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle679">MEET AN ANDROID.</p>
+<p begin="16595337508t" end="16619522502t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle680">HOW DO YOU DO,</p>
+<p begin="16595337508t" end="16619522502t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle681">MISS CHAPEL?</p>
+<p begin="16745070007t" end="16795537508t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle682">I AM NOW PROGRAMMED</p>
+<p begin="16745070007t" end="16795537508t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle683">TO PLEASE YOU ALSO.</p>
+<p begin="16796779999t" end="16820557502t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="60.00% 79.29%" xml:id="subtitle684">IS THE FOOD</p>
+<p begin="16796779999t" end="16820557502t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle685">APPEALING?</p>
+<p begin="16821810003t" end="16847665000t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle686">YES, THANK YOU.</p>
+<p begin="16896879999t" end="16917317500t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="60.00% 79.29%" xml:id="subtitle687">PLEASE SIT,</p>
+<p begin="16896879999t" end="16917317500t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle688">CAPTAIN.</p>
+<p begin="16918570001t" end="16925667508t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle689">THANK YOU.</p>
+<p begin="16926909999t" end="16961950003t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle690">I'M MORE OR LESS</p>
+<p begin="16926909999t" end="16961950003t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle691">ON PAROLE, I UNDERSTAND.</p>
+<p begin="16963202506t" end="16994485006t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle692">DR. KORBY SUGGESTED</p>
+<p begin="16963202506t" end="16994485006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle693">THAT YOU HAVE LUNCH.</p>
+<p begin="16995737508t" end="17024932507t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="17.50% 79.29%" xml:id="subtitle694">HE THOUGHT YOU MIGHT HAVE</p>
+<p begin="16995737508t" end="17024932507t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="17.50% 84.62%" xml:id="subtitle695">A FEW THINGS TO TALK ABOUT.</p>
+<p begin="17053710006t" end="17065807508t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle696">CAPTAIN...</p>
+<p begin="17067049999t" end="17085410007t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle697">I KNOW, I KNOW.</p>
+<p begin="17086662508t" end="17125867508t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle698">I'D HATE TO BE TORN</p>
+<p begin="17086662508t" end="17125867508t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle699">BETWEEN COMMANDER</p>
+<p begin="17086662508t" end="17125867508t" region="region_02" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle700">AND FIANCÉE MYSELF.</p>
+<p begin="17127109999t" end="17146305008t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle701">NO, I'M NOT TORN.</p>
+<p begin="17147547500t" end="17167149999t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle702">I'M PUZZLED.</p>
+<p begin="17168402500t" end="17185510007t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle703">I'M WORRIED.</p>
+<p begin="17186762508t" end="17195102507t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle704">HAS HE CONFIDED IN YOU?</p>
+<p begin="17196355008t" end="17213870006t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle705">NO, NOTHING</p>
+<p begin="17196355008t" end="17213870006t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle706">HE HASN'T TOLD YOU.</p>
+<p begin="17215122507t" end="17234725006t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle707">I KNOW</p>
+<p begin="17215122507t" end="17234725006t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle708">IT DOESN'T MAKE SENSE.</p>
+<p begin="17235977508t" end="17274765006t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle709">WHAT HE'S DONE</p>
+<p begin="17235977508t" end="17274765006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle710">MAY SEEM WRONG,</p>
+<p begin="17276017508t" end="17294785006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle711">BUT HE IS ROGER KORBY,</p>
+<p begin="17296037508t" end="17316892508t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle712">WHATEVER</p>
+<p begin="17296037508t" end="17316892508t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle713">HE SEEMS TO BE DOING.</p>
+<p begin="17318135000t" end="17348582500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle714">UNLESS SOMETHING'S</p>
+<p begin="17318135000t" end="17348582500t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle715">GONE WRONG WITH HIS MIND.</p>
+<p begin="17349835001t" end="17374447506t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle716">NO. YOU'RE FORGETTING</p>
+<p begin="17349835001t" end="17374447506t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle717">HOW WELL I KNOW HIM.</p>
+<p begin="17375700007t" end="17408225000t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle718">HE'S AS SANE</p>
+<p begin="17375700007t" end="17408225000t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle719">AS YOU OR I.</p>
+<p begin="17419905001t" end="17447022508t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle720">NURSE...</p>
+<p begin="17448265000t" end="17486227508t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle721">IF I GAVE YOU</p>
+<p begin="17448265000t" end="17486227508t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle722">A DIRECT ORDER</p>
+<p begin="17448265000t" end="17486227508t" region="region_02" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle723">TO BETRAY HIM...</p>
+<p begin="17502490003t" end="17516257508t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle724">PLEASE.</p>
+<p begin="17517500000t" end="17536277508t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle725">DON'T ASK ME</p>
+<p begin="17517500000t" end="17536277508t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle726">TO MAKE THAT CHOICE.</p>
+<p begin="17537520000t" end="17570472502t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle727">I'D RATHER</p>
+<p begin="17537520000t" end="17570472502t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle728">YOU PUSH ME OFF</p>
+<p begin="17537520000t" end="17570472502t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle729">THE SAME PRECIPICE</p>
+<p begin="17571725003t" end="17599667501t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle730">WHERE MATHEWS DIED.</p>
+<p begin="17620105001t" end="17643047505t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle731">OH, NO, I CAN'T.</p>
+<p begin="17644300006t" end="17667650000t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle732">PLEASE,</p>
+<p begin="17644300006t" end="17667650000t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle733">GO AHEAD AND EAT.</p>
+<p begin="17684757506t" end="17716457508t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle734">ANDROIDS DON'T EAT,</p>
+<p begin="17684757506t" end="17716457508t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle735">MISS CHAPEL.</p>
+<p begin="17745235006t" end="17773177505t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle736">EVEN HAS</p>
+<p begin="17745235006t" end="17773177505t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle737">YOUR SENSE OF HUMOR.</p>
+<p begin="17930832502t" end="17948765000t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle738">WELL, THERE'S</p>
+<p begin="17930832502t" end="17948765000t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle739">ONE DIFFERENCE</p>
+<p begin="17930832502t" end="17948765000t" region="region_02" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle740">BETWEEN US--I'M HUNGRY.</p>
+<p begin="17950017501t" end="17980465001t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle741">THE DIFFERENCE</p>
+<p begin="17950017501t" end="17980465001t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle742">IS YOUR WEAKNESS,</p>
+<p begin="17950017501t" end="17980465001t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle743">CAPTAIN, NOT MINE.</p>
+<p begin="17981717502t" end="17988805000t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle744">ONE AT A TIME,</p>
+<p begin="17981717502t" end="17988805000t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle745">GENTLEMEN.</p>
+<p begin="17990057501t" end="18010912502t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle746">CAPTAIN?</p>
+<p begin="18012165003t" end="18030932502t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle747">EATING IS A PLEASURE,</p>
+<p begin="18012165003t" end="18030932502t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle748">SIR.</p>
+<p begin="18032185003t" end="18054710006t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle749">UNFORTUNATELY,</p>
+<p begin="18032185003t" end="18054710006t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle750">ONE YOU WILL NEVER KNOW.</p>
+<p begin="18055962507t" end="18085992507t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle751">PERHAPS, BUT I WILL</p>
+<p begin="18055962507t" end="18085992507t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle752">NEVER STARVE, SIR.</p>
+<p begin="18092662503t" end="18115605006t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle753">HE'S AN EXACT DUPLICATE?</p>
+<p begin="18116857508t" end="18132702503t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle754">IN EVERY DETAIL.</p>
+<p begin="18133955005t" end="18156480007t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle755">WHAT ABOUT MEMORY?</p>
+<p begin="18157732508t" end="18164402506t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle756">TELL ME ABOUT SAM.</p>
+<p begin="18165655006t" end="18190257501t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle757">GEORGE SAMUEL KIRK,</p>
+<p begin="18165655006t" end="18190257501t" region="region_01" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle758">YOUR BROTHER.</p>
+<p begin="18191510002t" end="18206112507t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle759">ONLY YOU CALL HIM SAM.</p>
+<p begin="18207365008t" end="18235307506t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle760">HE SAW ME OFF</p>
+<p begin="18207365008t" end="18235307506t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle761">ON THIS MISSION.</p>
+<p begin="18236560007t" end="18261162502t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle762">YES, WITH HIS WIFE</p>
+<p begin="18236560007t" end="18261162502t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle763">AND THREE SONS.</p>
+<p begin="18274930006t" end="18307465008t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle764">HE SAID HE WAS</p>
+<p begin="18274930006t" end="18307465008t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle765">BEING TRANSFERRED</p>
+<p begin="18308707500t" end="18325815006t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle766">TO EARTH COLONY 2</p>
+<p begin="18308707500t" end="18325815006t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle767">RESEARCH STATION.</p>
+<p begin="18327067508t" end="18353757505t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle768">NO, CAPTAIN. HE SAID HE WAS</p>
+<p begin="18327067508t" end="18353757505t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle769">CONTINUING HIS RESEARCH</p>
+<p begin="18355010006t" end="18389622500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle770">AND THAT HE WANTED</p>
+<p begin="18355010006t" end="18389622500t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle771">TO BE TRANSFERRED</p>
+<p begin="18355010006t" end="18389622500t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle772">TO EARTH COLONY 2.</p>
+<p begin="18390875001t" end="18423827505t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle773">YOU MIGHT AS WELL</p>
+<p begin="18390875001t" end="18423827505t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle774">TRY TO OUTTHINK</p>
+<p begin="18390875001t" end="18423827505t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle775">A CALCULATING MACHINE.</p>
+<p begin="18425080006t" end="18448022508t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle776">OBVIOUSLY, I CAN'T...</p>
+<p begin="18464702506t" end="18501402502t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle777">BUT WE DO HAVE SOME</p>
+<p begin="18464702506t" end="18501402502t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle778">INTERESTING DIFFERENCES.</p>
+<p begin="18502655003t" end="18526015006t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle779">TOTALLY</p>
+<p begin="18502655003t" end="18526015006t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle780">UNIMPORTANT ONES.</p>
+<p begin="18527267508t" end="18546452507t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle781">YOU MAY LEAVE NOW.</p>
+<p begin="18620270001t" end="18653222503t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle782">YOU HAVEN'T GUESSED</p>
+<p begin="18620270001t" end="18653222503t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle783">THE REST, HMM?</p>
+<p begin="18665320006t" end="18688670000t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle784">NOT EVEN YOU,</p>
+<p begin="18665320006t" end="18688670000t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle785">CHRISTINE?</p>
+<p begin="18705360006t" end="18740807501t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle786">WHAT YOU SAW</p>
+<p begin="18705360006t" end="18740807501t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle787">WAS ONLY A MACHINE,</p>
+<p begin="18742060002t" end="18773342503t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle788">ONLY HALF OF WHAT I</p>
+<p begin="18742060002t" end="18773342503t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle789">COULD'VE ACCOMPLISHED,</p>
+<p begin="18774595005t" end="18789187500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle790">DO YOU UNDERSTAND?</p>
+<p begin="18790440001t" end="18810460001t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle791">BY CONTINUING THE PROCESS,</p>
+<p begin="18811712502t" end="18844247505t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle792">I COULD'VE TRANSFERRED YOU,</p>
+<p begin="18811712502t" end="18844247505t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle793">YOUR VERY CONSCIOUSNESS</p>
+<p begin="18845500006t" end="18858840000t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle794">INTO THAT ANDROID,</p>
+<p begin="18860092500t" end="18881782502t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle795">YOUR SOUL, IF YOU WISH.</p>
+<p begin="18883035003t" end="18907647508t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle796">ALL OF YOU.</p>
+<p begin="18908890000t" end="18923492503t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle797">IN ANDROID FORM,</p>
+<p begin="18924745005t" end="18951017501t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle798">A HUMAN BEING CAN HAVE</p>
+<p begin="18924745005t" end="18951017501t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle799">PRACTICAL IMMORTALITY.</p>
+<p begin="18952270002t" end="18979377500t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle800">CAN YOU UNDERSTAND</p>
+<p begin="18952270002t" end="18979377500t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle801">WHAT I'M OFFERING MANKIND?</p>
+<p begin="18980630001t" end="18998572508t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle802">PROGRAMMING.</p>
+<p begin="19000232500t" end="19019417500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle803">DIFFERENT WORD, BUT</p>
+<p begin="19000232500t" end="19019417500t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle804">THE SAME OLD PROMISES</p>
+<p begin="19020670001t" end="19062797502t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle805">MADE BY GENGHIS KHAN,</p>
+<p begin="19020670001t" end="19062797502t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle806">JULIUS CAESAR, HITLER,</p>
+<p begin="19020670001t" end="19062797502t" region="region_02" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle807">FERRIS, MALTUVIS.</p>
+<p begin="19064050003t" end="19094915005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle808">CAN YOU UNDERSTAND</p>
+<p begin="19064050003t" end="19094915005t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle809">THAT A HUMAN CONVERTED</p>
+<p begin="19064050003t" end="19094915005t" region="region_02" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle810">TO AN ANDROID</p>
+<p begin="19096167506t" end="19112012502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle811">CAN BE PROGRAMMED</p>
+<p begin="19096167506t" end="19112012502t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle812">FOR THE BETTER?</p>
+<p begin="19113265003t" end="19133285003t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle813">CAN YOU IMAGINE</p>
+<p begin="19113265003t" end="19133285003t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle814">HOW LIFE COULD BE IMPROVED</p>
+<p begin="19134537505t" end="19174577505t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle815">IF WE COULD DO AWAY WITH</p>
+<p begin="19134537505t" end="19174577505t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle816">JEALOUSY, GREED, HATE?</p>
+<p begin="19175830006t" end="19213782503t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle817">IT CAN ALSO BE IMPROVED</p>
+<p begin="19175830006t" end="19213782503t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle818">BY ELIMINATING LOVE,</p>
+<p begin="19175830006t" end="19213782503t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle819">TENDERNESS, SENTIMENT,</p>
+<p begin="19215035005t" end="19237560007t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="25.00% 79.29%" xml:id="subtitle820">THE OTHER SIDE</p>
+<p begin="19215035005t" end="19237560007t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle821">OF THE COIN, DOCTOR.</p>
+<p begin="19238812508t" end="19259657500t" region="region_00" tts:extent="15.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle822">NO ONE</p>
+<p begin="19238812508t" end="19259657500t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle823">NEED EVER DIE AGAIN.</p>
+<p begin="19260910001t" end="19282182502t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle824">NO DISEASE,</p>
+<p begin="19283435003t" end="19299280000t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle825">NO DEFORMITIES,</p>
+<p begin="19300532500t" end="19323892503t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle826">WHY, EVEN FEAR</p>
+<p begin="19300532500t" end="19323892503t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle827">CAN BE PROGRAMMED AWAY,</p>
+<p begin="19325145005t" end="19340990001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle828">REPLACED WITH JOY.</p>
+<p begin="19342242502t" end="19366855006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle829">I'M OFFERING YOU</p>
+<p begin="19342242502t" end="19366855006t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle830">A PRACTICAL HEAVEN,</p>
+<p begin="19368107508t" end="19384787505t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle831">A NEW PARADISE,</p>
+<p begin="19386040006t" end="19400632500t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle832">AND ALL I NEED</p>
+<p begin="19386040006t" end="19400632500t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="12.50% 84.62%" xml:id="subtitle833">IS YOUR HELP.</p>
+<p begin="19401885001t" end="19434420003t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle834">ALL YOU WANTED BEFORE</p>
+<p begin="19435672506t" end="19445265005t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle835">WAS MY UNDERSTANDING.</p>
+<p begin="19446517506t" end="19474877505t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle836">I NEED TRANSPORTATION</p>
+<p begin="19446517506t" end="19474877505t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle837">TO A PLANET COLONY</p>
+<p begin="19476130006t" end="19495315005t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle838">WITH PROPER</p>
+<p begin="19476130006t" end="19495315005t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle839">RAW MATERIALS.</p>
+<p begin="19496567506t" end="19511160001t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle840">I'M SURE THERE ARE SEVERAL</p>
+<p begin="19496567506t" end="19511160001t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle841">GOOD POSSIBILITIES</p>
+<p begin="19512412502t" end="19535355005t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle842">AMONG YOUR NEXT STOPS.</p>
+<p begin="19536607506t" end="19554122503t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle843">NO DIVERSION</p>
+<p begin="19536607506t" end="19554122503t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle844">FROM YOUR ROUTE.</p>
+<p begin="19555375005t" end="19575812506t" region="region_00" tts:extent="15.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle845">I WANT</p>
+<p begin="19555375005t" end="19575812506t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle846">NO SUSPICIONS AROUSED.</p>
+<p begin="19577065006t" end="19611260001t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle847">I'LL BEGIN PRODUCING</p>
+<p begin="19577065006t" end="19611260001t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle848">ANDROIDS CAREFULLY,</p>
+<p begin="19577065006t" end="19611260001t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle849">SELECTIVELY.</p>
+<p begin="19612512502t" end="19617940007t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle850">YES.</p>
+<p begin="19619192508t" end="19636290006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle851">YES.</p>
+<p begin="19637542507t" end="19650047500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle852">NO ONE NEED KNOW,</p>
+<p begin="19651300001t" end="19670067500t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle853">ONLY TO FRIGHTEN</p>
+<p begin="19651300001t" end="19670067500t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle854">UNINFORMED MINDS.</p>
+<p begin="19671320001t" end="19699680000t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle855">THEY MUST BE</p>
+<p begin="19671320001t" end="19699680000t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle856">STRONGLY INFILTRATED</p>
+<p begin="19671320001t" end="19699680000t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle857">INTO SOCIETY</p>
+<p begin="19700932500t" end="19719292508t" region="region_00" tts:extent="15.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle858">BEFORE</p>
+<p begin="19700932500t" end="19719292508t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle859">THE ANDROID EXISTENCE</p>
+<p begin="19700932500t" end="19719292508t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle860">IS REVEALED.</p>
+<p begin="19720535000t" end="19766420006t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle861">I WANT NO WAVE</p>
+<p begin="19720535000t" end="19766420006t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle862">OF HYSTERIA TO DESTROY</p>
+<p begin="19720535000t" end="19766420006t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle863">WHAT IS GOOD AND RIGHT.</p>
+<p begin="19777682507t" end="19793110002t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle864">YOU READ ME, CAPTAIN?</p>
+<p begin="19803537502t" end="19832732502t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle865">YOU'VE CREATED</p>
+<p begin="19803537502t" end="19832732502t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle866">YOUR OWN KIRK.</p>
+<p begin="19833985003t" end="19856927506t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle867">WHY DO YOU NEED ME?</p>
+<p begin="19858180007t" end="19878200007t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle868">I CREATED HIM</p>
+<p begin="19858180007t" end="19878200007t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle869">TO IMPRESS YOU,</p>
+<p begin="19879452508t" end="19897385006t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle870">NOT TO REPLACE YOU.</p>
+<p begin="19898637508t" end="19927832507t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle871">I'M IMPRESSED, DOCTOR...</p>
+<p begin="19929085008t" end="19965785005t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle872">BUT NOT THE WAY</p>
+<p begin="19929085008t" end="19965785005t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle873">YOU THINK!</p>
+<p begin="19967037506t" end="19978300007t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle874">STAND BACK, RUK!</p>
+<p begin="19979552508t" end="19994980003t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle875">I'LL KILL HIM!</p>
+<p begin="20019592508t" end="20045447505t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle876">STAY BACK.</p>
+<p begin="20208112507t" end="20224792503t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle877">RUK...</p>
+<p begin="20226045005t" end="20246065005t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle878">PROTECT!</p>
+<p begin="20284852503t" end="20301115000t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle879">ROGER, I...</p>
+<p begin="20427080006t" end="20452517501t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle880">RUK! NO!</p>
+<p begin="20463780002t" end="20494227502t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle881">[NURSE CHAPEL]</p>
+<p begin="20463780002t" end="20494227502t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle882">RUK, STOP!</p>
+<p begin="20495480003t" end="20533432502t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle883">DR. KORBY SAID</p>
+<p begin="20495480003t" end="20533432502t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle884">YOU ARE TO OBEY ME!</p>
+<p begin="20534685003t" end="20556792506t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle885">RUK!</p>
+<p begin="20558045006t" end="20585570003t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle886">RUK!</p>
+<p begin="20636037505t" end="20688592507t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle887">RUK, I ORDER YOU</p>
+<p begin="20636037505t" end="20688592507t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle888">NOT TO HARM HIM!</p>
+<p begin="21099002507t" end="21122352500t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle889">[SNAP]</p>
+<p begin="21186170003t" end="21205355003t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle890">[CHRISTINE'S VOICE]</p>
+<p begin="21186170003t" end="21205355003t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle891">CAPTAIN KIRK!</p>
+<p begin="21206607505t" end="21233715001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle892">WHERE ARE YOU?</p>
+<p begin="21291687500t" end="21316717505t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle893">CAPTAIN KIRK!</p>
+<p begin="21317970006t" end="21335902503t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle894">I CAN HELP YOU!</p>
+<p begin="21365932503t" end="21390127508t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle895">CHRISTINE,</p>
+<p begin="21365932503t" end="21390127508t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle896">IS THAT YOU?</p>
+<p begin="21600755008t" end="21624105001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle897">[BOTH GRUNTING]</p>
+<p begin="22172985000t" end="22195510002t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle898">CAPTAIN!</p>
+<p begin="22260162507t" end="22285182502t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle899">CAPTAIN...</p>
+<p begin="22286435003t" end="22314377501t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle900">WE FINISHED</p>
+<p begin="22286435003t" end="22314377501t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle901">AHEAD OF SCHEDULE.</p>
+<p begin="22329815006t" end="22349000006t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle902">DR. KORBY HAS</p>
+<p begin="22329815006t" end="22349000006t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle903">CONSIDERABLE CARGO</p>
+<p begin="22329815006t" end="22349000006t" region="region_02" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle904">TO BEAM ABOARD.</p>
+<p begin="22350252507t" end="22373602500t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle905">I'LL HAVE TO GO OVER</p>
+<p begin="22350252507t" end="22373602500t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle906">OUR DESTINATION</p>
+<p begin="22350252507t" end="22373602500t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle907">SCHEDULE WITH HIM.</p>
+<p begin="22374855001t" end="22394040001t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle908">YOU'RE GOING BACK DOWN</p>
+<p begin="22374855001t" end="22394040001t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle909">WITH THE COMMAND PIKE?</p>
+<p begin="22395292502t" end="22421992508t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle910">MIND YOUR OWN BUSINESS,</p>
+<p begin="22395292502t" end="22421992508t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle911">MR. SPOCK.</p>
+<p begin="22423235000t" end="22439925006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle912">I'M SICK OF YOUR</p>
+<p begin="22423235000t" end="22439925006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle913">HALF-BREED INTERFERENCE,</p>
+<p begin="22423235000t" end="22439925006t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle914">DO YOU HEAR?</p>
+<p begin="22441177508t" end="22472450000t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle915">YES, VERY WELL,</p>
+<p begin="22441177508t" end="22472450000t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle916">CAPTAIN.</p>
+<p begin="22473702500t" end="22493305000t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle917">YOU LOOK UPSET,</p>
+<p begin="22473702500t" end="22493305000t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle918">MR. SPOCK.</p>
+<p begin="22494557501t" end="22507072503t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle919">IS EVERYTHING</p>
+<p begin="22494557501t" end="22507072503t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle920">ALL RIGHT UP HERE?</p>
+<p begin="22508325005t" end="22513325000t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle921">NO PROBLEMS HERE, SIR.</p>
+<p begin="22514577501t" end="22529597506t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle922">GOOD.</p>
+<p begin="22514577501t" end="22529597506t" region="region_01" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle923">I'LL BEAM UP SHORTLY</p>
+<p begin="22530850007t" end="22550452507t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle924">WITH DR. KORBY</p>
+<p begin="22530850007t" end="22550452507t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle925">AND PARTY.</p>
+<p begin="22710195006t" end="22734380001t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle926">SECURITY, SPOCK HERE.</p>
+<p begin="22735632502t" end="22745225001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle927">STATUS OF</p>
+<p begin="22735632502t" end="22745225001t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle928">THE LANDING PARTY.</p>
+<p begin="22746477502t" end="22755652502t" region="region_00" tts:extent="12.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle929"><span style="style_0">READY</span></p>
+<p begin="22746477502t" end="22755652502t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle930"><span style="style_0">AND STANDING BY, SIR,</span></p>
+<p begin="22756905003t" end="22774420001t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle931">HAVE THEM MEET ME</p>
+<p begin="22756905003t" end="22774420001t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle932">IN THE TRANSPORTER ROOM</p>
+<p begin="22775672502t" end="22806955003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle933">AFTER THE CAPTAIN</p>
+<p begin="22775672502t" end="22806955003t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle934">HAS BEAMED DOWN.</p>
+<p begin="22812382508t" end="22830315006t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle935">I LOOKED IT OVER.</p>
+<p begin="22831567508t" end="22872850000t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="12.50% 73.96%" xml:id="subtitle936">I THINK YOU'LL FIND</p>
+<p begin="22831567508t" end="22872850000t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="15.00% 79.29%" xml:id="subtitle937">PLANET MIDAS FIVE</p>
+<p begin="22831567508t" end="22872850000t" region="region_02" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle938">AN EXCELLENT CHOICE.</p>
+<p begin="22874102500t" end="22892045008t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle939">A SMALL COLONY.</p>
+<p begin="22893287500t" end="22919987506t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle940">ABUNDANT RAW MATERIALS.</p>
+<p begin="22921240007t" end="22948347505t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle941">YOU MADE</p>
+<p begin="22921240007t" end="22948347505t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle942">A GOOD BEGINNING,</p>
+<p begin="22921240007t" end="22948347505t" region="region_02" tts:extent="40.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle943">CAPTAIN.</p>
+<p begin="22949600006t" end="22955852502t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle944">THANK YOU.</p>
+<p begin="22957105003t" end="22990057506t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle945">I FELT QUITE AT HOME</p>
+<p begin="22957105003t" end="22990057506t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle946">ON THE<span style="style_0"> ENTERPRISE.</span></p>
+<p begin="23060545006t" end="23088487505t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle947">ANDREA...</p>
+<p begin="23135197501t" end="23155217501t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle948">KISS ME.</p>
+<p begin="23427575003t" end="23447177502t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle949">NO.</p>
+<p begin="23469285005t" end="23491392507t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle950">NO.</p>
+<p begin="23492645008t" end="23536432502t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle951">NOT PROGRAMMED</p>
+<p begin="23492645008t" end="23536432502t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle952">FOR YOU.</p>
+<p begin="23643620000t" end="23671572507t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle953">WHAT'S THE MATTER,</p>
+<p begin="23643620000t" end="23671572507t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle954">ANDREA?</p>
+<p begin="23672825008t" end="23697010002t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle955">CONFUSED?</p>
+<p begin="23714525000t" end="23735797501t" region="region_00" tts:extent="17.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle956">NO.</p>
+<p begin="23809625005t" end="23833402508t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle957">EMOTION, RUK?</p>
+<p begin="23861345006t" end="23906802502t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="15.00% 73.96%" xml:id="subtitle958">YOU DISAPPROVE OF</p>
+<p begin="23861345006t" end="23906802502t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle959">MISS CHAPEL'S ORDERS</p>
+<p begin="23861345006t" end="23906802502t" region="region_02" tts:extent="45.00% 5.33%" tts:origin="15.00% 84.62%" xml:id="subtitle960">TO SAVE MY LIFE.</p>
+<p begin="23908055003t" end="23935580001t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle961">TO MAINTAIN</p>
+<p begin="23908055003t" end="23935580001t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle962">YOUR EXISTENCE</p>
+<p begin="23936832502t" end="23957687502t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle963">WOULD BE ILLOGICAL.</p>
+<p begin="23958940003t" end="23978542503t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle964">WHY?</p>
+<p begin="23989387505t" end="24007737502t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle965">CAN'T YOUR MEMORY BANKS</p>
+<p begin="24008990003t" end="24032350007t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle966">SOLVE A SIMPLE EQUATION</p>
+<p begin="24008990003t" end="24032350007t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle967">LIKE THAT?</p>
+<p begin="24033602508t" end="24069050003t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle968">WHAT HAPPENED...</p>
+<p begin="24070302506t" end="24099915005t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle969">TO THE OLD ONES,</p>
+<p begin="24070302506t" end="24099915005t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle970">RUK?</p>
+<p begin="24109090003t" end="24137867502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle971">IT'S SO LONG AGO.</p>
+<p begin="24139120003t" end="24176237501t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle972">IS IT POSSIBLE</p>
+<p begin="24139120003t" end="24176237501t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle973">THEY BUILT THEIR</p>
+<p begin="24139120003t" end="24176237501t" region="region_02" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle974">MACHINES TOO WELL...</p>
+<p begin="24206267501t" end="24221705006t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle975">GAVE THEM PRIDE</p>
+<p begin="24222957508t" end="24247142502t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle976">AND A DESIRE TO SURVIVE?</p>
+<p begin="24248395003t" end="24261745006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle977">MACHINES THAT WANTED</p>
+<p begin="24248395003t" end="24261745006t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle978">LOGIC AND ORDER</p>
+<p begin="24262997508t" end="24286765001t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle979">AND FOUND THAT</p>
+<p begin="24262997508t" end="24286765001t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle980">FRUSTRATED</p>
+<p begin="24288017502t" end="24315125000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle981">BY THE ILLOGICAL</p>
+<p begin="24288017502t" end="24315125000t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle982">EMOTIONAL CREATURES</p>
+<p begin="24288017502t" end="24315125000t" region="region_02" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle983">THAT BUILT THEM?</p>
+<p begin="24316377501t" end="24325135000t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="45.00% 84.62%" xml:id="subtitle984">YES.</p>
+<p begin="24326387501t" end="24340572506t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle985">THE OLD ONES.</p>
+<p begin="24341825006t" end="24370602506t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle986">THE ONES</p>
+<p begin="24341825006t" end="24370602506t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="35.00% 84.62%" xml:id="subtitle987">WHO MADE US.</p>
+<p begin="24371855006t" end="24402302507t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle988">THEY GREW FEARFUL</p>
+<p begin="24371855006t" end="24402302507t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle989">OF US.</p>
+<p begin="24403555008t" end="24429410003t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle990">THEY BEGAN</p>
+<p begin="24403555008t" end="24429410003t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle991">TO TURN US OFF.</p>
+<p begin="24430662506t" end="24450682506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle992">AND ISN'T IT KORBY</p>
+<p begin="24430662506t" end="24450682506t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle993">WHO'S CREATING</p>
+<p begin="24451935006t" end="24481547506t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle994">THE SAME DANGER TO YOU</p>
+<p begin="24451935006t" end="24481547506t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle995">ALL OVER AGAIN?</p>
+<p begin="24482800007t" end="24515325000t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle996">UNLIKE YOU,</p>
+<p begin="24482800007t" end="24515325000t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle997">WE HUMANS ARE FULL OF</p>
+<p begin="24482800007t" end="24515325000t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle998">UNPREDICTABLE EMOTIONS</p>
+<p begin="24516577501t" end="24535345000t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle999">THAT LOGIC CANNOT SOLVE.</p>
+<p begin="24536597501t" end="24546607501t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1000">YES.</p>
+<p begin="24547860002t" end="24590405005t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 73.96%" xml:id="subtitle1001">YES. IT HAD BEEN</p>
+<p begin="24547860002t" end="24590405005t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1002">SO LONG AGO,</p>
+<p begin="24547860002t" end="24590405005t" region="region_02" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1003">I HAD FORGOTTEN.</p>
+<p begin="24591657506t" end="24606250001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1004">THE OLD ONES HERE.</p>
+<p begin="24607502502t" end="24630862506t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1005">THE ONES</p>
+<p begin="24607502502t" end="24630862506t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1006">WHO MADE US, YES.</p>
+<p begin="24632115006t" end="24660892506t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1007">YES, IT IS STILL</p>
+<p begin="24632115006t" end="24660892506t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1008">IN MY MEMORY BANKS.</p>
+<p begin="24662145006t" end="24701350006t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1009">IT BECAME NECESSARY</p>
+<p begin="24662145006t" end="24701350006t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1010">TO DESTROY THEM.</p>
+<p begin="24702602507t" end="24724292508t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1011">YOU ARE INCONSISTENT.</p>
+<p begin="24725535000t" end="24751400006t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1012">YOU CANNOT</p>
+<p begin="24725535000t" end="24751400006t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1013">BE PROGRAMMED.</p>
+<p begin="24752652507t" end="24778507502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1014">YOU ARE INFERIOR.</p>
+<p begin="24796440001t" end="24811042506t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1015">AND KORBY?</p>
+<p begin="24812295006t" end="24831062506t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1016">YOU CAME</p>
+<p begin="24812295006t" end="24831062506t" region="region_01" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1017">FROM THE OUTSIDE.</p>
+<p begin="24832315006t" end="24847325001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1018">YOU BRING DISORDER HERE.</p>
+<p begin="24848577502t" end="24860675005t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1019">THE DANGER TO YOU</p>
+<p begin="24848577502t" end="24860675005t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1020">IS KORBY.</p>
+<p begin="24861927506t" end="24874850000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1021">I WAS PROGRAMMED</p>
+<p begin="24861927506t" end="24874850000t" region="region_01" tts:extent="22.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1022">BY KORBY.</p>
+<p begin="24876102500t" end="24890705005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1023">I CANNOT HARM HIM.</p>
+<p begin="24891957506t" end="24910725005t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="25.00% 79.29%" xml:id="subtitle1024">THE OLD ONES</p>
+<p begin="24891957506t" end="24910725005t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="25.00% 84.62%" xml:id="subtitle1025">PROGRAMMED YOU, TOO,</p>
+<p begin="24911977506t" end="24931580006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1026">BUT IT BECAME POSSIBLE</p>
+<p begin="24911977506t" end="24931580006t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1027">TO DESTROY THEM.</p>
+<p begin="24932832507t" end="24961192506t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1028"><span style="style_0">THAT</span><span style="style0"> WAS THE EQUATION!</span></p>
+<p begin="24962445006t" end="24974950000t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle1029">UGH!</p>
+<p begin="24976202500t" end="24997057501t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1030">EXISTENCE!</p>
+<p begin="24998310002t" end="25040855005t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1031">SURVIVAL MUST</p>
+<p begin="24998310002t" end="25040855005t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1032">CANCEL OUT PROGRAMMING.</p>
+<p begin="25042107506t" end="25066292500t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle1033">THAT'S IT, RUK!</p>
+<p begin="25042107506t" end="25066292500t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1034">LOGIC!</p>
+<p begin="25067545001t" end="25086312500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle1035">YOU CAN'T</p>
+<p begin="25067545001t" end="25086312500t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1036">PROTECT SOMEONE</p>
+<p begin="25087565001t" end="25100915005t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="50.00% 79.29%" xml:id="subtitle1037">WHO'S TRYING</p>
+<p begin="25087565001t" end="25100915005t" region="region_01" tts:extent="77.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1038">TO DESTROY YOU!</p>
+<p begin="25102167506t" end="25128857502t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="27.50% 73.96%" xml:id="subtitle1039">RUK, I WOULD LIKE--</p>
+<p begin="25102167506t" end="25128857502t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="47.50% 84.62%" xml:id="subtitle1040">AH!</p>
+<p begin="25150547505t" end="25186412500t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1041">YOU BROUGHT HIM AMONG US.</p>
+<p begin="25187665001t" end="25216025000t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1042">YOU BROUGHT</p>
+<p begin="25187665001t" end="25216025000t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1043">THE INFERIOR ONES.</p>
+<p begin="25217277501t" end="25253987508t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1044">WE HAD CLEANSED OURSELVES</p>
+<p begin="25217277501t" end="25253987508t" region="region_01" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1045">OF THEM,</p>
+<p begin="25255230000t" end="25283600007t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle1046">NOW YOU BRING</p>
+<p begin="25255230000t" end="25283600007t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1047">THE EVIL BACK!</p>
+<p begin="25284852508t" end="25306950001t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle1048">RUK! STOP!</p>
+<p begin="25324892508t" end="25339485003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1049">YOUR PROGRAMMING.</p>
+<p begin="25512577506t" end="25529675003t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1050">I HAD NO CHOICE.</p>
+<p begin="25646872500t" end="25675650000t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1051">YOU HAD RESPECT</p>
+<p begin="25646872500t" end="25675650000t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1052">FOR ALL THINGS ALIVE.</p>
+<p begin="25676902500t" end="25691922506t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1053">HOW CAN I EXPLAIN</p>
+<p begin="25676902500t" end="25691922506t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle1054">THE CHANGE IN YOU?</p>
+<p begin="25693175006t" end="25721117505t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle1055">IF I WAS TO</p>
+<p begin="25693175006t" end="25721117505t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1056">TELL EARTH THAT</p>
+<p begin="25693175006t" end="25721117505t" region="region_02" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1057">I WAS IN YOUR HANDS--</p>
+<p begin="25722370006t" end="25746555000t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 79.29%" xml:id="subtitle1058">TELL THEM WHAT HAS</p>
+<p begin="25722370006t" end="25746555000t" region="region_01" tts:extent="40.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle1059">BECOME...</p>
+<p begin="25808285001t" end="25826635000t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="47.50% 84.62%" xml:id="subtitle1060">OH!</p>
+<p begin="25966775000t" end="25977620001t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1061">IT'S STILL ME,</p>
+<p begin="25966775000t" end="25977620001t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1062">CHRISTINE.</p>
+<p begin="25978872502t" end="26009320002t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1063">ROGER.</p>
+<p begin="26021417505t" end="26035602508t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1064">I'M IN HERE.</p>
+<p begin="26054787508t" end="26080642503t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1065">YOU CAN'T IMAGINE</p>
+<p begin="26054787508t" end="26080642503t" region="region_01" tts:extent="37.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1066">HOW IT WAS.</p>
+<p begin="26081895005t" end="26097740001t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1067">I WAS FROZEN...</p>
+<p begin="26098992502t" end="26121935005t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1068">DYING.</p>
+<p begin="26123187506t" end="26138615001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1069">MY LEGS WERE GONE.</p>
+<p begin="26139867502t" end="26156965000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1070">I WAS...</p>
+<p begin="26158217501t" end="26189500002t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle1071">I HAD ONLY MY BRAIN</p>
+<p begin="26158217501t" end="26189500002t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="22.50% 84.62%" xml:id="subtitle1072">BETWEEN LIFE AND DEATH.</p>
+<p begin="26218695001t" end="26242890006t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1073">THIS CAN BE REPAIRED,</p>
+<p begin="26244142507t" end="26275007508t" region="region_00" tts:extent="70.00% 5.33%" tts:origin="22.50% 79.29%" xml:id="subtitle1074">EASIER THAN ANOTHER MAN</p>
+<p begin="26244142507t" end="26275007508t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1075">CAN SET A BROKEN FINGER.</p>
+<p begin="26276250000t" end="26306697500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle1076">I'M STILL THE SAME</p>
+<p begin="26276250000t" end="26306697500t" region="region_01" tts:extent="50.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1077">AS I WAS BEFORE,</p>
+<p begin="26276250000t" end="26306697500t" region="region_02" tts:extent="35.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1078">CHRISTINE,</p>
+<p begin="26307950001t" end="26338397501t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1079">PERHAPS EVEN BETTER.</p>
+<p begin="26353835006t" end="26384282507t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1080">ARE YOU, ROGER?</p>
+<p begin="26385535008t" end="26407215000t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1081">[ALARM BEEPING]</p>
+<p begin="26471032503t" end="26486052508t" region="region_00" tts:extent="27.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1082">ANDREA.</p>
+<p begin="26487295000t" end="26501062503t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="52.50% 84.62%" xml:id="subtitle1083"><span style="style_0">YES, DOCTOR.</span></p>
+<p begin="26502315005t" end="26519412502t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1084">THERE'S SOMEONE</p>
+<p begin="26502315005t" end="26519412502t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1085">IN THE OUTER JUNCTION.</p>
+<p begin="26520665003t" end="26534850007t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1086">SPOCK.</p>
+<p begin="26536102508t" end="26547772500t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1087">HE MUST'VE</p>
+<p begin="26536102508t" end="26547772500t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1088">GOT MY MESSAGE.</p>
+<p begin="26549025001t" end="26570715003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="32.50% 84.62%" xml:id="subtitle1089"><span style="style_0">I WILL FIND RUK.</span></p>
+<p begin="26571967505t" end="26595327508t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1090">HE'LL NEVER FIND US</p>
+<p begin="26571967505t" end="26595327508t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1091">IN THIS MAZE.</p>
+<p begin="26596570000t" end="26603250006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1092">RUK HAS BEEN SHUT OFF.</p>
+<p begin="26604502507t" end="26626192508t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="52.50% 79.29%" xml:id="subtitle1093"><span style="style_0">GET A WEAPON.</span></p>
+<p begin="26604502507t" end="26626192508t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="52.50% 84.62%" xml:id="subtitle1094"><span style="style_0">DEAL WITH IT.</span></p>
+<p begin="26627435000t" end="26649960002t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="52.50% 84.62%" xml:id="subtitle1095"><span style="style_0">PROTECT.</span></p>
+<p begin="26794692507t" end="26808450001t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1096">I WILL KISS YOU.</p>
+<p begin="26809702502t" end="26818460001t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="60.00% 84.62%" xml:id="subtitle1097">NO.</p>
+<p begin="26819712502t" end="26840567502t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1098">YOU...</p>
+<p begin="26841820003t" end="26863927506t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1099">YOU WILL NOT.</p>
+<p begin="26865180007t" end="26886860000t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1100">IT IS ILLOGICAL.</p>
+<p begin="26943590006t" end="26964445006t" region="region_00" tts:extent="32.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1101">I'M THE SAME!</p>
+<p begin="26965697508t" end="26979455001t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1102">A DIRECT TRANSFER.</p>
+<p begin="26980707502t" end="26996562508t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1103">ALL OF ME,</p>
+<p begin="26997805000t" end="27014495006t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1104">HUMAN, RATIONAL,</p>
+<p begin="26997805000t" end="27014495006t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1105">AND WITHOUT A FLAW.</p>
+<p begin="27015747508t" end="27035767508t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1106">HE FREED HIMSELF,</p>
+<p begin="27015747508t" end="27035767508t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1107">AND I DESTROYED--</p>
+<p begin="27052030003t" end="27066632508t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1108">DESTROYED HIM?</p>
+<p begin="27141702503t" end="27180072502t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1109">I'M...NOT PROGRAMMED</p>
+<p begin="27141702503t" end="27180072502t" region="region_01" tts:extent="27.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1110">FOR ALARMS.</p>
+<p begin="27181325003t" end="27210937502t" region="region_00" tts:extent="25.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1111">I LISTENED</p>
+<p begin="27181325003t" end="27210937502t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1112">TO YOUR INSTRUCTIONS.</p>
+<p begin="27212190003t" end="27233880006t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1113">THEY WERE MISSTATED.</p>
+<p begin="27235132507t" end="27248055000t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1114">SHE KILLED</p>
+<p begin="27235132507t" end="27248055000t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1115">THE ANDROID, KORBY.</p>
+<p begin="27249307501t" end="27260987502t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1116">THE SAME WAY</p>
+<p begin="27249307501t" end="27260987502t" region="region_01" tts:extent="47.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1117">YOU KILLED RUK.</p>
+<p begin="27262240003t" end="27286017508t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="35.00% 79.29%" xml:id="subtitle1118">IS THIS</p>
+<p begin="27262240003t" end="27286017508t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1119">YOUR PERFECT WORLD,</p>
+<p begin="27287259999t" end="27334397506t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1120">YOUR FLAWLESS BEINGS</p>
+<p begin="27287259999t" end="27334397506t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1121">KILLING OFF ONE ANOTHER?</p>
+<p begin="27335650007t" end="27358582500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="25.00% 73.96%" xml:id="subtitle1122">AREN'T YOU DOING</p>
+<p begin="27335650007t" end="27358582500t" region="region_01" tts:extent="62.50% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1123">EXACTLY WHAT YOU HATE</p>
+<p begin="27335650007t" end="27358582500t" region="region_02" tts:extent="55.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle1124">MOST IN HUMANS,</p>
+<p begin="27359835001t" end="27385282507t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="20.00% 73.96%" xml:id="subtitle1125">KILLING WITH NO MORE CONCERN</p>
+<p begin="27359835001t" end="27385282507t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="20.00% 79.29%" xml:id="subtitle1126">THAN WHEN YOU TURN OFF</p>
+<p begin="27359835001t" end="27385282507t" region="region_02" tts:extent="30.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1127">A LIGHT?</p>
+<p begin="27386535008t" end="27408215000t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1128">I AM NOT A COMPUTER.</p>
+<p begin="27409467501t" end="27429905001t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1129">TEST ME.</p>
+<p begin="27431157502t" end="27457429999t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1130">ASK ME TO SOLVE</p>
+<p begin="27431157502t" end="27457429999t" region="region_01" tts:extent="45.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1131">ANY...</p>
+<p begin="27479537501t" end="27495810007t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1132">EQUA--</p>
+<p begin="27517489999t" end="27542520003t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1133">TRANSMI--</p>
+<p begin="27595910007t" end="27623435005t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle1134">CHRISTINE,</p>
+<p begin="27595910007t" end="27623435005t" region="region_01" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle1135">CHRISTINE,</p>
+<p begin="27624687506t" end="27646795008t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1136">LET ME PROVE MYSELF.</p>
+<p begin="27648037500t" end="27674737506t" region="region_00" tts:extent="65.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1137">DOES THIS MAKE</p>
+<p begin="27648037500t" end="27674737506t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1138">SUCH A DIFFERENCE?</p>
+<p begin="27675990007t" end="27695592507t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1139">DON'T YOU SEE, ROGER?</p>
+<p begin="27696845008t" end="27728952500t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1140">EVERYTHING YOU'VE DONE</p>
+<p begin="27696845008t" end="27728952500t" region="region_01" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1141">HAS PROVED IT ISN'T YOU.</p>
+<p begin="27730205001t" end="27764410006t" region="region_00" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1142">I AM ROGER KORBY!</p>
+<p begin="27765662507t" end="27782342503t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1143">THEN PROVE IT.</p>
+<p begin="27796945008t" end="27813625005t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1144">GIVE ME THAT PHASER GUN.</p>
+<p begin="27814877506t" end="27844072506t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1145">IF THERE'S ANY HUMAN</p>
+<p begin="27814877506t" end="27844072506t" region="region_01" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1146">LEFT IN YOU,</p>
+<p begin="27845325006t" end="27855335006t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1147">GIVE IT TO ME.</p>
+<p begin="27856587508t" end="27867015008t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="47.50% 84.62%" xml:id="subtitle1148">NO.</p>
+<p begin="27868257500t" end="27890782502t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1149">YOU WILL</p>
+<p begin="27868257500t" end="27890782502t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1150">NEVER UNDERSTAND.</p>
+<p begin="27892035003t" end="27917065008t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1151">I CONSTRUCTED</p>
+<p begin="27892035003t" end="27917065008t" region="region_01" tts:extent="70.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1152">A PERFECT BEING,</p>
+<p begin="27918307500t" end="27941250002t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle1153">TESTED IT,</p>
+<p begin="27942502503t" end="27958765000t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 79.29%" xml:id="subtitle1154">PROVED IT.</p>
+<p begin="27960017501t" end="27990465001t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle1155">PROVED IT.</p>
+<p begin="28002562503t" end="28015495006t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="37.50% 84.62%" xml:id="subtitle1156">PROVED IT.</p>
+<p begin="28155635006t" end="28182742503t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="42.50% 79.29%" xml:id="subtitle1157">ANDREA,</p>
+<p begin="28155635006t" end="28182742503t" region="region_01" tts:extent="65.00% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle1158">GIVE ME THE WEAPON.</p>
+<p begin="28183995005t" end="28206102507t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1159">NO. PROTECT.</p>
+<p begin="28222782503t" end="28243637505t" region="region_00" tts:extent="20.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1160">PROTECT.</p>
+<p begin="28308697500t" end="28342485003t" region="region_00" tts:extent="50.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1161">TO LOVE YOU.</p>
+<p begin="28343737505t" end="28365845006t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1162">TO...</p>
+<p begin="28367097508t" end="28384612506t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1163">TO...</p>
+<p begin="28385865006t" end="28407137508t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1164">KISS YOU.</p>
+<p begin="28408379999t" end="28422565003t" region="region_00" tts:extent="17.50% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1165">NO.</p>
+<p begin="28423817505t" end="28443837505t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1166">YOU CANNOT LOVE.</p>
+<p begin="28461352502t" end="28495975006t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1167">YOU'RE NOT HUMAN.</p>
+<p begin="28497227508t" end="28518907500t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1168">LOVE YOU...</p>
+<p begin="28520160001t" end="28541850002t" region="region_00" tts:extent="57.50% 5.33%" tts:origin="50.00% 84.62%" xml:id="subtitle1169">KISS...</p>
+<p begin="28608997500t" end="28639445000t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="47.50% 84.62%" xml:id="subtitle1170">OH!</p>
+<p begin="28661135001t" end="28685747506t" region="region_00" tts:extent="52.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1171">CAPTAIN KIRK!</p>
+<p begin="28711185001t" end="28746225006t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1172">IN HERE, SPOCK.</p>
+<p begin="28770410001t" end="28791682502t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle1173">CAPTAIN,</p>
+<p begin="28770410001t" end="28791682502t" region="region_01" tts:extent="55.00% 5.33%" tts:origin="20.00% 84.62%" xml:id="subtitle1174">ARE YOU ALL RIGHT?</p>
+<p begin="28792935003t" end="28811702502t" region="region_00" tts:extent="45.00% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1175">NURSE?</p>
+<p begin="28823800003t" end="28844237505t" region="region_00" tts:extent="62.50% 5.33%" tts:origin="27.50% 84.62%" xml:id="subtitle1176">WHERE'S DR. KORBY?</p>
+<p begin="28876772507t" end="28899705000t" region="region_00" tts:extent="30.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1177">DR. KORBY...</p>
+<p begin="28900957501t" end="28933910003t" region="region_00" tts:extent="37.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1178">WAS NEVER HERE.</p>
+<p begin="29157470007t" end="29181655001t" region="region_00" tts:extent="42.50% 5.33%" tts:origin="30.00% 73.96%" xml:id="subtitle1179">THANK YOU</p>
+<p begin="29157470007t" end="29181655001t" region="region_01" tts:extent="67.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1180">FOR LETTING ME MAKE</p>
+<p begin="29157470007t" end="29181655001t" region="region_02" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1181">THE DECISION, CAPTAIN.</p>
+<p begin="29182907502t" end="29215860006t" region="region_00" tts:extent="75.00% 5.33%" tts:origin="32.50% 79.29%" xml:id="subtitle1182">I'M QUITE CERTAIN I'M</p>
+<p begin="29182907502t" end="29215860006t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1183">DOING THE RIGHT THING.</p>
+<p begin="29217112507t" end="29244637505t" region="region_00" tts:extent="35.00% 5.33%" tts:origin="12.50% 79.29%" xml:id="subtitle1184">SHE'S STAYING</p>
+<p begin="29217112507t" end="29244637505t" region="region_01" tts:extent="35.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1185">WITH THE SHIP.</p>
+<p begin="29265075005t" end="29295940006t" region="region_00" tts:extent="60.00% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1186">SOMETHING BOTHERING YOU,</p>
+<p begin="29265075005t" end="29295940006t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1187">MR. SPOCK?</p>
+<p begin="29297192507t" end="29330135000t" region="region_00" tts:extent="40.00% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1188">FRANKLY,</p>
+<p begin="29297192507t" end="29330135000t" region="region_01" tts:extent="72.50% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1189">I WAS RATHER DISMAYED</p>
+<p begin="29331387501t" end="29373097502t" region="region_00" tts:extent="77.50% 5.33%" tts:origin="30.00% 79.29%" xml:id="subtitle1190">BY YOUR USE OF THE TERM</p>
+<p begin="29331387501t" end="29373097502t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="30.00% 84.62%" xml:id="subtitle1191">"HALF-BREED," CAPTAIN.</p>
+<p begin="29390195000t" end="29421477501t" region="region_00" tts:extent="80.00% 5.33%" tts:origin="40.00% 73.96%" xml:id="subtitle1192">YOU MUST ADMIT IT IS</p>
+<p begin="29390195000t" end="29421477501t" region="region_01" tts:extent="75.00% 5.33%" tts:origin="40.00% 79.29%" xml:id="subtitle1193">AN UNSOPHISTICATED</p>
+<p begin="29390195000t" end="29421477501t" region="region_02" tts:extent="57.50% 5.33%" tts:origin="40.00% 84.62%" xml:id="subtitle1194">EXPRESSION.</p>
+<p begin="29422730002t" end="29451925001t" region="region_00" tts:extent="47.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1195">I'LL REMEMBER THAT,</p>
+<p begin="29422730002t" end="29451925001t" region="region_01" tts:extent="25.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1196">MR. SPOCK,</p>
+<p begin="29453177502t" end="29485712506t" region="region_00" tts:extent="67.50% 5.33%" tts:origin="10.00% 79.29%" xml:id="subtitle1197">THE NEXT TIME I FIND MYSELF</p>
+<p begin="29453177502t" end="29485712506t" region="region_01" tts:extent="57.50% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1198">IN A SIMILAR SITUATION.</p>
+<p begin="29521995001t" end="29561200001t" region="region_00" tts:extent="55.00% 5.33%" tts:origin="10.00% 84.62%" xml:id="subtitle1199">STEADY AS WE GO, HELM.</p>
+</div>
+</body>
+</tt>
