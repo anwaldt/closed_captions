@@ -313,7 +313,7 @@ class SubTitleMain(QMainWindow):
         
                            tmpSTR =  i.JackPosChange(self.t_rel, self)    
                            
-                           self.textboxes[cnt].setText('['+tmpSTR[1:len(tmpSTR)]+']')
+                           self.textboxes[cnt].setText(tmpSTR[0:len(tmpSTR)])
                             
                            cnt +=1
                              

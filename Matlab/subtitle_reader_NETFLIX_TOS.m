@@ -12,7 +12,7 @@ if nargin<3
 end
 
 if nargin<2
-    scaleFAC = 41000000;
+    scaleFAC = 90000000;
 end
 
 SUB = xml2struct(inFile);
@@ -63,9 +63,9 @@ for entryCNT = 1:nEntries
                 
                 if ~isempty(strfind(tmpID,'[' )) || ~isempty(strfind(tmpID,'(' ))
                                         
-                    tStart_SEC  = (str2double(y.Attributes(1).Value(1:end-1))) / scaleFAC;
+                    tStart_SEC  = (str2double(y.Attributes(1).Value(1:end-8))) / scaleFAC;
                     
-                    tStop_SEC  = (str2double(y.Attributes(2).Value(1:end-1))) /scaleFAC ;
+                    tStop_SEC  = (str2double(y.Attributes(2).Value(1:end-8))) /scaleFAC ;
                     
                     % keep original lenth
                     % tStop_SEC = tStart_SEC + (tStop_SEC - tStart_SEC) * scaleFAC;
