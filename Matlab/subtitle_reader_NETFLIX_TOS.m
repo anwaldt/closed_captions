@@ -12,7 +12,7 @@ if nargin<3
 end
 
 if nargin<2
-    scaleFAC = 90000000;
+    scaleFAC = 180000000;
 end
 
 SUB = xml2struct(inFile);

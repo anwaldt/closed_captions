@@ -44,7 +44,7 @@ class SubTitleMain(QMainWindow):
     
     glayout = QGridLayout()
         
-    def __init__(self, directory):
+    def __init__(self, directory, file_list):
         
         super().__init__()
         
@@ -70,6 +70,8 @@ class SubTitleMain(QMainWindow):
 
 
         self.directory = directory
+        
+        self.file_list = file_list
 
         self.openProject()
        
@@ -171,20 +173,29 @@ class SubTitleMain(QMainWindow):
  
         global count
      
-        oscFiles = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
+        
+
+        xmlFiles   = []
+
+        with open(self.file_list, "r+") as f:
+                data = f.readlines()
+                for line in data:
+
+                    xmlFiles.append(line)
+             
+        xmlFiles = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
 
         #--------- create objects, first --------------------------------------------------
 
 
-        for f in oscFiles:
+        for f in xmlFiles:
             
                   
             
             oscFile = self.directory.__add__("/").__add__(f);
+            #oscFile = f
             
-            print(oscFile)
-            
-            print(str(count))
+            print(str(count)+': '+oscFile)
             
             
             [label, j] = f.split(".")
@@ -199,7 +210,7 @@ class SubTitleMain(QMainWindow):
         
                
 
-        for f in oscFiles:  
+        for f in xmlFiles:  
             
                         
             oscFile = self.directory.__add__("/").__add__(f);
@@ -333,9 +344,12 @@ if __name__ == "__main__":
     parser.add_argument("--dir",
                           default =".",help="path for prepared subtitle files")
     
+    parser.add_argument("--file",
+                          default =".",help="path to file list")
+    
     args = parser.parse_args()
 
     
     app = QApplication(sys.argv)
-    ex = SubTitleMain(args.dir)
+    ex = SubTitleMain(args.dir,args.file)
     sys.exit(app.exec_())

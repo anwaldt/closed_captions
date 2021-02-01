@@ -41,7 +41,7 @@ class SubTitle:
         
         self.OscFile = oscf         
         
-        print("Loading data from: ".__add__(oscf))
+        print("Loading data from: "+oscf)
  
         
         data        = np.loadtxt(oscf, delimiter='\t', usecols=(0,2))
@@ -80,15 +80,7 @@ class SubTitle:
         
         return outPath
          
-    def ChangeState(self, msg):
-        
-        #s = self.f(msg)
-
-#        if msg=="OFF":
-#            
-#        if msg=="R":
-#         
-#        if msg=="W":
+    def ChangeState(self, msg):        
             
         self.state = msg;
         
