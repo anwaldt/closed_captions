@@ -119,7 +119,7 @@ class SubTitleMain(QMainWindow):
         self.glayout.addWidget(self.sBut)     
         self.sBut.clicked.connect(self.handle_stopbutton)
 
-        self.glayout.addWidget(self.sBut,  0, 1)  
+        self.glayout.addWidget(self.sBut,  0, 2)  
         
         #self.rBut =  QPushButton("Reset")
         #self.glayout.addWidget(self.rBut)     
@@ -138,7 +138,7 @@ class SubTitleMain(QMainWindow):
         self.jacktimeBox.setPalette(p2)
         
         #self.jacktimeBox.setReadOnly(1);
-        self.glayout.addWidget(self.jacktimeBox,  0, 2)  
+        self.glayout.addWidget(self.jacktimeBox,  1, 1)  
 
         #self.pBut.clicked.connect(self.handleAddButton)
         
@@ -257,18 +257,19 @@ class SubTitleMain(QMainWindow):
         box1 = QVBoxLayout()
         
         l1   = QLabel()                    
-        font = QFont('Courier', 24, QFont.Bold)
+        font = QFont('Courier', 40, QFont.Bold)
         l1.setText(label+':')        
         l1.setFont(font)        
         p2 = l1.palette()
         p2.setColor(l1.foregroundRole(), Qt.white)
         l1.setPalette(p2)
 
-        tmpBox = QLineEdit(self)
-        font   = QFont('Courier', 22, QFont.Bold)
+        tmpBox = QLabel()
+        font   = QFont('Courier', 40, QFont.Bold)
         tmpBox.setFont(font)
-        
-        
+        tmpBox.setWordWrap(True)
+        tmpBox.setFixedSize(500, 400)
+                
         tmpBox.setAutoFillBackground(True)
         p2 = tmpBox.palette()
         p2.setColor(tmpBox.backgroundRole(), Qt.black)
