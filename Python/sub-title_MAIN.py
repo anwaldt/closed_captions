@@ -48,6 +48,9 @@ class SubTitleMain(QMainWindow):
         
         super().__init__()
         
+        self.timeScale = 0.8
+
+        
         self.tmpID = 0
         
         self.initUI()
@@ -103,7 +106,7 @@ class SubTitleMain(QMainWindow):
         self.setCentralWidget(wid)
 
             
-        self.setGeometry(300, 300, 1900, 1000)
+        self.setGeometry(300, 300, 1800, 900)
         self.setWindowTitle('Closed Captions')
         self.show()
         wid.setLayout(self.glayout)
@@ -257,7 +260,7 @@ class SubTitleMain(QMainWindow):
         box1 = QVBoxLayout()
         
         l1   = QLabel()                    
-        font = QFont('Courier', 40, QFont.Bold)
+        font = QFont('Courier', 30, QFont.Bold)
         l1.setText(label+':')        
         l1.setFont(font)        
         p2 = l1.palette()
@@ -265,10 +268,10 @@ class SubTitleMain(QMainWindow):
         l1.setPalette(p2)
 
         tmpBox = QLabel()
-        font   = QFont('Courier', 40, QFont.Bold)
+        font   = QFont('Courier', 30, QFont.Bold)
         tmpBox.setFont(font)
         tmpBox.setWordWrap(True)
-        tmpBox.setFixedSize(500, 400)
+        tmpBox.setFixedSize(400, 250)
                 
         tmpBox.setAutoFillBackground(True)
         p2 = tmpBox.palette()
@@ -291,7 +294,7 @@ class SubTitleMain(QMainWindow):
         self.glayout.addWidget(tmpBox,  y+3, (count-1) % 3)
             
         
-        verticalSpacer = QSpacerItem(20, 40,1, QSizePolicy.Expanding)
+        verticalSpacer = QSpacerItem(10, 10,1, QSizePolicy.Expanding)
         
         self.glayout.addItem(verticalSpacer,  y+4, (count-1) % 3)
 
@@ -319,6 +322,7 @@ class SubTitleMain(QMainWindow):
                     self.jacktimeBox.setText('%.2f' % (self.t_rel));
                     
                     cnt = 0
+                    
                     for i in self.SubTitleObjects:
                                       
                         if i.state=="R":

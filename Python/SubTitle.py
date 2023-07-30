@@ -39,12 +39,13 @@ class SubTitle:
         
     def LoadFile(self, oscf):
         
+        self.timeScale = 0.7
+        
         self.OscFile = oscf         
         
         print("Loading data from: "+oscf)
- 
         
-        data        = np.loadtxt(oscf, delimiter='\t', usecols=(0,2))
+        data        = np.loadtxt(oscf, delimiter='\t', usecols=(0,1))
   
         self.nr     = data[:,0]
 
@@ -54,11 +55,12 @@ class SubTitle:
        
         with open(oscf, "r+") as f:
                 data = f.readlines()
+                
                 for line in data:
-                    
-                    [p1, p2, p3, p4, p5] =  line.split('\t')
+                                        
+                    [p1, p2, p3] =  line.split('\t')
 
-                    self.text.append(p4)
+                    self.text.append(p3)
              
   
         print("datapoints: "+str(np.size(self.t)))
@@ -66,8 +68,8 @@ class SubTitle:
          
     def JackPosChange(self, timeVal, parent):
         
-        # this one plays closest index
-        tmpIdx = np.argmin(np.abs(np.subtract(self.t , timeVal))) 
+        # this one plays last index
+        tmpIdx = np.argmin(np.abs(np.subtract(self.t , timeVal * self.timeScale))) 
         
 
 
