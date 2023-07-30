@@ -48,9 +48,7 @@ class SubTitle:
         data        = np.loadtxt(oscf, delimiter='\t', usecols=(0,1))
   
         self.nr     = data[:,0]
-
         self.t      = data[:,1]
-
         self.text   = []
        
         with open(oscf, "r+") as f:
