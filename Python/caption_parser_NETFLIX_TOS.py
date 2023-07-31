@@ -10,8 +10,8 @@ import os
 from xml.etree.ElementTree import ElementTree
 
 
-raw_dir  = "/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/RAW/TOS/"
-prep_dir = "/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/PREP_2/"
+raw_dir  = "/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/RAW/TOS/S03/"
+prep_dir = "/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/PREP/TOS/S03/"
 
 
 ####################################################################################################
@@ -52,14 +52,22 @@ for filename in os.listdir(raw_dir):
 
 for file in xmlFiles:
     
+    try: 
+        os.mkdir(prep_dir) 
+    except OSError as error: 
+        print(error) 
+    
+    #os.makedirs(prep_dir)
 
     basename = os.path.splitext(os.path.basename(file))[0] 
          
     f = open(prep_dir+basename+".sub", "w")
 
-    tree = ElementTree()
+    tree = ElementTree()    
     tree.parse(file)    
     root = tree.getroot() 
+    
+    print_line(0, 0, "----")
     
         
     ## all caption elements
@@ -67,12 +75,14 @@ for file in xmlFiles:
         
         # grab start index and ommit "t":
         start = elem.attrib.get('begin')[0:-1]
+        stop  = elem.attrib.get('end')[0:-1]
         text  = elem.text
         
         if text!=None:
             if text[0]=="(":
                 if len(text)>1:
-                    print_line(0, start,text)
+                    print_line(1, start,text)
+                    print_line(0, stop,"----")
         
     
     # another format
@@ -80,12 +90,14 @@ for file in xmlFiles:
                     
         # grab start index and ommit "t":
         start = elem.attrib.get('begin')[0:-1]
+        stop  = elem.attrib.get('end')[0:-1]
         text  = elem.text
         
         if text!=None:
             if  text[0]=="[" :
                 if len(text)>1:
-                    print_line(0, start,text)
+                    print_line(1, start,text)
+                    print_line(0, stop,"----")
     
                 
     f.close()

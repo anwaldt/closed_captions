@@ -39,11 +39,11 @@ class SubTitle:
         
     def LoadFile(self, oscf):
         
-        self.timeScale = 0.7
+        self.timeScale = 1
         
         self.OscFile = oscf         
         
-        print("Loading data from: "+oscf)
+        print("Loading data from:"+oscf+"x")
         
         data        = np.loadtxt(oscf, delimiter='\t', usecols=(0,1))
   

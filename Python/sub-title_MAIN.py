@@ -44,7 +44,7 @@ class SubTitleMain(QMainWindow):
     
     glayout = QGridLayout()
         
-    def __init__(self, directory, file_list):
+    def __init__(self, file_list):
         
         super().__init__()
         
@@ -72,7 +72,7 @@ class SubTitleMain(QMainWindow):
         #self.wonderOSCclient    = udp_client.SimpleUDPClient("192.168.3.1", 58100)
 
 
-        self.directory = directory
+        #self.directory = directory
         
         self.file_list = file_list
 
@@ -175,33 +175,32 @@ class SubTitleMain(QMainWindow):
     def openProject(self):
  
         global count
-     
-        
-
+             
         xmlFiles   = []
 
         with open(self.file_list, "r+") as f:
-                data = f.readlines()
-                for line in data:
 
-                    xmlFiles.append(line)
+                data = f.readlines()
+
+                for line in data:
+                    xmlFiles.append(line.replace('\n', ''))
              
-        xmlFiles = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
+        #xmlFiles = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
 
         #--------- create objects, first --------------------------------------------------
 
 
         for f in xmlFiles:
             
-                  
+            #oscFile = self.directory.__add__("/").__add__(f);
+            oscFile = f
             
-            oscFile = self.directory.__add__("/").__add__(f);
-            #oscFile = f
+            print(str(count)+': '+oscFile)            
             
-            print(str(count)+': '+oscFile)
-            
-            
-            [label, j] = f.split(".")
+
+            label = os.path.splitext(os.path.basename(oscFile))[0]  
+
+#            [label, j] = f.split(".")
             
             self.Add(count, label);
             
@@ -210,16 +209,13 @@ class SubTitleMain(QMainWindow):
         #--------- load data --------------------------------------------------
 
         count = 0
-        
-               
 
-        for f in xmlFiles:  
+        for f in xmlFiles:                                      
             
-                        
-            oscFile = self.directory.__add__("/").__add__(f);
+#            oscFile = f #self.directory.__add__("/").__add__(f);
+            
 
-                
-            self.SubTitleObjects[count].LoadFile(oscFile)
+            self.SubTitleObjects[count].LoadFile(f)
             
             count +=1
 
@@ -320,7 +316,7 @@ class SubTitleMain(QMainWindow):
                 if self.t_rel != self.last_t:
     # 
                     self.jacktimeBox.setText('%.2f' % (self.t_rel));
-                    
+                            
                     cnt = 0
                     
                     for i in self.SubTitleObjects:
@@ -346,8 +342,8 @@ if __name__ == "__main__":
           
     parser = argparse.ArgumentParser()        
       
-    parser.add_argument("--dir",
-                          default =".",help="path for prepared subtitle files")
+    #parser.add_argument("--dir",
+    #                      default =".",help="path for prepared subtitle files")
     
     parser.add_argument("--file",
                           default =".",help="path to file list")
@@ -356,5 +352,5 @@ if __name__ == "__main__":
 
     
     app = QApplication(sys.argv)
-    ex = SubTitleMain(args.dir,args.file)
+    ex = SubTitleMain(args.file)
     sys.exit(app.exec_())

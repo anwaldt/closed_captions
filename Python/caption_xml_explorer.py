@@ -14,7 +14,7 @@ from xml.etree.ElementTree import ElementTree
 
 raw_dir = "/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/RAW/TOS/"
 
-xmlFiles   = []
+xmlFiles   = ["/media/anwaldt/ANWALDT_DATA/SOUND/PROJECTS/2020/Closed_Captions/closed_captions/RAW/TOS/S01/TOS_S01_E12.xml"]
 
 for filename in os.listdir(raw_dir):
     f = os.path.join(raw_dir, filename)
