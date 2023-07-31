@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/2006/10/ttaf1" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en" xmlns="http://www.w3.org/2006/10/ttaf1">
+<head use="dfxp-ls-sdh">
+<ttp:profile xmlns:ttp="http://www.w3.org/2006/10/ttaf1"/>
+<styling>
+<style tts:backgroundColor="black" tts:color="white" tts:textAlign="right" xml:id="Swift"/>
+<style tts:backgroundColor="black" tts:color="white" tts:textAlign="center" xml:id="Swift_1"/>
+<style tts:backgroundColor="black" tts:color="white" tts:fontStyle="italic" tts:textAlign="center" xml:id="Swift_2"/>
+<style tts:backgroundColor="black" tts:color="white" tts:textAlign="left" xml:id="Swift_3"/>
+<style tts:backgroundColor="black" tts:color="white" tts:fontStyle="italic" tts:textAlign="left" xml:id="Swift_4"/>
+<style tts:backgroundColor="black" tts:color="white" tts:fontStyle="italic" tts:textAlign="right" xml:id="Swift_5"/>
+</styling>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="316566250t" end="335745410t" style="Swift" xml:id="subtitle0">Welcome to Starbase<br/>11, Captain.</p>
+<p begin="336586250t" end="353262910t" style="Swift" xml:id="subtitle1">The Commodore is<br/>waiting to see you,</p>
+<p begin="354103750t" end="363272910t" style="Swift_1" xml:id="subtitle2">and he's curious why</p>
+<p begin="364113750t" end="381210830t" style="Swift_1" xml:id="subtitle3">you suddenly changed course<br/>and came here.</p>
+<p begin="426255829t" end="444604159t" style="Swift_1" xml:id="subtitle4">We received a subspace message<br/>asking us</p>
+<p begin="445444999t" end="458367909t" style="Swift_1" xml:id="subtitle5">to divert here immediately.</p>
+<p begin="459208749t" end="477977499t" style="Swift_1" xml:id="subtitle6">This base sent no message,<br/>Captain.</p>
+<p begin="556385830t" end="574734160t" style="Swift" xml:id="subtitle7">You know, Jim, I just<br/>can't understand this.</p>
+<p begin="575575000t" end="589338750t" style="Swift_1" xml:id="subtitle8">Mr. Spock received<br/>a transmission</p>
+<p begin="590169580t" end="603512910t" style="Swift_1" xml:id="subtitle9">from this starbase.</p>
+<p begin="604353750t" end="626876250t" style="Swift_1" xml:id="subtitle10">A message from the former<br/>commander of the<span style="Swift_2"> Enterprise,</span></p>
+<p begin="627707080t" end="638547910t" style="Swift_1" xml:id="subtitle11">Fleet Captain Pike,</p>
+<p begin="639388750t" end="655234580t" style="Swift_3" xml:id="subtitle12">urgently requesting<br/>that we divert here.</p>
+<p begin="656065410t" end="666916250t" style="Swift" xml:id="subtitle13">Impossible.</p>
+<p begin="667747080t" end="679008330t" style="Swift_3" xml:id="subtitle14">If my First Officer states</p>
+<p begin="679839160t" end="694854160t" style="Swift_3" xml:id="subtitle15">that he received<br/>a transmission...</p>
+<p begin="695695000t" end="714043330t" style="Swift_3" xml:id="subtitle16">           Jim, I'm not doubting<br/>           anyone's word.<br/><br/>    Jose, I...</p>
+<p begin="714874160t" end="730309580t" style="Swift" xml:id="subtitle17">I'm simply telling<br/>you it's impossible.</p>
+<p begin="731140410t" end="740319580t" style="Swift_3" xml:id="subtitle18">        Why?</p>
+<p begin="741150410t" end="758257500t" style="Swift_1" xml:id="subtitle19">You don't know?</p>
+<p begin="759088330t" end="769929160t" style="Swift" xml:id="subtitle20">You actually<br/>don't know</p>
+<p begin="770770000t" end="786615830t" style="Swift" xml:id="subtitle21">what's happened<br/>to Captain Pike?</p>
+<p begin="787446660t" end="811640830t" style="Swift_1" xml:id="subtitle22">There's been subspace chatter<br/>about it for months.</p>
+<p begin="834994160t" end="854183329t" style="Swift_1" xml:id="subtitle23">I'm sorry to have to be the one<br/>to show you.</p>
+<p begin="855014159t" end="872952079t" style="Swift" xml:id="subtitle24">He's upstairs in<br/>the medical section.</p>
+<p begin="983062079t" end="997656659t" style="Swift" xml:id="subtitle25">You ever met<br/>Chris Pike?</p>
+<p begin="998497499t" end="1020179159t" style="Swift_3" xml:id="subtitle26">We met when he was promoted<br/>to Fleet Captain.</p>
+<p begin="1021019999t" end="1040199159t" style="Swift" xml:id="subtitle27">About your age,</p>
+<p begin="1041039999t" end="1054383329t" style="Swift" xml:id="subtitle28">a big handsome man,<br/>vital, active.</p>
+<p begin="1055214159t" end="1069818749t" style="Swift_1" xml:id="subtitle29">I took over the<span style="Swift_2"> Enterprise</span><br/><span style="Swift_1">from him,</span></p>
+<p begin="1070649579t" end="1088997910t" style="Swift_1" xml:id="subtitle30">and Spock served with him<br/>for several years.</p>
+<p begin="1089838750t" end="1111520410t" style="Swift_3" xml:id="subtitle31">11 years, four months,<br/>five days.</p>
+<p begin="1112361250t" end="1131540410t" style="Swift_3" xml:id="subtitle32">What's his problem, Commodore?</p>
+<p begin="1132381250t" end="1150729580t" style="Swift" xml:id="subtitle33">Inspection tour<br/>of a cadet vessel,</p>
+<p begin="1151560410t" end="1164913750t" style="Swift" xml:id="subtitle34">old class-J starship.</p>
+<p begin="1165744580t" end="1188267080t" style="Swift" xml:id="subtitle35">One of the baffle<br/>plates ruptured.</p>
+<p begin="1209117910t" end="1229558330t" style="Swift_3" xml:id="subtitle36">The delta-rays?</p>
+<p begin="1247075830t" end="1267095830t" style="Swift" xml:id="subtitle37">He went in, bringing<br/>out all those kids</p>
+<p begin="1267926660t" end="1280859580t" style="Swift" xml:id="subtitle38">that were still alive.</p>
+<p begin="1281690410t" end="1303382080t" style="Swift" xml:id="subtitle39">Just wanted you gentlemen<br/>to be prepared.</p>
+<p begin="1395974580t" end="1417245830t" style="Swift_3" xml:id="subtitle40">MENDEZ:<br/>Captain Pike?</p>
+<p begin="1418076660t" end="1451450000t" style="Swift_1" xml:id="subtitle41">(<span style="Swift_2"> motorized whir </span><span style="Swift_1">)</span></p>
+<p begin="1675423750t" end="1709207499t" style="Swift_3" xml:id="subtitle42">Captain, you remember<br/>these gentlemen.</p>
+<p begin="1710038329t" end="1728386659t" style="Swift_3" xml:id="subtitle43">They wanted to visit you.</p>
+<p begin="1729227499t" end="1753832079t" style="Swift_1" xml:id="subtitle44">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="1754662909t" end="1774272499t" style="Swift_3" xml:id="subtitle45">Two flashes mean no.</p>
+<p begin="1825573749t" end="1850598749t" style="Swift_3" xml:id="subtitle46">I thought you might make<br/>an exception for them.</p>
+<p begin="1851429579t" end="1881039159t" style="Swift_1" xml:id="subtitle47">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="1881879999t" end="1898556659t" style="Swift" xml:id="subtitle48">I'm sorry, gentlemen.</p>
+<p begin="1899397499t" end="1935683749t" style="Swift_1" xml:id="subtitle49">Chris, if there's anything<br/>I can do for you...</p>
+<p begin="1936514579t" end="1964042079t" style="Swift_1" xml:id="subtitle50">(<span style="Swift_2"> two tone </span><span style="Swift_1">)</span></p>
+<p begin="1981139159t" end="2002830829t" style="Swift_3" xml:id="subtitle51">                Captain Pike,</p>
+<p begin="2003661659t" end="2021599579t" style="Swift_3" xml:id="subtitle52">may I remain<br/>for a moment?</p>
+<p begin="2022430409t" end="2038286249t" style="Swift_1" xml:id="subtitle53">(<span style="Swift_2"> single tone </span><span style="Swift_1">)</span></p>
+<p begin="2183431250t" end="2199697500t" style="Swift_1" xml:id="subtitle54">You know why I've come, Captain.</p>
+<p begin="2217625410t" end="2241819580t" style="Swift_1" xml:id="subtitle55">It's only six days away<br/>at maximum warp,</p>
+<p begin="2242650410t" end="2258916660t" style="Swift_1" xml:id="subtitle56">and I have it well planned.</p>
+<p begin="2259757500t" end="2284782500t" style="Swift_1" xml:id="subtitle57">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="2355683330t" end="2393220830t" style="Swift_1" xml:id="subtitle58">I have never disobeyed<br/>your orders before, Captain...</p>
+<p begin="2394051660t" end="2414071660t" style="Swift_1" xml:id="subtitle59">but this time, I must.</p>
+<p begin="2414912500t" end="2427425000t" style="Swift_1" xml:id="subtitle60">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="2428255830t" end="2442019580t" style="Swift_3" xml:id="subtitle61">I know.</p>
+<p begin="2442850410t" end="2455362910t" style="Swift_3" xml:id="subtitle62">I know it is treachery,</p>
+<p begin="2456203750t" end="2469967500t" style="Swift_1" xml:id="subtitle63">and it's mutiny.</p>
+<p begin="2490818330t" end="2516263750t" style="Swift_1" xml:id="subtitle64">But I must do this.</p>
+<p begin="2517094580t" end="2538786250t" style="Swift_1" xml:id="subtitle65">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="2539617080t" end="2560057500t" style="Swift_1" xml:id="subtitle66">I have no choice.</p>
+<p begin="2560888330t" end="2586333750t" style="Swift_1" xml:id="subtitle67">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="2679757080t" end="2713540830t" style="Swift_1" xml:id="subtitle68"><span style="Swift_2">Space-- the final frontier.</span></p>
+<p begin="2714371660t" end="2758165410t" style="Swift_1" xml:id="subtitle69"><span style="Swift_2">These are the voyages</span><br/><span style="Swift_2">of the starship </span><span style="Swift_1">Enterprise.</span></p>
+<p begin="2759006250t" end="2801128330t" style="Swift_1" xml:id="subtitle70"><span style="Swift_2">Its five-year mission--</span><br/><span style="Swift_2">to explore strange new worlds,</span></p>
+<p begin="2801959160t" end="2848255410t" style="Swift_1" xml:id="subtitle71"><span style="Swift_2">to seek out new life</span><br/><span style="Swift_2">and new civilizations,</span></p>
+<p begin="2849096250t" end="2892469580t" style="Swift_1" xml:id="subtitle72"><span style="Swift_2">to boldly go</span><br/><span style="Swift_2">where no man has gone before.</span></p>
+<p begin="2893300410t" end="2913320410t" style="Swift_1" xml:id="subtitle73">(<span style="Swift_2"> theme song playing </span><span style="Swift_1">)</span></p>
+<p begin="3287864580t" end="3300377080t" style="Swift_3" xml:id="subtitle74">Once more, Jose.</p>
+<p begin="3301207910t" end="3332078750t" style="Swift_3" xml:id="subtitle75">Spock stated he received<br/>a message for us to come here.</p>
+<p begin="3332909580t" end="3344591250t" style="Swift_3" xml:id="subtitle76">He entered same in his log.</p>
+<p begin="3345422080t" end="3358765410t" style="Swift_3" xml:id="subtitle77">That's all the proof I require.</p>
+<p begin="3359606250t" end="3388795409t" style="Swift" xml:id="subtitle78">And what do those<br/>record tapes show?</p>
+<p begin="3389636249t" end="3406733329t" style="Swift" xml:id="subtitle79">No message<br/>sent from here.</p>
+<p begin="3407564159t" end="3431337909t" style="Swift" xml:id="subtitle80">No message received<br/>by your vessel.</p>
+<p begin="3432178749t" end="3458454999t" style="Swift_3" xml:id="subtitle81">Then I suggest the record tapes<br/>have been deliberately changed.</p>
+<p begin="3459285829t" end="3470547079t" style="Swift_3" xml:id="subtitle82">                    Oh.</p>
+<p begin="3471377909t" end="3495151659t" style="Swift_3" xml:id="subtitle83">A computer expert can change<br/>record tapes, duplicate voices,</p>
+<p begin="3495992499t" end="3505582079t" style="Swift_1" xml:id="subtitle84">say anything, say nothing.</p>
+<p begin="3506412909t" end="3522268749t" style="Swift" xml:id="subtitle85">The fact remains that<br/>your First Officer's</p>
+<p begin="3523099579t" end="3535191659t" style="Swift" xml:id="subtitle86">former captain<br/>is hospitalized,</p>
+<p begin="3536032499t" end="3547293749t" style="Swift" xml:id="subtitle87">horribly injured<br/>at this base,</p>
+<p begin="3548124579t" end="3565642079t" style="Swift_1" xml:id="subtitle88">and that same First Officer<br/>seems to be the only one</p>
+<p begin="3566472909t" end="3580236659t" style="Swift_1" xml:id="subtitle89">who heard that message<br/>ordering you here.</p>
+<p begin="3581077499t" end="3594420829t" style="Swift_1" xml:id="subtitle90">If he had wanted<br/>to see Captain Pike,</p>
+<p begin="3595251659t" end="3606933329t" style="Swift_1" xml:id="subtitle91">he could have requested<br/>a leave.</p>
+<p begin="3607764159t" end="3616943329t" style="Swift_1" xml:id="subtitle92">I would have granted it!</p>
+<p begin="3617774159t" end="3628624999t" style="Swift" xml:id="subtitle93">Well, that's<br/>true, of course!</p>
+<p begin="3687433749t" end="3712458749t" style="Swift_3" xml:id="subtitle94">Who would want<br/>to divert us here?</p>
+<p begin="3713289579t" end="3727473749t" style="Swift_3" xml:id="subtitle95">There's no trouble</p>
+<p begin="3728304579t" end="3756662909t" style="Swift_3" xml:id="subtitle96">in the space sector<br/>we're patrolling now,</p>
+<p begin="3757503749t" end="3777934159t" style="Swift_3" xml:id="subtitle97">no alien problems.</p>
+<p begin="3808384579t" end="3828824999t" style="Swift" xml:id="subtitle98">Computer Center.</p>
+<p begin="3841747909t" end="3852598749t" style="Swift_1" xml:id="subtitle99">Chief Humbolt here, sir.</p>
+<p begin="3853429579t" end="3864690829t" style="Swift_1" xml:id="subtitle100">MENDEZ:<br/>Have you rechecked</p>
+<p begin="3865521659t" end="3883459579t" style="Swift_1" xml:id="subtitle101">all the record tapes<br/>on the date in question?</p>
+<p begin="3884290409t" end="3895972079t" style="Swift_1" xml:id="subtitle102">Yes, sir.</p>
+<p begin="3896802909t" end="3918914999t" style="Swift_1" xml:id="subtitle103">Is there any way at all<br/>a message could have been sent</p>
+<p begin="3919745829t" end="3932678749t" style="Swift_1" xml:id="subtitle104">from here without us knowing it?</p>
+<p begin="3933509579t" end="3944770829t" style="Swift_1" xml:id="subtitle105">Negative, Commodore.</p>
+<p begin="3945601659t" end="3967713749t" style="Swift_1" xml:id="subtitle106">We've checked and double-checked<br/>everything possible.</p>
+<p begin="3968544579t" end="3979385409t" style="Swift_1" xml:id="subtitle107">All right.</p>
+<p begin="3980226249t" end="3992738749t" style="Swift_1" xml:id="subtitle108">Start checking the impossible.</p>
+<p begin="3993569579t" end="4012758749t" style="Swift_1" xml:id="subtitle109">Mendez out.</p>
+<p begin="4013589579t" end="4036532499t" style="Swift_1" xml:id="subtitle110">(<span style="Swift_2"> whirring and beeping </span><span style="Swift_1">)</span></p>
+<p begin="4437763330t" end="4456532080t" style="Swift" xml:id="subtitle111">Oh, have I introduced<br/>Miss Piper, Jim?</p>
+<p begin="4457362910t" end="4468624160t" style="Swift_3" xml:id="subtitle112">Uh-uh.</p>
+<p begin="4469465000t" end="4482387910t" style="Swift" xml:id="subtitle113">This is Captain<br/>Kirk, Miss Piper.</p>
+<p begin="4483228750t" end="4506582080t" style="Swift_1" xml:id="subtitle114">I recognized the Captain<br/>immediately.</p>
+<p begin="4507412910t" end="4525771250t" style="Swift" xml:id="subtitle115">A mutual friend<br/>described you, sir.</p>
+<p begin="4526602080t" end="4541196660t" style="Swift" xml:id="subtitle116">Lieutenant<br/>Helen Johannson?</p>
+<p begin="4542037500t" end="4567062500t" style="Swift_1" xml:id="subtitle117">Helen described...</p>
+<p begin="4567893330t" end="4589164580t" style="Swift_1" xml:id="subtitle118">She merely mentioned<br/>she knew you, sir.</p>
+<p begin="4589995410t" end="4613358750t" style="Swift_1" xml:id="subtitle119">(<span style="Swift_2"> quietly </span><span style="Swift_1">):</span><br/>Oh.</p>
+<p begin="4634209580t" end="4656311660t" style="Swift_1" xml:id="subtitle120">You have something<br/>to report, Miss Piper.</p>
+<p begin="4657152500t" end="4669665000t" style="Swift_1" xml:id="subtitle121">Oh, yes, sir.</p>
+<p begin="4670495830t" end="4683008330t" style="Swift_1" xml:id="subtitle122">I'm afraid</p>
+<p begin="4683839160t" end="4709705000t" style="Swift_1" xml:id="subtitle123">our investigation turned up<br/>very little, Commodore.</p>
+<p begin="4710535830t" end="4725971250t" style="Swift_1" xml:id="subtitle124">There is, of course,</p>
+<p begin="4726802080t" end="4751827080t" style="Swift_1" xml:id="subtitle125">Mr. Spock's years of service<br/>with Captain Pike,</p>
+<p begin="4752657910t" end="4765170410t" style="Swift" xml:id="subtitle126">indications of his<br/>extreme loyalty</p>
+<p begin="4766011250t" end="4776431660t" style="Swift" xml:id="subtitle127">to this former<br/>commander...</p>
+<p begin="4777272500t" end="4795200410t" style="Swift_1" xml:id="subtitle128">Miss Piper, a Vulcan can<br/>no sooner be disloyal</p>
+<p begin="4796041250t" end="4809805000t" style="Swift_1" xml:id="subtitle129">than he can exist<br/>without breathing.</p>
+<p begin="4810635830t" end="4823979160t" style="Swift_1" xml:id="subtitle130">That goes<br/>for his present commander</p>
+<p begin="4824820000t" end="4835660830t" style="Swift_1" xml:id="subtitle131">as well as his past.</p>
+<p begin="4836491660t" end="4861106250t" style="Swift_1" xml:id="subtitle132">We're forced to consider<br/>every possibility, sir.</p>
+<p begin="4861937080t" end="4873198330t" style="Swift_1" xml:id="subtitle133">We can be certain</p>
+<p begin="4874029160t" end="4894469580t" style="Swift_1" xml:id="subtitle134">Captain Pike could not<br/>have sent a message.</p>
+<p begin="4895300410t" end="4906151250t" style="Swift" xml:id="subtitle135">In his condition,</p>
+<p begin="4906982080t" end="4916161250t" style="Swift" xml:id="subtitle136">he's under<br/>observation</p>
+<p begin="4916992080t" end="4928673750t" style="Swift" xml:id="subtitle137">every minute<br/>of every day.</p>
+<p begin="4929504580t" end="4945350410t" style="Swift_1" xml:id="subtitle138">And totally unable to move, Jim.</p>
+<p begin="4946191250t" end="4963708750t" style="Swift" xml:id="subtitle139">His wheelchair<br/>is constructed</p>
+<p begin="4964539580t" end="4983308330t" style="Swift" xml:id="subtitle140">to respond to<br/>his brain waves.</p>
+<p begin="4984139160t" end="5007912910t" style="Swift_1" xml:id="subtitle141">Oh, he can turn it,<br/>move it forwards</p>
+<p begin="5008753750t" end="5027932910t" style="Swift_1" xml:id="subtitle142">or backward slightly...</p>
+<p begin="5028773750t" end="5053798750t" style="Swift_1" xml:id="subtitle143">With a flashing light,<br/>he can say yes or no.</p>
+<p begin="5054629580t" end="5075070000t" style="Swift" xml:id="subtitle144">MENDEZ:<br/>But that's it, Jim.</p>
+<p begin="5075900830t" end="5098843750t" style="Swift" xml:id="subtitle145">That's as much as<br/>that poor devil can do.</p>
+<p begin="5112187080t" end="5138883750t" style="Swift" xml:id="subtitle146">His mind is as active<br/>as yours and mine,</p>
+<p begin="5139714580t" end="5150555410t" style="Swift" xml:id="subtitle147">but it's trapped</p>
+<p begin="5151396250t" end="5174329160t" style="Swift" xml:id="subtitle148">inside a useless,<br/>vegetating body.</p>
+<p begin="5175170000t" end="5208112910t" style="Swift_1" xml:id="subtitle149">He's kept alive mechanically,</p>
+<p begin="5208953750t" end="5230225000t" style="Swift_1" xml:id="subtitle150">a battery-driven heart.</p>
+<p begin="5231055830t" end="5252327080t" style="Swift_1" xml:id="subtitle151">Then there's no way<br/>he could even have asked</p>
+<p begin="5253157910t" end="5273177910t" style="Swift_1" xml:id="subtitle152">for that message to be sent?</p>
+<p begin="5351175830t" end="5373698330t" style="Swift_1" xml:id="subtitle153">COMPUTER<br/>(<span style="Swift_2"> extremely slow speed):</span><br/><span style="Swift_1">Starbase Operations.</span></p>
+<p begin="5374529160t" end="5389544160t" style="Swift_1" xml:id="subtitle154">(<span style="Swift_2"> very slow speed </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5390385000t" end="5404148750t" style="Swift_1" xml:id="subtitle155">(<span style="Swift_2"> slow speed </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5404979580t" end="5418322910t" style="Swift_1" xml:id="subtitle156">(<span style="Swift_2"> fast speed </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5419163750t" end="5434589160t" style="Swift_1" xml:id="subtitle157">(<span style="Swift_2"> very fast speed </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5435430000t" end="5450445000t" style="Swift_1" xml:id="subtitle158">(<span style="Swift_2"> speed slowing </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5451275830t" end="5466290830t" style="Swift_1" xml:id="subtitle159">(<span style="Swift_2"> normal speed </span><span style="Swift_1">):</span><br/>Starbase Operations.</p>
+<p begin="5467121660t" end="5480885410t" style="Swift_1" xml:id="subtitle160">Starbase Operations.</p>
+<p begin="5481726250t" end="5498823330t" style="Swift_1" xml:id="subtitle161">Starbase Operations<br/>to<span style="Swift_2"> Enterprise.</span></p>
+<p begin="5499654160t" end="5519674160t" style="Swift_1" xml:id="subtitle162">Stand by to receive new orders,<br/><span style="Swift_2">Enterprise.</span></p>
+<p begin="5606430830t" end="5627702080t" style="Swift_3" xml:id="subtitle163">Starbase Operations,<br/>Mr. Hansen.</p>
+<p begin="5628532910t" end="5662316660t" style="Swift_1" xml:id="subtitle164">COMPUTER:<br/>Starbase Operations<br/>to<span style="Swift_2"> Enterprise.</span></p>
+<p begin="5663157500t" end="5687762080t" style="Swift_1" xml:id="subtitle165">Stand by to receive new orders.</p>
+<p begin="5688592910t" end="5717371660t" style="Swift_1" xml:id="subtitle166">They are to be fed directly<br/>into the ship's computers.</p>
+<p begin="5718212500t" end="5750324580t" style="Swift_1" xml:id="subtitle167">This is top secret<br/>and scrambled.</p>
+<p begin="5825399580t" end="5847922080t" style="Swift_3" xml:id="subtitle168"><span style="Swift_4">Enterprise, </span><span style="Swift_3">standing by.</span></p>
+<p begin="5890885000t" end="5911315410t" style="Swift_3" xml:id="subtitle169">Request confirmation.</p>
+<p begin="5944268330t" end="5961365410t" style="Swift" xml:id="subtitle170"><span style="Swift_5">Enterprise </span><span style="Swift">to Starbase.</span></p>
+<p begin="5962206250t" end="5978472500t" style="Swift" xml:id="subtitle171">Request confirmation.</p>
+<p begin="5979303330t" end="5991815830t" style="Swift" xml:id="subtitle172">Sir, this is a<br/>security area.</p>
+<p begin="5992646660t" end="6004328330t" style="Swift_3" xml:id="subtitle173">What are you doing here?</p>
+<p begin="6005159160t" end="6018092080t" style="Swift" xml:id="subtitle174">I have security<br/>clearance, Chief.</p>
+<p begin="6018922910t" end="6028522500t" style="Swift_3" xml:id="subtitle175">Who gave you clearance?</p>
+<p begin="6029353330t" end="6039783750t" style="Swift_3" xml:id="subtitle176">I haven't been notified.</p>
+<p begin="6040614580t" end="6060634580t" style="Swift_3" xml:id="subtitle177">You're cross-circuiting the...</p>
+<p begin="6087331250t" end="6101095000t" style="Swift_3" xml:id="subtitle178">Whose tapes are these?</p>
+<p begin="6123617500t" end="6139463330t" style="Swift_1" xml:id="subtitle179">UHURA:<br/>Repeat,<span style="Swift_2"> Enterprise </span><span style="Swift_1">to Starbase.</span></p>
+<p begin="6140294160t" end="6154057910t" style="Swift_1" xml:id="subtitle180">Orders received.</p>
+<p begin="6154898750t" end="6179923750t" style="Swift_1" xml:id="subtitle181">We need operating confirmation<br/>from the ship's captain.</p>
+<p begin="6200354160t" end="6219543330t" style="Swift_1" xml:id="subtitle182">Come in, Starbase.</p>
+<p begin="6220374160t" end="6236230000t" style="Swift_1" xml:id="subtitle183">Come in, Captain Kirk.</p>
+<p begin="6253747500t" end="6267511250t" style="Swift_1" xml:id="subtitle184">KIRK:<br/>This is Captain Kirk.</p>
+<p begin="6268342080t" end="6286280000t" style="Swift_1" xml:id="subtitle185">You have confirmation,<br/>Miss Uhura.</p>
+<p begin="6287110830t" end="6306710410t" style="Swift_1" xml:id="subtitle186">Hansen here, Captain.</p>
+<p begin="6307551250t" end="6325068750t" style="Swift_1" xml:id="subtitle187">Our destination<br/>has been scramble-fed</p>
+<p begin="6325899580t" end="6336740410t" style="Swift_1" xml:id="subtitle188">into ship's computers.</p>
+<p begin="6337581250t" end="6355098750t" style="Swift_1" xml:id="subtitle189">Uh, how can I handle the helm</p>
+<p begin="6355929580t" end="6375949580t" style="Swift_1" xml:id="subtitle190">if I don't know<br/>where we're going?</p>
+<p begin="6385959580t" end="6405148750t" style="Swift_1" xml:id="subtitle191">KIRK:<br/>Mr. Spock is with me here.</p>
+<p begin="6405979580t" end="6418492080t" style="Swift_1" xml:id="subtitle192">He'll answer all questions.</p>
+<p begin="6419322910t" end="6436009580t" style="Swift_1" xml:id="subtitle193">Kirk out.</p>
+<p begin="6492736250t" end="6511915410t" style="Swift_1" xml:id="subtitle194">This is Mr. Spock.</p>
+<p begin="6512756250t" end="6531935410t" style="Swift_1" xml:id="subtitle195">The ship's computers<br/>will handle the helm</p>
+<p begin="6532776250t" end="6546119580t" style="Swift_1" xml:id="subtitle196">on this voyage, Mr. Hansen.</p>
+<p begin="6546950410t" end="6572395830t" style="Swift_1" xml:id="subtitle197">Course will be computed<br/>and set automatically.</p>
+<p begin="6573226660t" end="6593246660t" style="Swift_1" xml:id="subtitle198">You will not discuss this<br/>with ship's crew</p>
+<p begin="6594087500t" end="6607851250t" style="Swift_1" xml:id="subtitle199">or Starbase personnel.</p>
+<p begin="6608682080t" end="6620363750t" style="Swift_1" xml:id="subtitle200">Do you read?</p>
+<p begin="6621194580t" end="6634958330t" style="Swift_1" xml:id="subtitle201">Acknowledged, sir.</p>
+<p begin="6635789160t" end="6647050410t" style="Swift_1" xml:id="subtitle202">Stand by.</p>
+<p begin="6647891250t" end="6670413750t" style="Swift_1" xml:id="subtitle203">We'll warp out of orbit<br/>in one hour.</p>
+<p begin="6773426659t" end="6792195409t" style="Swift_1" xml:id="subtitle204">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="6802205409t" end="6816389579t" style="Swift_1" xml:id="subtitle205">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="6850173329t" end="6869362499t" style="Swift" xml:id="subtitle206">He keeps blinking "no".</p>
+<p begin="6870193329t" end="6889382499t" style="Swift" xml:id="subtitle207">"No" to what?</p>
+<p begin="6890213329t" end="6907730829t" style="Swift_3" xml:id="subtitle208">I've tried<br/>questioning him.</p>
+<p begin="6908561659t" end="6931084159t" style="Swift_3" xml:id="subtitle209">He's almost agitated himself<br/>into a coma.</p>
+<p begin="6931924999t" end="6944437499t" style="Swift" xml:id="subtitle210">How long will he live?</p>
+<p begin="6945268329t" end="6971124159t" style="Swift_3" xml:id="subtitle211">As long as any of us.</p>
+<p begin="6971964999t" end="6992815829t" style="Swift_3" xml:id="subtitle212">Blast medicine anyway.</p>
+<p begin="6993646659t" end="7014507499t" style="Swift" xml:id="subtitle213">We've learned to tie<br/>into every human organ</p>
+<p begin="7015338329t" end="7042865829t" style="Swift" xml:id="subtitle214">in the body except<br/>one: the brain.</p>
+<p begin="7043696659t" end="7067890829t" style="Swift" xml:id="subtitle215">The brain is what<br/>life is all about.</p>
+<p begin="7068721659t" end="7102925829t" style="Swift" xml:id="subtitle216">Now, that man can think<br/>any thought that we can,</p>
+<p begin="7103756659t" end="7147970829t" style="Swift" xml:id="subtitle217">and love, hope, dream<br/>as much as we can...</p>
+<p begin="7148801659t" end="7194687499t" style="Swift" xml:id="subtitle218">but he can't reach out,<br/>and no one can reach in.</p>
+<p begin="7195518329t" end="7219712499t" style="Swift_3" xml:id="subtitle219">He keeps blinking "no".</p>
+<p begin="7220543329t" end="7240983749t" style="Swift" xml:id="subtitle220">"No" to what?</p>
+<p begin="7241814579t" end="7261003749t" style="Swift_3" xml:id="subtitle221">They could question him<br/>for days, weeks,</p>
+<p begin="7261834579t" end="7289362079t" style="Swift_3" xml:id="subtitle222">before they stumble<br/>on the right thing.</p>
+<p begin="7290192909t" end="7322725409t" style="Swift_3" xml:id="subtitle223">                Bones...</p>
+<p begin="7323566249t" end="7359432079t" style="Swift" xml:id="subtitle224">could this have anything<br/>to do with Spock?</p>
+<p begin="7360262909t" end="7382785409t" style="Swift_3" xml:id="subtitle225">I don't read you<br/>at all, Jim.</p>
+<p begin="7383626249t" end="7416158749t" style="Swift" xml:id="subtitle226">What I mean is...</p>
+<p begin="7416989579t" end="7448691249t" style="Swift" xml:id="subtitle227">either a message<br/>was received...</p>
+<p begin="7527099579t" end="7549622079t" style="Swift" xml:id="subtitle228">It was one of two things.</p>
+<p begin="7550452909t" end="7576729159t" style="Swift" xml:id="subtitle229">Either someone sent a message<br/>diverting us here,</p>
+<p begin="7577569999t" end="7603005409t" style="Swift" xml:id="subtitle230">or someone on board the ship<br/>lied about receiving it.</p>
+<p begin="7603846249t" end="7624697079t" style="Swift_1" xml:id="subtitle231">Could that someone be Mr. Spock?</p>
+<p begin="7625527909t" end="7649722079t" style="Swift_1" xml:id="subtitle232">Jim, forgetting how well<br/>we both know Spock,</p>
+<p begin="7650552909t" end="7671413749t" style="Swift_1" xml:id="subtitle233">the simple fact<br/>that he's a Vulcan</p>
+<p begin="7672244579t" end="7694767079t" style="Swift_1" xml:id="subtitle234">means he's incapable<br/>of telling a lie.</p>
+<p begin="7705197499t" end="7723125409t" style="Swift" xml:id="subtitle235">He is also half-human.</p>
+<p begin="7723966249t" end="7754827079t" style="Swift_3" xml:id="subtitle236">And that half<br/>is completely submerged.</p>
+<p begin="7755657909t" end="7793195409t" style="Swift_3" xml:id="subtitle237">To be caught acting like us<br/>or even thinking like us</p>
+<p begin="7794036249t" end="7806548749t" style="Swift_3" xml:id="subtitle238">would completely<br/>embarrass him.</p>
+<p begin="7807379579t" end="7830322499t" style="Swift" xml:id="subtitle239">Someone's interfering with<br/>my command and my ship!</p>
+<p begin="7831153329t" end="7849922079t" style="Swift" xml:id="subtitle240">I don't know who it is,<br/>but I mean to find out.</p>
+<p begin="7850752909t" end="7860762909t" style="Swift_3" xml:id="subtitle241">                Even you!</p>
+<p begin="7861603749t" end="7875777909t" style="Swift" xml:id="subtitle242">If I thought you had<br/>the technical know-how,</p>
+<p begin="7876618749t" end="7894546659t" style="Swift" xml:id="subtitle243">I'd suspect you, but<br/>you don't-- Spock does!</p>
+<p begin="7895387499t" end="7909151249t" style="Swift_3" xml:id="subtitle244">He would not make<br/>a false entry...</p>
+<p begin="7909982079t" end="7923325409t" style="Swift" xml:id="subtitle245">There's a false entry<br/>in the log right now</p>
+<p begin="7924166249t" end="7938340409t" style="Swift" xml:id="subtitle246">which doesn't jibe with<br/>the established facts.</p>
+<p begin="7939181249t" end="7948350409t" style="Swift" xml:id="subtitle247">How do you explain that?</p>
+<p begin="7949191249t" end="7967539579t" style="Swift_1" xml:id="subtitle248">I can't, but to question Spock,</p>
+<p begin="7968370409t" end="7985477499t" style="Swift_1" xml:id="subtitle249">of all people? Me, yes.</p>
+<p begin="7986308329t" end="8004246249t" style="Swift_3" xml:id="subtitle250">I could run off half-cocked,<br/>given a good reason.</p>
+<p begin="8005077079t" end="8025927909t" style="Swift_3" xml:id="subtitle251">So could you, but not Spock.</p>
+<p begin="8026768749t" end="8040532499t" style="Swift_3" xml:id="subtitle252">It's impossible.</p>
+<p begin="8041363329t" end="8069311249t" style="Swift_1" xml:id="subtitle253">COMMUNICATOR:<br/>Dr. McCoy,<br/>report to Transporter Control.</p>
+<p begin="8070142079t" end="8089331249t" style="Swift_1" xml:id="subtitle254">Dr. McCoy<br/>to Transporter Control.</p>
+<p begin="8090162079t" end="8104346249t" style="Swift_1" xml:id="subtitle255">McCoy here.</p>
+<p begin="8105177079t" end="8124366249t" style="Swift_1" xml:id="subtitle256">You're needed<br/>aboard the<span style="Swift_2"> Enterprise, </span><span style="Swift_1">Doctor.</span></p>
+<p begin="8125197079t" end="8136037909t" style="Swift_1" xml:id="subtitle257">Medical emergency.</p>
+<p begin="8136878749t" end="8147719579t" style="Swift_1" xml:id="subtitle258">Well, what is it?</p>
+<p begin="8148550409t" end="8172744579t" style="Swift_1" xml:id="subtitle259">Sickness, injury? How bad is it?</p>
+<p begin="8173575409t" end="8206948749t" style="Swift_1" xml:id="subtitle260">That's all we have on it,<br/>Doctor: Just "needed aboard".</p>
+<p begin="8241983749t" end="8251993749t" style="Swift_1" xml:id="subtitle261">(<span style="Swift_2"> sighs </span><span style="Swift_1">)</span></p>
+<p begin="8265337079t" end="8304546249t" style="Swift_3" xml:id="subtitle262">Probably somebody<br/>discovered a hangnail.</p>
+<p begin="8305377079t" end="8343745409t" style="Swift_3" xml:id="subtitle263">I'll beam up<br/>and let you know, Jim.</p>
+<p begin="8407148749t" end="8435507079t" style="Swift_1" xml:id="subtitle264">"For Eyes Of Starfleet Command<br/>Only."</p>
+<p begin="8436337909t" end="8475547079t" style="Swift" xml:id="subtitle265">Oh, I'm certifying<br/>I ordered you to read it.</p>
+<p begin="8476377909t" end="8513084579t" style="Swift" xml:id="subtitle266">Know anything at all<br/>about this planet?</p>
+<p begin="8513915409t" end="8534776249t" style="Swift_1" xml:id="subtitle267">KIRK:<br/>What every ship captain knows.</p>
+<p begin="8535607079t" end="8557298749t" style="Swift_1" xml:id="subtitle268">General Order Seven:<br/>"No vessel under any condition,</p>
+<p begin="8558129579t" end="8581482909t" style="Swift_1" xml:id="subtitle269">emergency or otherwise,<br/>is to visit Talos IV."</p>
+<p begin="8582323749t" end="8611512910t" style="Swift_1" xml:id="subtitle270">And to do so is the only<br/>death penalty left on our books.</p>
+<p begin="8612353750t" end="8630702080t" style="Swift" xml:id="subtitle271">Only Fleet Command<br/>knows why.</p>
+<p begin="8631532910t" end="8651552910t" style="Swift" xml:id="subtitle272">Not even this file<br/>explains that.</p>
+<p begin="8703274580t" end="8720792080t" style="Swift" xml:id="subtitle273">But it does name<br/>the only Earth ship</p>
+<p begin="8721622910t" end="8743314580t" style="Swift" xml:id="subtitle274">that ever visited<br/>the planet.</p>
+<p begin="8795446660t" end="8810051250t" style="Swift_1" xml:id="subtitle275">The<span style="Swift_2"> Enterprise.</span></p>
+<p begin="8830902080t" end="8850922080t" style="Swift_1" xml:id="subtitle276">Commanded<br/>by Captain Christopher Pike.</p>
+<p begin="8851752910t" end="8881782910t" style="Swift_1" xml:id="subtitle277">MENDEZ:<br/>With a half-Vulcan<br/>Science Officer named Spock.</p>
+<p begin="8892213330t" end="8906807910t" style="Swift_1" xml:id="subtitle278">Commodore!</p>
+<p begin="8907648750t" end="8928920000t" style="Swift_1" xml:id="subtitle279">Captain Pike-- he's gone!</p>
+<p begin="8965206250t" end="8981052080t" style="Swift" xml:id="subtitle280">Mendez here. What is it?</p>
+<p begin="8981882910t" end="8999400410t" style="Swift_1" xml:id="subtitle281">MAN:<br/>Starship<span style="Swift_2"> Enterprise, </span><span style="Swift_1">Commodore.</span></p>
+<p begin="9000241250t" end="9014415410t" style="Swift_1" xml:id="subtitle282">It's warping out of orbit.</p>
+<p begin="9015256250t" end="9038189160t" style="Swift_1" xml:id="subtitle283">Refuses to acknowledge<br/>our signal.</p>
+<p begin="9177077910t" end="9202102910t" style="Swift" xml:id="subtitle284">Out of orbit,<br/>Mr. Spock.</p>
+<p begin="9202943750t" end="9223794580t" style="Swift" xml:id="subtitle285">Seems strange with<br/>no navigator on duty.</p>
+<p begin="9224625410t" end="9253404160t" style="Swift_1" xml:id="subtitle286">The<span style="Swift_2"> Enterprise </span><span style="Swift_1">knows</span><br/>where she's going, Mr. Hansen.</p>
+<p begin="9300541250t" end="9315556250t" style="Swift_3" xml:id="subtitle287">Someone's trying<br/>to hail us, sir.</p>
+<p begin="9316387080t" end="9343083750t" style="Swift_1" xml:id="subtitle288">Maintain radio silence,<br/>Lieutenant.</p>
+<p begin="9381452080t" end="9403974580t" style="Swift_1" xml:id="subtitle289">This is First Officer Spock.</p>
+<p begin="9404805410t" end="9427327910t" style="Swift_1" xml:id="subtitle290">Per Starfleet orders<br/>this date,</p>
+<p begin="9428168750t" end="9464865410t" style="Swift_1" xml:id="subtitle291">I have been placed in temporary<br/>command of the<span style="Swift_2"> Enterprise.</span></p>
+<p begin="9481552080t" end="9499490000t" style="Swift_1" xml:id="subtitle292">While our destination is secret,</p>
+<p begin="9500320830t" end="9521592080t" style="Swift_1" xml:id="subtitle293">our mission<br/>is relatively simple.</p>
+<p begin="9522422910t" end="9559550000t" style="Swift_1" xml:id="subtitle294">SPOCK:<br/>Starbase Command has assigned<br/>Captain Kirk medical rest leave</p>
+<p begin="9560380830t" end="9570811250t" style="Swift_1" xml:id="subtitle295">until our return.</p>
+<p begin="9571642080t" end="9583323750t" style="Swift_1" xml:id="subtitle296">His instructions are</p>
+<p begin="9584154580t" end="9612102500t" style="Swift_1" xml:id="subtitle297">that you will obey my orders<br/>as you would his.</p>
+<p begin="9612933330t" end="9635035410t" style="Swift_3" xml:id="subtitle298">    First Officer out.</p>
+<p begin="9635876250t" end="9648388750t" style="Swift" xml:id="subtitle299">What's going on<br/>around here?</p>
+<p begin="9649219580t" end="9667988330t" style="Swift" xml:id="subtitle300">Who said Jim needed<br/>a medical rest leave?</p>
+<p begin="9668819160t" end="9694685000t" style="Swift" xml:id="subtitle301">And this call about me being<br/>needed aboard the ship?</p>
+<p begin="9695515830t" end="9704695000t" style="Swift" xml:id="subtitle302">I've checked everywhere...</p>
+<p begin="9705525830t" end="9723043330t" style="Swift_1" xml:id="subtitle303">And no one from the ship<br/>made such a call.</p>
+<p begin="9723874160t" end="9733053330t" style="Swift_1" xml:id="subtitle304">That's right.</p>
+<p begin="9733884160t" end="9743063330t" style="Swift_3" xml:id="subtitle305">SPOCK:<br/>Doctor, I regret</p>
+<p begin="9743894160t" end="9758909160t" style="Swift_3" xml:id="subtitle306">they elected to keep<br/>certain things from you.</p>
+<p begin="9759750000t" end="9774344580t" style="Swift_1" xml:id="subtitle307">Will you come with me, please?</p>
+<p begin="9926576660t" end="9960360410t" style="Swift_3" xml:id="subtitle308">What is this, Spock?</p>
+<p begin="9961201250t" end="9982052080t" style="Swift_3" xml:id="subtitle309">Captain, are you all right?</p>
+<p begin="9982882910t" end="9998738750t" style="Swift_3" xml:id="subtitle310">I see that you're<br/>still signaling "no".</p>
+<p begin="9999569580t" end="10018758750t" style="Swift_1" xml:id="subtitle311">Doctor,<br/>one moment, please.</p>
+<p begin="10019589580t" end="10027097080t" style="Swift_1" xml:id="subtitle312">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="10040860830t" end="10055875830t" style="Swift_1" xml:id="subtitle313">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="10065885830t" end="10072562500t" style="Swift_1" xml:id="subtitle314">(<span style="Swift_2"> single beep </span><span style="Swift_1">)</span></p>
+<p begin="10073393330t" end="10100090000t" style="Swift_1" xml:id="subtitle315">Kirk to Dr. McCoy.</p>
+<p begin="10100920830t" end="10116356250t" style="Swift_1" xml:id="subtitle316">I'm recording you<br/>this message, Bones,</p>
+<p begin="10117187080t" end="10132202080t" style="Swift_1" xml:id="subtitle317">so there'll be<br/>no misunderstanding.</p>
+<p begin="10133032910t" end="10156806660t" style="Swift_1" xml:id="subtitle318">I'm sorry to have to make it<br/>an order.</p>
+<p begin="10157647500t" end="10182252080t" style="Swift_1" xml:id="subtitle319">You are not to disturb<br/>Captain Pike with any questions.</p>
+<p begin="10183082910t" end="10196846660t" style="Swift_1" xml:id="subtitle320">Simply take good care of him.</p>
+<p begin="10197687500t" end="10218958750t" style="Swift_1" xml:id="subtitle321">Follow Spock's instructions<br/>to the letter.</p>
+<p begin="10219789580t" end="10232722500t" style="Swift_1" xml:id="subtitle322">Kirk out.</p>
+<p begin="10252742500t" end="10270260000t" style="Swift_1" xml:id="subtitle323">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="10282772500t" end="10299869580t" style="Swift_1" xml:id="subtitle324">(<span style="Swift_2"> two beeps </span><span style="Swift_1">)</span></p>
+<p begin="10401220830t" end="10427076660t" style="Swift" xml:id="subtitle325">Sir, scanners report<br/>an object following us</p>
+<p begin="10427917500t" end="10452522080t" style="Swift" xml:id="subtitle326">about the size of a<br/>Starbase shuttlecraft.</p>
+<p begin="10492982500t" end="10505495000t" style="Swift" xml:id="subtitle327">Shall we reverse helm?</p>
+<p begin="10506325830t" end="10529679160t" style="Swift_3" xml:id="subtitle328">Take no action,<br/>Mr. Hansen.</p>
+<p begin="10561380830t" end="10582231660t" style="Swift" xml:id="subtitle329">But at our speed,<br/>they'll never catch us.</p>
+<p begin="10583072500t" end="10600590000t" style="Swift" xml:id="subtitle330">But in case they<br/>want to reach us...</p>
+<p begin="10601420830t" end="10627276660t" style="Swift_1" xml:id="subtitle331">You have your orders,<br/>Mr. Hansen.</p>
+<p begin="10628117500t" end="10654804160t" style="Swift_1" xml:id="subtitle332">We'll make no contact.</p>
+<p begin="10927576660t" end="10948437500t" style="Swift_3" xml:id="subtitle333">Starbase<span style="Swift_4"> Shuttlecraft One</span><br/><span style="Swift_3">to</span><span style="Swift_4"> Enterprise.</span></p>
+<p begin="10949268330t" end="10962611660t" style="Swift_3" xml:id="subtitle334">Come in, please.</p>
+<p begin="10977626660t" end="11006825830t" style="Swift_3" xml:id="subtitle335"><span style="Swift_4">Enterprise, </span><span style="Swift_3">Commodore Mendez</span><br/>and Captain Kirk.</p>
+<p begin="11007656660t" end="11046865830t" style="Swift_3" xml:id="subtitle336">If you read me,<br/>you are ordered to reply.</p>
+<p begin="11047696660t" end="11073562500t" style="Swift_3" xml:id="subtitle337">Repeating it on all<br/>emergency frequencies, Jim.</p>
+<p begin="11074393330t" end="11106925830t" style="Swift" xml:id="subtitle338">Spock is headed for<br/>Talos IV, all right.</p>
+<p begin="11107756660t" end="11130279160t" style="Swift_3" xml:id="subtitle339">Pulling ahead of us fast.</p>
+<p begin="11131120000t" end="11166985830t" style="Swift_3" xml:id="subtitle340">Fuel is down to 63.3.</p>
+<p begin="11167816660t" end="11192010830t" style="Swift_3" xml:id="subtitle341">If we turn back now,<br/>we've just got barely enough</p>
+<p begin="11192841660t" end="11225374160t" style="Swift_3" xml:id="subtitle342">to get us back to the base.</p>
+<p begin="11226215000t" end="11260409160t" style="Swift" xml:id="subtitle343"><span style="Swift_5">Shuttlecraft </span><span style="Swift">to</span><br/><span style="Swift_5">Enterprise, </span><span style="Swift">come in.</span></p>
+<p begin="11261250000t" end="11300449160t" style="Swift" xml:id="subtitle344"><span style="Swift_5">Shuttlecraft</span><br/><span style="Swift"> to</span><span style="Swift_5"> Enterprise, </span><span style="Swift">come in.</span></p>
+<p begin="11301290000t" end="11330068750t" style="Swift" xml:id="subtitle345"><span style="Swift_5">Enterprise, </span><span style="Swift">come in!</span></p>
+<p begin="11432250830t" end="11449768330t" style="Swift_1" xml:id="subtitle346">Library Computer.</p>
+<p begin="11450599160t" end="11463111660t" style="Swift_1" xml:id="subtitle347">Lock onto sensors.</p>
+<p begin="11463952500t" end="11493141660t" style="Swift_1" xml:id="subtitle348">Measure object now following<br/>the<span style="Swift_2"> Enterprise.</span></p>
+<p begin="11493982500t" end="11524843330t" style="Swift_1" xml:id="subtitle349">(<span style="Swift_2"> whirring, clicking </span><span style="Swift_1">)</span></p>
+<p begin="11525674160t" end="11563211660t" style="Swift_1" xml:id="subtitle350">Computed. Object<br/>is a Class "F" shuttlecraft.</p>
+<p begin="11564052500t" end="11593241660t" style="Swift_1" xml:id="subtitle351">Duranium metal shell,<br/>ion engine power...</p>
+<p begin="11594082500t" end="11633281660t" style="Swift_1" xml:id="subtitle352">Stop. How long before<br/>shuttlecraft's fuel supply</p>
+<p begin="11634122500t" end="11653301660t" style="Swift_1" xml:id="subtitle353">forces return to Starbase?</p>
+<p begin="11654142500t" end="11685003330t" style="Swift_1" xml:id="subtitle354">(<span style="Swift_2"> whirring clicking </span><span style="Swift_1">)</span></p>
+<p begin="11685834160t" end="11700018330t" style="Swift_1" xml:id="subtitle355">Computed.</p>
+<p begin="11700849160t" end="11739227500t" style="Swift_1" xml:id="subtitle356"><span style="Swift_2">Shuttlecraft </span><span style="Swift_1">is already past</span><br/>point of safe return.</p>
+<p begin="11939427500t" end="11968206250t" style="Swift_1" xml:id="subtitle357">(<span style="Swift_2"> low mechanical hum </span><span style="Swift_1">)</span></p>
+<p begin="11969037080t" end="11999067080t" style="Swift_1" xml:id="subtitle358">(<span style="Swift_2"> humming winding down </span><span style="Swift_1">)</span></p>
+<p begin="12034522500t" end="12053701660t" style="Swift" xml:id="subtitle359">We coast.</p>
+<p begin="12054542500t" end="12077065000t" style="Swift_3" xml:id="subtitle360">Blast you anyway.</p>
+<p begin="12091239160t" end="12113761660t" style="Swift_1" xml:id="subtitle361">You had no right to come along.</p>
+<p begin="12114602500t" end="12127115000t" style="Swift_1" xml:id="subtitle362">R.H.I.P., Captain.</p>
+<p begin="12127945830t" end="12146294160t" style="Swift_1" xml:id="subtitle363">"Rank hath its privileges".</p>
+<p begin="12204692500t" end="12229297080t" style="Swift_1" xml:id="subtitle364">Two hours of oxygen left.</p>
+<p begin="12230127910t" end="12252240000t" style="Swift_1" xml:id="subtitle365">Wonderful.</p>
+<p begin="12253070830t" end="12268916660t" style="Swift_1" xml:id="subtitle366">Part of me is hoping<br/>that the<span style="Swift_2"> Enterprise</span></p>
+<p begin="12269757500t" end="12278926660t" style="Swift_1" xml:id="subtitle367">won't come back for us.</p>
+<p begin="12279767500t" end="12300618330t" style="Swift_1" xml:id="subtitle368">We step on that deck,<br/>Spock is finished,</p>
+<p begin="12301449160t" end="12321058750t" style="Swift_1" xml:id="subtitle369">court-martialed, disgraced.</p>
+<p begin="12321889580t" end="12368185830t" style="Swift_1" xml:id="subtitle370">He's dead... if he makes it<br/>to Talos IV.</p>
+<p begin="12394882500t" end="12420738330t" style="Swift_3" xml:id="subtitle371">Why would he want<br/>to get Pike there?</p>
+<p begin="12421569160t" end="12445763330t" style="Swift_3" xml:id="subtitle372">The Command report stated<br/>Talos contained</p>
+<p begin="12446594160t" end="12465783330t" style="Swift_3" xml:id="subtitle373">absolutely no practical<br/>benefits to mankind.</p>
+<p begin="12466614160t" end="12490808330t" style="Swift" xml:id="subtitle374">Spock would have some logical<br/>reason for going there.</p>
+<p begin="12491639160t" end="12505823330t" style="Swift_3" xml:id="subtitle375">Maybe.</p>
+<p begin="12506654160t" end="12525012500t" style="Swift_3" xml:id="subtitle376">Maybe he's just gone mad.</p>
+<p begin="12648465830t" end="12680577910t" style="Swift_1" xml:id="subtitle377">I keep wondering who might be<br/>after us in a shuttlecraft,</p>
+<p begin="12681418750t" end="12710607910t" style="Swift_1" xml:id="subtitle378">and I keep coming up<br/>with the same answers,</p>
+<p begin="12711448750t" end="12750647910t" style="Swift" xml:id="subtitle379">but I can't be right,<br/>can I, Mr. Spock?</p>
+<p begin="12751488750t" end="12804041250t" style="Swift_3" xml:id="subtitle380">Computer control, lock onto<br/>shuttlecraft following us.</p>
+<p begin="12804872080t" end="12830727910t" style="Swift_1" xml:id="subtitle381">COMPUTER:<br/>Locked on. Tractor beam ready.</p>
+<p begin="12831568750t" end="12854091250t" style="Swift_3" xml:id="subtitle382">Go to tape Able Seven Baker.</p>
+<p begin="12854922080t" end="12874942080t" style="Swift_3" xml:id="subtitle383">Execute instructions.</p>
+<p begin="12884952080t" end="12914982080t" style="Swift" xml:id="subtitle384">Is it the captain, Mr. Spock?</p>
+<p begin="12935002080t" end="12957524580t" style="Swift_1" xml:id="subtitle385">(<span style="Swift_2"> mechanical whirring </span><span style="Swift_1">)</span></p>
+<p begin="12958355410t" end="12987134160t" style="Swift" xml:id="subtitle386">Sir, the engines<br/>are reversing.</p>
+<p begin="13010497500t" end="13040937910t" style="Swift_1" xml:id="subtitle387">(<span style="Swift_2"> whirring slowing down </span><span style="Swift_1">)</span></p>
+<p begin="13041778750t" end="13050947910t" style="Swift_1" xml:id="subtitle388">(<span style="Swift_2"> whirring stops </span><span style="Swift_1">)</span></p>
+<p begin="13051788750t" end="13079316250t" style="Swift" xml:id="subtitle389">She's brought herself<br/>to a dead stop.</p>
+<p begin="13080147080t" end="13102669580t" style="Swift_1" xml:id="subtitle390">This is the First Officer<br/>speaking.</p>
+<p begin="13103500410t" end="13130197080t" style="Swift_1" xml:id="subtitle391">Security, send an armed team<br/>to the Bridge.</p>
+<p begin="13131027910t" end="13151468330t" style="Swift_1" xml:id="subtitle392">SPOCK:<br/>Transporter Room, stand by</p>
+<p begin="13152299160t" end="13173160000t" style="Swift_1" xml:id="subtitle393">to beam Captain Kirk aboard.</p>
+<p begin="13173990830t" end="13187754580t" style="Swift_1" xml:id="subtitle394">Effective until then,</p>
+<p begin="13188585410t" end="13211528330t" style="Swift_1" xml:id="subtitle395">Lieutenant Hansen<br/>is in operational command.</p>
+<p begin="13212359160t" end="13221958750t" style="Swift_3" xml:id="subtitle396">    Sir?</p>
+<p begin="13222789580t" end="13243640410t" style="Swift_1" xml:id="subtitle397">First Officer out.</p>
+<p begin="13263660410t" end="13287023750t" style="Swift" xml:id="subtitle398">Doctor, as senior<br/>officer present,</p>
+<p begin="13287854580t" end="13312048750t" style="Swift" xml:id="subtitle399">I present myself<br/>to you for arrest.</p>
+<p begin="13312879580t" end="13322058750t" style="Swift_3" xml:id="subtitle400">    What?!</p>
+<p begin="13322889580t" end="13357504160t" style="Swift" xml:id="subtitle401">The charge is<br/>mutiny, Doctor.</p>
+<p begin="13358345000t" end="13390877500t" style="Swift_1" xml:id="subtitle402">I never received orders<br/>to take command.</p>
+<p begin="13458024579t" end="13488054579t" style="Swift" xml:id="subtitle403">Security reporting,<br/>Mr. Spock.</p>
+<p begin="13520166659t" end="13531017499t" style="Swift_1" xml:id="subtitle404">Doctor...</p>
+<p begin="13546442909t" end="13583980409t" style="Swift_1" xml:id="subtitle405">Mr. Spock is, um...<br/>under arrest.</p>
+<p begin="13584821249t" end="13607754159t" style="Swift_1" xml:id="subtitle406">Is confinement<br/>to quarters enough?</p>
+<p begin="13608594999t" end="13620687079t" style="Swift_1" xml:id="subtitle407">Adequate, Doctor.</p>
+<p begin="13621517909t" end="13638204579t" style="Swift_1" xml:id="subtitle408">I'll make no trouble.</p>
+<p begin="13657804159t" end="13670316659t" style="Swift_1" xml:id="subtitle409">(<span style="Swift_2"> sighs </span><span style="Swift_1">)</span></p>
+<p begin="13671157499t" end="13685752079t" style="Swift_3" xml:id="subtitle410">Well, confine him.</p>
+<p begin="13686582909t" end="13701187499t" style="Swift_3" xml:id="subtitle411">                    Yes, sir.</p>
+<p begin="13788354579t" end="13814210409t" style="Swift_1" xml:id="subtitle412">KIRK:<br/>Store our shuttlecraft<br/>on the hangar deck, Mr. Scott.</p>
+<p begin="13815051249t" end="13827563749t" style="Swift_1" xml:id="subtitle413">Beam us directly aboard.</p>
+<p begin="13828394579t" end="13854250409t" style="Swift" xml:id="subtitle414">All right, Captain.<br/>Locked onto you.</p>
+<p begin="13860506659t" end="13877193329t" style="Swift_1" xml:id="subtitle415">(<span style="Swift_2"> trilling beep </span><span style="Swift_1">)</span></p>
+<p begin="13900136249t" end="13930166249t" style="Swift_1" xml:id="subtitle416">(<span style="Swift_2"> high-pitched drone </span><span style="Swift_1">)</span></p>
+<p begin="13958104159t" end="13970616659t" style="Swift_1" xml:id="subtitle417">(<span style="Swift_2"> droning trails off </span><span style="Swift_1">)</span></p>
+<p begin="13971457499t" end="13987303329t" style="Swift_3" xml:id="subtitle418">Transferring command<br/>to you, sir.</p>
+<p begin="13988134159t" end="13997313329t" style="Swift_1" xml:id="subtitle419">Accepting command.</p>
+<p begin="13998144159t" end="14007323329t" style="Swift" xml:id="subtitle420">Where's Mr. Spock?</p>
+<p begin="14008154159t" end="14020666659t" style="Swift_3" xml:id="subtitle421">In his quarters, sir,<br/>under arrest.</p>
+<p begin="14021507499t" end="14029014999t" style="Swift_1" xml:id="subtitle422">His quarters?</p>
+<p begin="14029845829t" end="14039435409t" style="Swift_1" xml:id="subtitle423">(<span style="Swift_2"> bosun's whistle sounds </span><span style="Swift_1">)</span></p>
+<p begin="14040276249t" end="14052368329t" style="Swift_1" xml:id="subtitle424">After what he's done,<br/>Lieutenant?</p>
+<p begin="14053199159t" end="14069054999t" style="Swift_1" xml:id="subtitle425">UHURA:<br/>Captain from Bridge.</p>
+<p begin="14069885829t" end="14085731659t" style="Swift_1" xml:id="subtitle426">The engines are coming on.</p>
+<p begin="14086572499t" end="14104089999t" style="Swift_1" xml:id="subtitle427">Reverse power.<br/>Hold this position.</p>
+<p begin="14104920829t" end="14120766659t" style="Swift_1" xml:id="subtitle428">Tell whoever gave those orders<br/>to report...</p>
+<p begin="14121607499t" end="14137453329t" style="Swift_3" xml:id="subtitle429">Sir, there's nobody up there<br/>giving orders.</p>
+<p begin="14138284159t" end="14167483329t" style="Swift_3" xml:id="subtitle430">Mr. Spock has the computers<br/>running the ship.</p>
+<p begin="14168314159t" end="14187503329t" style="Swift_1" xml:id="subtitle431">Disengage computer control,<br/>Uhura.</p>
+<p begin="14188334159t" end="14202518329t" style="Swift_1" xml:id="subtitle432">We can't disengage, Captain.</p>
+<p begin="14203349159t" end="14222538329t" style="Swift_1" xml:id="subtitle433">The Helm does not respond.</p>
+<p begin="14223369159t" end="14233379159t" style="Swift_3" xml:id="subtitle434">                (<span style="Swift_4"> grumbling </span><span style="Swift_3">)</span></p>
+<p begin="14255070829t" end="14271337079t" style="Swift" xml:id="subtitle435">Computer control,<br/>come in.</p>
+<p begin="14272167909t" end="14281347079t" style="Swift_1" xml:id="subtitle436">(<span style="Swift_2"> whirring, clicking </span><span style="Swift_1">)</span></p>
+<p begin="14282177909t" end="14291357079t" style="Swift_1" xml:id="subtitle437">Computer.</p>
+<p begin="14292187909t" end="14306372079t" style="Swift" xml:id="subtitle438">Disengage from helm.</p>
+<p begin="14307202909t" end="14325971659t" style="Swift_1" xml:id="subtitle439">Unable to comply.</p>
+<p begin="14326812499t" end="14339324999t" style="Swift_1" xml:id="subtitle440">KIRK:<br/>This is the Captain.</p>
+<p begin="14340155829t" end="14361006659t" style="Swift_1" xml:id="subtitle441">On voice command,<br/>you will override</p>
+<p begin="14361847499t" end="14376862499t" style="Swift_1" xml:id="subtitle442">all contrary instructions.</p>
+<p begin="14377693329t" end="14386872499t" style="Swift_1" xml:id="subtitle443">Voice command:</p>
+<p begin="14387703329t" end="14414399999t" style="Swift_1" xml:id="subtitle444">Disengage from helm.</p>
+<p begin="14415230829t" end="14424409999t" style="Swift_1" xml:id="subtitle445">(<span style="Swift_2"> whirring, clicking </span><span style="Swift_1">)</span></p>
+<p begin="14425240829t" end="14441086659t" style="Swift_1" xml:id="subtitle446">COMPUTER:<br/>Unable to comply.</p>
+<p begin="14441927499t" end="14465280829t" style="Swift_1" xml:id="subtitle447">Any such attempt<br/>will cross-circuit</p>
+<p begin="14466111659t" end="14486972499t" style="Swift_1" xml:id="subtitle448">vessel's life supporting system.</p>
+<p begin="14487803329t" end="14511156659t" style="Swift_1" xml:id="subtitle449">Computer control<br/>cannot be disengaged</p>
+<p begin="14511997499t" end="14543689159t" style="Swift_1" xml:id="subtitle450">until vessel reaches<br/>Planet Talos IV.</p>
+<p begin="14692177499t" end="14730125409t" style="Swift_1" xml:id="subtitle451"><span style="Swift_2">Captain's Log, Stardate 3012.4.</span></p>
+<p begin="14730966249t" end="14760575829t" style="Swift_1" xml:id="subtitle452"><span style="Swift_2">Despite our best efforts</span><br/><span style="Swift_2">to disengage computers,</span></p>
+<p begin="14761406659t" end="14780175409t" style="Swift_1" xml:id="subtitle453"><span style="Swift_2">the </span><span style="Swift_1">Enterprise</span><br/><span style="Swift_2">is still locked on a heading</span></p>
+<p begin="14781016249t" end="14813959159t" style="Swift_1" xml:id="subtitle454"><span style="Swift_2">for the mysterious planet,</span><br/><span style="Swift_2">Talos IV.</span></p>
+<p begin="14814799999t" end="14844829999t" style="Swift_1" xml:id="subtitle455"><span style="Swift_2">Meanwhile, as required</span><br/><span style="Swift_2">by Starfleet General Orders,</span></p>
+<p begin="14845660829t" end="14875270409t" style="Swift_1" xml:id="subtitle456"><span style="Swift_2">a preliminary hearing</span><br/><span style="Swift_2">on Lieutenant Commander Spock</span></p>
+<p begin="14876111249t" end="14886952079t" style="Swift_1" xml:id="subtitle457"><span style="Swift_2">is being convened,</span></p>
+<p begin="14887782909t" end="14910725829t" style="Swift_1" xml:id="subtitle458"><span style="Swift_2">and in all the years</span><br/><span style="Swift_2">of my service,</span></p>
+<p begin="14911556659t" end="14944089159t" style="Swift_1" xml:id="subtitle459"><span style="Swift_2">this is the most painful moment</span><br/><span style="Swift_2">I have ever faced.</span></p>
+<p begin="14944929999t" end="14964949999t" style="Swift_1" xml:id="subtitle460">This hearing is convened.</p>
+<p begin="15003318329t" end="15029594579t" style="Swift_1" xml:id="subtitle461">Mr. Spock...</p>
+<p begin="15030425409t" end="15052537499t" style="Swift_1" xml:id="subtitle462">you are aware of your right<br/>to counsel of your choice?</p>
+<p begin="15053368329t" end="15075890829t" style="Swift_1" xml:id="subtitle463">Sir, I waive counsel.</p>
+<p begin="15076721659t" end="15097162079t" style="Swift_1" xml:id="subtitle464">Further,<br/>I waive rights to this hearing</p>
+<p begin="15097992909t" end="15116761659t" style="Swift_1" xml:id="subtitle465">and request<br/>immediate court-martial.</p>
+<p begin="15117602499t" end="15135530409t" style="Swift_3" xml:id="subtitle466">Request denied.</p>
+<p begin="15136371249t" end="15160144999t" style="Swift_1" xml:id="subtitle467">May I inquire<br/>on what grounds, Captain?</p>
+<p begin="15181416249t" end="15200595409t" style="Swift_3" xml:id="subtitle468">Mutiny requires a trial board</p>
+<p begin="15201436249t" end="15227712499t" style="Swift_3" xml:id="subtitle469">of no less than three<br/>command officers.</p>
+<p begin="15228543329t" end="15252737499t" style="Swift" xml:id="subtitle470">Since there are only two<br/>of that rank available...</p>
+<p begin="15253568329t" end="15266911659t" style="Swift_1" xml:id="subtitle471">Sir, I must point out</p>
+<p begin="15267752499t" end="15294439159t" style="Swift_1" xml:id="subtitle472">that there are three officers<br/>of command rank available--</p>
+<p begin="15295279999t" end="15338653329t" style="Swift_1" xml:id="subtitle473">yourself, Commodore Mendez,<br/>and Captain Christopher Pike.</p>
+<p begin="15339484159t" end="15354499159t" style="Swift_1" xml:id="subtitle474">Denied.</p>
+<p begin="15355339999t" end="15374108749t" style="Swift_1" xml:id="subtitle475">Captain Pike<br/>is a complete invalid.</p>
+<p begin="15374939579t" end="15390785409t" style="Swift_1" xml:id="subtitle476">I believe you'll find</p>
+<p begin="15391626249t" end="15419564159t" style="Swift_1" xml:id="subtitle477">he's still on<br/>the active duty list.</p>
+<p begin="15434579159t" end="15456691249t" style="Swift_1" xml:id="subtitle478">We didn't have the heart<br/>to retire him, Jim.</p>
+<p begin="15457522079t" end="15470865409t" style="Swift" xml:id="subtitle479">He's got you.</p>
+<p begin="15471706249t" end="15495479999t" style="Swift" xml:id="subtitle480">Whatever he's up to,<br/>he's planned it well.</p>
+<p begin="15552196659t" end="15581395829t" style="Swift_1" xml:id="subtitle481"><span style="Swift_2">Captain's Log, Stardate 3012.6.</span></p>
+<p begin="15582226659t" end="15611846249t" style="Swift_1" xml:id="subtitle482"><span style="Swift_2">General Court-Martial convened.</span></p>
+<p begin="15612677079t" end="15631866249t" style="Swift_1" xml:id="subtitle483"><span style="Swift_2">Mr. Spock</span><br/><span style="Swift_2">has again waived counsel</span></p>
+<p begin="15632697079t" end="15651045409t" style="Swift_1" xml:id="subtitle484"><span style="Swift_2">and has entered a plea</span><br/><span style="Swift_2">of guilty.</span></p>
+<p begin="15703187499t" end="15747391659t" style="Swift_1" xml:id="subtitle485">Mr. Spock, are you aware<br/>in pleading guilty</p>
+<p begin="15748232499t" end="15775339579t" style="Swift_1" xml:id="subtitle486">that a further charge,<br/>involving the death penalty,</p>
+<p begin="15776170409t" end="15788682909t" style="Swift_1" xml:id="subtitle487">must be held against you</p>
+<p begin="15789523749t" end="15814128329t" style="Swift_1" xml:id="subtitle488">should this vessel<br/>enter the Talos Star Group?</p>
+<p begin="15814959159t" end="15826640829t" style="Swift_3" xml:id="subtitle489">I am.</p>
+<p begin="15827471659t" end="15854588749t" style="Swift_3" xml:id="subtitle490">                            Why?</p>
+<p begin="15855419579t" end="15880864999t" style="Swift_3" xml:id="subtitle491">        What does it accomplish<br/>        to go there</p>
+<p begin="15881695829t" end="15896290409t" style="Swift_3" xml:id="subtitle492">or to take Captain Pike there?</p>
+<p begin="15897131249t" end="15918402499t" style="Swift_3" xml:id="subtitle493">            I want to know why.</p>
+<p begin="15919233329t" end="15951765829t" style="Swift_3" xml:id="subtitle494">Are your comments<br/>a part of the record, sir?</p>
+<p begin="15952596659t" end="15970114159t" style="Swift" xml:id="subtitle495">Yes, it's on<br/>the record!</p>
+<p begin="15970954999t" end="15983047079t" style="Swift_1" xml:id="subtitle496">Thank you.</p>
+<p begin="15983877909t" end="16005989999t" style="Swift_1" xml:id="subtitle497">Request monitor screen<br/>be engaged.</p>
+<p begin="16006820829t" end="16018082079t" style="Swift_1" xml:id="subtitle498">For what purpose?</p>
+<p begin="16018912909t" end="16045189159t" style="Swift_1" xml:id="subtitle499">To comply with the request<br/>you just made, sir--</p>
+<p begin="16046029999t" end="16076059999t" style="Swift_1" xml:id="subtitle500">that I explain the importance<br/>of going to Talos IV.</p>
+<p begin="16076890829t" end="16103587499t" style="Swift_1" xml:id="subtitle501">By asking him why,<br/>you've opened the door</p>
+<p begin="16104418329t" end="16129022909t" style="Swift_1" xml:id="subtitle502">to any evidence<br/>he may wish to present.</p>
+<p begin="16129863749t" end="16152796659t" style="Swift" xml:id="subtitle503">Apparently what<br/>he had in mind.</p>
+<p begin="16153637499t" end="16172816659t" style="Swift_1" xml:id="subtitle504">Present your evidence.</p>
+<p begin="16173657499t" end="16186169999t" style="Swift_1" xml:id="subtitle505">Screen on.</p>
+<p begin="16302115829t" end="16321715409t" style="Swift_1" xml:id="subtitle506">This is 13 years ago.</p>
+<p begin="16338822499t" end="16360924579t" style="Swift_1" xml:id="subtitle507">SPOCK:<br/>The<span style="Swift_2"> Enterprise...</span></p>
+<p begin="16384277909t" end="16419312909t" style="Swift_1" xml:id="subtitle508">and its commander,<br/>Captain Christopher Pike.</p>
+<p begin="16565298749t" end="16581144579t" style="Swift" xml:id="subtitle509">Definitely something<br/>out there, Captain,</p>
+<p begin="16581975409t" end="16594077499t" style="Swift" xml:id="subtitle510">headed this way.</p>
+<p begin="16615759159t" end="16633276659t" style="Swift" xml:id="subtitle511">Screen off.</p>
+<p begin="16651214579t" end="16694177499t" style="Swift_3" xml:id="subtitle512">Chris, was that really you<br/>on the screen?</p>
+<p begin="16695008329t" end="16710854159t" style="Swift_3" xml:id="subtitle513">                (<span style="Swift_4"> single tone </span><span style="Swift_3">)</span></p>
+<p begin="16711694999t" end="16730043329t" style="Swift_3" xml:id="subtitle514">That's impossible.</p>
+<p begin="16743807079t" end="16757150409t" style="Swift_1" xml:id="subtitle515">Mr. Spock, no vessel</p>
+<p begin="16757991249t" end="16790103329t" style="Swift_1" xml:id="subtitle516">makes record tapes<br/>in that detail, that perfect.</p>
+<p begin="16790934159t" end="16802615829t" style="Swift" xml:id="subtitle517">What were we watching?</p>
+<p begin="16803446659t" end="16824307499t" style="Swift_1" xml:id="subtitle518">I cannot tell you at this time,<br/>sir.</p>
+<p begin="16825138329t" end="16861424579t" style="Swift_1" xml:id="subtitle519">Captain Pike, were<br/>any record tapes of this nature</p>
+<p begin="16862255409t" end="16880193329t" style="Swift_1" xml:id="subtitle520">made during your voyage?</p>
+<p begin="16881024159t" end="16920653749t" style="Swift_1" xml:id="subtitle521">(<span style="Swift_2"> two beeps, then two more </span><span style="Swift_1">)</span></p>
+<p begin="16921484579t" end="16948181249t" style="Swift_1" xml:id="subtitle522">The court<br/>is not obliged to view evidence</p>
+<p begin="16949012079t" end="16967360409t" style="Swift_1" xml:id="subtitle523">without knowing its source.</p>
+<p begin="16968201249t" end="16999482499t" style="Swift_1" xml:id="subtitle524">Unless the court asks<br/>a prisoner why, Commodore.</p>
+<p begin="17000313329t" end="17017830829t" style="Swift_1" xml:id="subtitle525">You did ask that question.</p>
+<p begin="17018661659t" end="17042855829t" style="Swift_1" xml:id="subtitle526">You mean I was maneuvered<br/>into asking.</p>
+<p begin="17043686659t" end="17063706659t" style="Swift_1" xml:id="subtitle527">Your evidence is out of order.</p>
+<p begin="17064547499t" end="17076639579t" style="Swift_1" xml:id="subtitle528">I am forced to contest that,<br/>Commodore.</p>
+<p begin="17077470409t" end="17086649579t" style="Swift_1" xml:id="subtitle529">I want to see more.</p>
+<p begin="17087480409t" end="17102084999t" style="Swift_1" xml:id="subtitle530">You have that right, Captain.</p>
+<p begin="17102915829t" end="17128771659t" style="Swift_1" xml:id="subtitle531">But just because the prisoner<br/>is your first officer</p>
+<p begin="17129612499t" end="17143376249t" style="Swift_1" xml:id="subtitle532">and your personal friend...</p>
+<p begin="17144207079t" end="17162555409t" style="Swift_1" xml:id="subtitle533">That has nothing to do with it.</p>
+<p begin="17163396249t" end="17181744580t" style="Swift_1" xml:id="subtitle534">Very well; continue.</p>
+<p begin="17182575410t" end="17210102910t" style="Swift_1" xml:id="subtitle535">Screen on, Mr. Scott.</p>
+<p begin="17210943750t" end="17223456250t" style="Swift_1" xml:id="subtitle536">(<span style="Swift_2"> high-pitched alarm tones </span><span style="Swift_1">)</span></p>
+<p begin="17224287080t" end="17238050830t" style="Swift_3" xml:id="subtitle537">Now, there's something<br/>out there.</p>
+<p begin="17238881660t" end="17253486250t" style="Swift_3" xml:id="subtitle538">There's still<br/>something out there.</p>
+<p begin="17254317080t" end="17272665410t" style="Swift_1" xml:id="subtitle539">SPOCK:<br/>As I stated, gentlemen,</p>
+<p begin="17273506250t" end="17291434160t" style="Swift_1" xml:id="subtitle540">this was 13 years ago.</p>
+<p begin="17292275000t" end="17308120830t" style="Swift_1" xml:id="subtitle541">We were on routine patrol</p>
+<p begin="17308951660t" end="17329392080t" style="Swift_1" xml:id="subtitle542">when the ship's sensors<br/>detected something ahead.</p>
+<p begin="17330222910t" end="17353165830t" style="Swift_1" xml:id="subtitle543">At first, we were not certain<br/>what it was.</p>
+<p begin="17353996660t" end="17369432080t" style="Swift_3" xml:id="subtitle544">...coming<br/>at the speed of light.</p>
+<p begin="17370262910t" end="17383616250t" style="Swift_3" xml:id="subtitle545">Collision course.</p>
+<p begin="17384447080t" end="17442835410t" style="Swift_1" xml:id="subtitle546">(<span style="Swift_2"> high-pitched alarm tones </span><span style="Swift_1">)</span></p>
+<p begin="17490803330t" end="17515828330t" style="Swift_1" xml:id="subtitle547">The meteorite beam<br/>has not deflected it, Captain.</p>
+<p begin="17516659160t" end="17527920410t" style="Swift_1" xml:id="subtitle548">Evasive maneuvers, sir?</p>
+<p begin="17528761250t" end="17545437910t" style="Swift_1" xml:id="subtitle549">Steady as we go.</p>
+<p begin="17665147500t" end="17677660000t" style="Swift_1" xml:id="subtitle550">It's a radio wave, sir.</p>
+<p begin="17678490830t" end="17707690000t" style="Swift_1" xml:id="subtitle551">We're passing through<br/>an old-style distress signal.</p>
+<p begin="17708520830t" end="17740222500t" style="Swift_1" xml:id="subtitle552">They were keyed<br/>to cause interference</p>
+<p begin="17741053330t" end="17767750000t" style="Swift_1" xml:id="subtitle553">and attract attention this way.</p>
+<p begin="17768580830t" end="17790682910t" style="Swift_1" xml:id="subtitle554">A ship in trouble<br/>making a forced landing, sir.</p>
+<p begin="17791523750t" end="17810702910t" style="Swift_1" xml:id="subtitle555">That's it; no other message.</p>
+<p begin="17811543750t" end="17823215410t" style="Swift_1" xml:id="subtitle556">I have a fix.</p>
+<p begin="17824056250t" end="17844907080t" style="Swift_1" xml:id="subtitle557">It comes from<br/>the Talos Star Group.</p>
+<p begin="17845737910t" end="17864506660t" style="Swift" xml:id="subtitle558">We've no ships or Earth<br/>colonies that far out.</p>
+<p begin="17865347500t" end="17896628750t" style="Swift_1" xml:id="subtitle559">Their call letters check<br/>with a survey expedition.</p>
+<p begin="17897459580t" end="17908300410t" style="Swift_1" xml:id="subtitle560">SS<span style="Swift_2"> Columbia.</span></p>
+<p begin="17909141250t" end="17923315410t" style="Swift_1" xml:id="subtitle561">Disappeared in that region</p>
+<p begin="17924156250t" end="17938330410t" style="Swift_1" xml:id="subtitle562">approximately 18 years ago.</p>
+<p begin="17939171250t" end="17949591660t" style="Swift_3" xml:id="subtitle563">It would take that long</p>
+<p begin="17950432500t" end="17971703750t" style="Swift_3" xml:id="subtitle564">for a radio beam<br/>to travel from there to here.</p>
+<p begin="17972534580t" end="18007149160t" style="Swift_1" xml:id="subtitle565">Records show the Talos Group<br/>has never been explored.</p>
+<p begin="18007990000t" end="18028010000t" style="Swift_1" xml:id="subtitle566">Solar system similar to Earth.</p>
+<p begin="18028840830t" end="18040932910t" style="Swift_1" xml:id="subtitle567">SPOCK:<br/>11 planets.</p>
+<p begin="18041773750t" end="18063875830t" style="Swift_1" xml:id="subtitle568">Number four seems to be...</p>
+<p begin="18064706660t" end="18105167080t" style="Swift_1" xml:id="subtitle569">Class-M... oxygen atmosphere.</p>
+<p begin="18119761660t" end="18147289160t" style="Swift_1" xml:id="subtitle570">Then they could still be alive,<br/>even after 18 years.</p>
+<p begin="18148130000t" end="18166057910t" style="Swift_1" xml:id="subtitle571">If they survived the crash.</p>
+<p begin="18166898750t" end="18194005830t" style="Swift_1" xml:id="subtitle572">We aren't going to go...<br/>to be certain?</p>
+<p begin="18194836660t" end="18226958750t" style="Swift_1" xml:id="subtitle573">Not without any indication<br/>of survivors, no.</p>
+<p begin="18227789580t" end="18240722500t" style="Swift_1" xml:id="subtitle574">Continue on to the Vega Colony</p>
+<p begin="18241553330t" end="18263245000t" style="Swift_1" xml:id="subtitle575">and take care of our own sick<br/>and injured first.</p>
+<p begin="18276167910t" end="18287018750t" style="Swift_3" xml:id="subtitle576">You have the helm.</p>
+<p begin="18287849580t" end="18302033750t" style="Swift_3" xml:id="subtitle577">Maintain present course.</p>
+<p begin="18302864580t" end="18322884580t" style="Swift" xml:id="subtitle578">CREW WOMAN:<br/>Yes, sir.</p>
+<p begin="18523084580t" end="18537268750t" style="Swift_1" xml:id="subtitle579">(<span style="Swift_2"> communicator chirps </span><span style="Swift_1">)</span></p>
+<p begin="18538099580t" end="18552283750t" style="Swift_1" xml:id="subtitle580">Royce here.</p>
+<p begin="18553114580t" end="18571462910t" style="Swift_1" xml:id="subtitle581">Drop by my cabin, Doctor.</p>
+<p begin="18631522910t" end="18643625000t" style="Swift_1" xml:id="subtitle582">Ah...</p>
+<p begin="18644455830t" end="18664475830t" style="Swift_1" xml:id="subtitle583">(<span style="Swift_2"> knock at door </span><span style="Swift_1">)</span></p>
+<p begin="18737879160t" end="18764155410t" style="Swift_1" xml:id="subtitle584">What's that?</p>
+<p begin="18764996250t" end="18783765000t" style="Swift_1" xml:id="subtitle585">I didn't say<br/>there's anything wrong with me.</p>
+<p begin="18784595830t" end="18831722910t" style="Swift_1" xml:id="subtitle586">I understand we, uh,<br/>picked up a distress signal.</p>
+<p begin="18832563750t" end="18844655830t" style="Swift_3" xml:id="subtitle587">That's right.</p>
+<p begin="18845486660t" end="18881362500t" style="Swift_1" xml:id="subtitle588">Unless we get<br/>anything more positive on it,</p>
+<p begin="18882193330t" end="18914305410t" style="Swift_1" xml:id="subtitle589">it seems to me the condition<br/>of our own crew takes precedent.</p>
+<p begin="18915146250t" end="18941002080t" style="Swift_1" xml:id="subtitle590">I'd like to log the ship's<br/>doctor's opinion, too.</p>
+<p begin="18941832910t" end="18968529580t" style="Swift_1" xml:id="subtitle591">Oh, I concur<br/>with yours, definitely.</p>
+<p begin="18969360410t" end="19001062080t" style="Swift_1" xml:id="subtitle592">You know, good, I'm glad you do,</p>
+<p begin="19001892910t" end="19024835830t" style="Swift_1" xml:id="subtitle593">'cause we're going to stop first<br/>at the Vega Colony</p>
+<p begin="19025666660t" end="19046527500t" style="Swift_1" xml:id="subtitle594">and replace anybody<br/>who needs hospitalization.</p>
+<p begin="19047358330t" end="19065296250t" style="Swift_3" xml:id="subtitle595">    And also...<br/>                    (<span style="Swift_4"> clinking </span><span style="Swift_3">)</span></p>
+<p begin="19066127080t" end="19096157080t" style="Swift_3" xml:id="subtitle596">What the devil are you<br/>putting in there, ice?</p>
+<p begin="19096987910t" end="19125356250t" style="Swift" xml:id="subtitle597">Who wants a<br/>warm martini?</p>
+<p begin="19141202080t" end="19165806660t" style="Swift_3" xml:id="subtitle598">What makes you think<br/>I need one?</p>
+<p begin="19166647500t" end="19210020830t" style="Swift_1" xml:id="subtitle599">Sometimes a man<br/>will tell his bartender things</p>
+<p begin="19210851660t" end="19238379160t" style="Swift_1" xml:id="subtitle600">he'll never tell his doctor.</p>
+<p begin="19265496250t" end="19281342080t" style="Swift" xml:id="subtitle601">What's been on<br/>your mind, Chris,</p>
+<p begin="19282172910t" end="19309290000t" style="Swift" xml:id="subtitle602">the fight on Rigel VII?</p>
+<p begin="19310120830t" end="19321802500t" style="Swift_3" xml:id="subtitle603">Shouldn't it be?</p>
+<p begin="19322633330t" end="19350991660t" style="Swift_3" xml:id="subtitle604">My only yeoman and two others<br/>dead, seven injured.</p>
+<p begin="19351832500t" end="19363924580t" style="Swift" xml:id="subtitle605">Was there anything<br/>you personally</p>
+<p begin="19364755410t" end="19376437080t" style="Swift" xml:id="subtitle606">could have done<br/>to prevent it?</p>
+<p begin="19377267910t" end="19388529160t" style="Swift_3" xml:id="subtitle607">Oh, I should<br/>have smelled trouble</p>
+<p begin="19389370000t" end="19402292910t" style="Swift_3" xml:id="subtitle608">when I saw the swords<br/>and the armor.</p>
+<p begin="19403133750t" end="19417728330t" style="Swift_3" xml:id="subtitle609">Instead of that,<br/>I let myself get trapped</p>
+<p begin="19418559160t" end="19427738330t" style="Swift_3" xml:id="subtitle610">in that deserted fortress</p>
+<p begin="19428569160t" end="19444835410t" style="Swift_3" xml:id="subtitle611">and attacked<br/>by one of their warriors.</p>
+<p begin="19445676250t" end="19473614160t" style="Swift_1" xml:id="subtitle612">Chris, you set standards for<br/>yourself no one could meet.</p>
+<p begin="19474455000t" end="19505736250t" style="Swift_1" xml:id="subtitle613">You treat everyone on board like<br/>a human being except yourself.</p>
+<p begin="19506567080t" end="19532422910t" style="Swift" xml:id="subtitle614">And now you're<br/>tired, and you...</p>
+<p begin="19533263750t" end="19548278750t" style="Swift_1" xml:id="subtitle615">You bet I'm tired.</p>
+<p begin="19549109580t" end="19569550000t" style="Swift_1" xml:id="subtitle616">You bet.</p>
+<p begin="19570380830t" end="19597487910t" style="Swift_1" xml:id="subtitle617">I'm tired of being responsible<br/>for 203 lives,</p>
+<p begin="19598328750t" end="19613343750t" style="Swift_1" xml:id="subtitle618">and I'm tired of deciding</p>
+<p begin="19614174580t" end="19634615000t" style="Swift_1" xml:id="subtitle619">which mission is too risky<br/>and which isn't,</p>
+<p begin="19635445830t" end="19661301660t" style="Swift_1" xml:id="subtitle620">and who's going on the landing<br/>party and who doesn't.</p>
+<p begin="19662142500t" end="19693003330t" style="Swift_1" xml:id="subtitle621">And who lives...</p>
+<p begin="19693834160t" end="19716356660t" style="Swift_1" xml:id="subtitle622">and who dies.</p>
+<p begin="19736797080t" end="19751812080t" style="Swift_1" xml:id="subtitle623">Oh, I've had it, Phil.</p>
+<p begin="19752642910t" end="19785175410t" style="Swift_1" xml:id="subtitle624">To the point of finally taking<br/>my advice-- a rest leave?</p>
+<p begin="19786016250t" end="19811451660t" style="Swift_1" xml:id="subtitle625">To the point<br/>of considering resigning.</p>
+<p begin="19828969160t" end="19844404580t" style="Swift_1" xml:id="subtitle626">And do what?</p>
+<p begin="19845235410t" end="19873183330t" style="Swift_1" xml:id="subtitle627">Well, for one thing, go home.</p>
+<p begin="19890280410t" end="19952432500t" style="Swift_1" xml:id="subtitle628">Nice little town with 50 miles<br/>of parkland around it.</p>
+<p begin="19953263330t" end="19983293330t" style="Swift_1" xml:id="subtitle629">Remember I told you<br/>I had two horses?</p>
+<p begin="19984124160t" end="19997057080t" style="Swift_1" xml:id="subtitle630">We used to take some food</p>
+<p begin="19997887910t" end="20008738750t" style="Swift_3" xml:id="subtitle631">and ride out all day.</p>
+<p begin="20009569580t" end="20024164160t" style="Swift_1" xml:id="subtitle632">Oh, that sounds exciting--</p>
+<p begin="20025005000t" end="20046686660t" style="Swift_1" xml:id="subtitle633">ride out with a picnic lunch<br/>every day.</p>
+<p begin="20047527500t" end="20084644580t" style="Swift_3" xml:id="subtitle634">I said that's one place<br/>I might go.</p>
+<p begin="20085475410t" end="20107167080t" style="Swift_3" xml:id="subtitle635">Or I'd, I'd go into business<br/>on Regulus</p>
+<p begin="20107997910t" end="20123853750t" style="Swift_3" xml:id="subtitle636">or on the Orion Colony.</p>
+<p begin="20124684580t" end="20139279160t" style="Swift" xml:id="subtitle637">You, an Orion trader,</p>
+<p begin="20140120000t" end="20158047910t" style="Swift" xml:id="subtitle638">dealing in green<br/>animal women slaves?</p>
+<p begin="20158888750t" end="20185575410t" style="Swift_3" xml:id="subtitle639">The point is that this<br/>isn't the only life available.</p>
+<p begin="20186416250t" end="20208097910t" style="Swift_3" xml:id="subtitle640">There's a whole galaxy<br/>of things to choose from.</p>
+<p begin="20208938750t" end="20221451250t" style="Swift_3" xml:id="subtitle641">                Not for you.</p>
+<p begin="20245635410t" end="20279839580t" style="Swift_1" xml:id="subtitle642">A man either lives life<br/>as it happens to him,</p>
+<p begin="20280670410t" end="20303192910t" style="Swift_1" xml:id="subtitle643">meets it head on and licks it,</p>
+<p begin="20304033750t" end="20325715410t" style="Swift_1" xml:id="subtitle644">or he... turns his back on it</p>
+<p begin="20326556250t" end="20344073750t" style="Swift" xml:id="subtitle645">and starts to<br/>wither away.</p>
+<p begin="20344904580t" end="20384524160t" style="Swift_1" xml:id="subtitle646">Now, you're beginning to talk<br/>like a doctor, bartender.</p>
+<p begin="20385365000t" end="20400380000t" style="Swift_1" xml:id="subtitle647">You take your choice.</p>
+<p begin="20401210830t" end="20434163750t" style="Swift_1" xml:id="subtitle648">We both get the same<br/>two kinds of customers:</p>
+<p begin="20434994580t" end="20455014580t" style="Swift_1" xml:id="subtitle649">the living... and the dying.</p>
+<p begin="20455845410t" end="20472952500t" style="Swift_1" xml:id="subtitle650">(<span style="Swift_2"> inhaling </span><span style="Swift_1">)</span></p>
+<p begin="20473783330t" end="20482962500t" style="Swift_1" xml:id="subtitle651">(<span style="Swift_2"> exhaling </span><span style="Swift_1">)</span></p>
+<p begin="20483793330t" end="20505895410t" style="Swift_1" xml:id="subtitle652">(<span style="Swift_2"> bosun's whistle sounds </span><span style="Swift_1">)</span></p>
+<p begin="20523412910t" end="20535515000t" style="Swift_1" xml:id="subtitle653">Mr. Spock here.</p>
+<p begin="20536345830t" end="20559699160t" style="Swift_1" xml:id="subtitle654">We're intercepting<br/>a follow-up message, sir.</p>
+<p begin="20560540000t" end="20580139580t" style="Swift_1" xml:id="subtitle655">There are crash survivors<br/>on Talos.</p>
+<p begin="20641030410t" end="20662722080t" style="Swift_1" xml:id="subtitle656">CREWMAN:<br/>"11 survivors from crash.</p>
+<p begin="20663552910t" end="20682321660t" style="Swift_3" xml:id="subtitle657">"Gravity and oxygen<br/>within limits,</p>
+<p begin="20683162500t" end="20705685000t" style="Swift_3" xml:id="subtitle658">food and water obtainable,<br/>but unless..."</p>
+<p begin="20706515830t" end="20726535830t" style="Swift_3" xml:id="subtitle659">The message faded<br/>at that point, sir.</p>
+<p begin="20843732910t" end="20860840000t" style="Swift_1" xml:id="subtitle660">Address intercraft.</p>
+<p begin="20861670830t" end="20883772910t" style="Swift_3" xml:id="subtitle661">            System open.</p>
+<p begin="20884613750t" end="20897957080t" style="Swift_1" xml:id="subtitle662">This is the Captain.</p>
+<p begin="20898787910t" end="20925064160t" style="Swift_1" xml:id="subtitle663">Our destination<br/>is the Talos Star Group,</p>
+<p begin="20925905000t" end="20960519580t" style="Swift_1" xml:id="subtitle664">our time warp factor seven.</p>
+<p begin="20975534580t" end="20994723750t" style="Swift_1" xml:id="subtitle665">(<span style="Swift_2"> low-pitched whirring </span><span style="Swift_1">)</span></p>
+<p begin="20995554580t" end="21021410410t" style="Swift_3" xml:id="subtitle666">Course computed<br/>and on the screen.</p>
+<p begin="21022251250t" end="21040179160t" style="Swift_1" xml:id="subtitle667">All decks<br/>have acknowledged, sir.</p>
+<p begin="21041020000t" end="21066045000t" style="Swift_1" xml:id="subtitle668">Engage.</p>
+<p begin="21066875830t" end="21085224160t" style="Swift_3" xml:id="subtitle669">Screen off.</p>
+<p begin="21105244160t" end="21120679580t" style="Swift_3" xml:id="subtitle670">                Mr. Spock,</p>
+<p begin="21121510410t" end="21148207080t" style="Swift_1" xml:id="subtitle671">I'm truly amazed<br/>at your technical prowess</p>
+<p begin="21149037910t" end="21170309160t" style="Swift_1" xml:id="subtitle672">in somehow<br/>manufacturing all this.</p>
+<p begin="21171150000t" end="21194503330t" style="Swift" xml:id="subtitle673">I congratulate you<br/>on your imagination.</p>
+<p begin="21195334160t" end="21219107910t" style="Swift_1" xml:id="subtitle674">But this is a court<br/>of Space Law, not a theater.</p>
+<p begin="21219948750t" end="21264152910t" style="Swift_1" xml:id="subtitle675">Captain, please tell the court<br/>this is not imagination</p>
+<p begin="21264993750t" end="21294182910t" style="Swift_1" xml:id="subtitle676">nor some clever<br/>photographic record.</p>
+<p begin="21295023750t" end="21322130830t" style="Swift_3" xml:id="subtitle677">Are we seeing the actual events<br/>of 13 years ago?</p>
+<p begin="21322961660t" end="21341730410t" style="Swift_1" xml:id="subtitle678">(<span style="Swift_2"> single tone </span><span style="Swift_1">)</span></p>
+<p begin="21342571250t" end="21385113750t" style="Swift_1" xml:id="subtitle679">Yes, gentlemen, on that screen,<br/>as it happened,</p>
+<p begin="21385944580t" end="21403462080t" style="Swift_1" xml:id="subtitle680">the incredible experience</p>
+<p begin="21404292910t" end="21423482080t" style="Swift_3" xml:id="subtitle681">of Captain Christopher Pike<br/>on Talos IV.</p>
+<p begin="21424312910t" end="21443502080t" style="Swift_3" xml:id="subtitle682">If after witnessing this,</p>
+<p begin="21444332910t" end="21462691250t" style="Swift_3" xml:id="subtitle683">the court wishes<br/>to turn this vessel back,</p>
+<p begin="21463522080t" end="21490629160t" style="Swift_1" xml:id="subtitle684">I will release this ship<br/>to manual control.</p>
+<p begin="21491470000t" end="21513992500t" style="Swift" xml:id="subtitle685">You're in no position<br/>to bargain.</p>
+<p begin="21514823330t" end="21528587080t" style="Swift" xml:id="subtitle686">This is ridiculous.</p>
+<p begin="21529417910t" end="21544853330t" style="Swift_3" xml:id="subtitle687">This man mutinied,<br/>stole your ship,</p>
+<p begin="21545684160t" end="21555283750t" style="Swift_3" xml:id="subtitle688">abducted Captain Pike.</p>
+<p begin="21556114580t" end="21573632080t" style="Swift_3" xml:id="subtitle689">Well, for me,<br/>this has gone far enough.</p>
+<p begin="21574462910t" end="21591980410t" style="Swift_3" xml:id="subtitle690">We still haven't heard<br/>the full story.</p>
+<p begin="21592821250t" end="21601990410t" style="Swift_3" xml:id="subtitle691">I vote to continue.</p>
+<p begin="21602831250t" end="21615343750t" style="Swift" xml:id="subtitle692">And I vote we<br/>do not. Deadlock.</p>
+<p begin="21616174580t" end="21632440830t" style="Swift_3" xml:id="subtitle693">It's not a deadlock.</p>
+<p begin="21633271660t" end="21669978330t" style="Swift_3" xml:id="subtitle694">There's still one member of the<br/>trial board to be heard from.</p>
+<p begin="21670809160t" end="21680408750t" style="Swift_3" xml:id="subtitle695">                    Very well.</p>
+<p begin="21681239580t" end="21691670000t" style="Swift" xml:id="subtitle696">Captain Pike,</p>
+<p begin="21692500830t" end="21702510830t" style="Swift_3" xml:id="subtitle697">it's up to you.</p>
+<p begin="21703341660t" end="21718777080t" style="Swift_3" xml:id="subtitle698">Do we continue<br/>under these conditions?</p>
+<p begin="21719607910t" end="21739217500t" style="Swift_1" xml:id="subtitle699">(<span style="Swift_2"> single tone </span><span style="Swift_1">)</span></p>
+<p begin="21749637910t" end="21767155410t" style="Swift_1" xml:id="subtitle700">Yes.</p>
+<p begin="21863922080t" end="21883111250t" style="Swift_1" xml:id="subtitle701"><span style="Swift_2">Captain's Log, supplemental.</span></p>
+<p begin="21883942080t" end="21906885000t" style="Swift_1" xml:id="subtitle702"><span style="Swift_2">Mr. Spock, on trial for mutiny,</span></p>
+<p begin="21907715830t" end="21933571660t" style="Swift_1" xml:id="subtitle703"><span style="Swift_2">has forced the court</span><br/><span style="Swift_2">to accept unusual evidence.</span></p>
+<p begin="21934412500t" end="21971529580t" style="Swift_1" xml:id="subtitle704"><span style="Swift_2">On our monitor screen,</span><br/><span style="Swift_2">the voyage of Captain Pike</span></p>
+<p begin="21972360410t" end="21993221250t" style="Swift_1" xml:id="subtitle705"><span style="Swift_2">and the </span><span style="Swift_1">Enterprise</span><br/><span style="Swift_2">to the one forbidden world</span></p>
+<p begin="21994052080t" end="22011569580t" style="Swift_1" xml:id="subtitle706"><span style="Swift_2">in all the galaxy.</span></p>
+<p begin="22012400410t" end="22024082080t" style="Swift_1" xml:id="subtitle707">Screen on.</p>
+<p begin="22182570410t" end="22207185000t" style="Swift" xml:id="subtitle708">We've settled<br/>into orbit, sir.</p>
+<p begin="22235543330t" end="22254732500t" style="Swift_3" xml:id="subtitle709">Geological lab report<br/>complete, Captain.</p>
+<p begin="22255563330t" end="22269747500t" style="Swift" xml:id="subtitle710">Preliminary lab<br/>survey ready, sir.</p>
+<p begin="22270578330t" end="22283511250t" style="Swift_3" xml:id="subtitle711">        Spectography?<br/><br/>Our reading shows</p>
+<p begin="22284342080t" end="22298526250t" style="Swift_3" xml:id="subtitle712">an oxygen/nitrogen<br/>atmosphere, sir,</p>
+<p begin="22299357080t" end="22318125830t" style="Swift_3" xml:id="subtitle713">heavy with inert elements,<br/>but well within safety limits.</p>
+<p begin="22318956660t" end="22328135830t" style="Swift_1" xml:id="subtitle714">Gravity?</p>
+<p begin="22328966660t" end="22342320000t" style="Swift_3" xml:id="subtitle715">0.9 of Earth.</p>
+<p begin="22343150830t" end="22376514160t" style="Swift_3" xml:id="subtitle716">Captain. Reflections, sir,<br/>from the planet's surface.</p>
+<p begin="22402380000t" end="22428656250t" style="Swift_3" xml:id="subtitle717">As I read it, they polarize out<br/>as rounded metal bits.</p>
+<p begin="22429487080t" end="22458265830t" style="Swift" xml:id="subtitle718">Could be parts of<br/>a spaceship hull.</p>
+<p begin="22459096660t" end="22480788330t" style="Swift_3" xml:id="subtitle719">CAPTAIN:<br/>Equip a landing party<br/>of six.</p>
+<p begin="22481619160t" end="22494131660t" style="Swift" xml:id="subtitle720">You feel up to it?</p>
+<p begin="22494972500t" end="22504141660t" style="Swift_1" xml:id="subtitle721">Yes, sir.</p>
+<p begin="22504982500t" end="22514572080t" style="Swift_1" xml:id="subtitle722">Yes, sir!</p>
+<p begin="22550858330t" end="22565042500t" style="Swift_3" xml:id="subtitle723">Sorry, Number One.</p>
+<p begin="22565873330t" end="22581719160t" style="Swift_3" xml:id="subtitle724">With little information<br/>on this planet,</p>
+<p begin="22582560000t" end="22608415830t" style="Swift_3" xml:id="subtitle725">we'll have to leave the ship's<br/>most experienced officer here</p>
+<p begin="22609246660t" end="22618425830t" style="Swift_3" xml:id="subtitle726">covering us.</p>
+<p begin="22619256660t" end="22634271660t" style="Swift" xml:id="subtitle727">'Course, sir.</p>
+<p begin="22735622910t" end="22775252500t" style="Swift_1" xml:id="subtitle728">(<span style="Swift_2"> sustained,</span><br/><span style="Swift_2">low-pitched buzzing </span><span style="Swift_1">)</span></p>
+<p begin="22776083330t" end="22795272500t" style="Swift_1" xml:id="subtitle729">There's no indication<br/>of problems down there,</p>
+<p begin="22796103330t" end="22808615830t" style="Swift_3" xml:id="subtitle730">but let's not take<br/>any chances.</p>
+<p begin="22809446660t" end="22818625830t" style="Swift" xml:id="subtitle731">Yes, sir.</p>
+<p begin="22819456660t" end="22831138330t" style="Swift" xml:id="subtitle732">There's a canyon<br/>to the left.</p>
+<p begin="22831969160t" end="22842820000t" style="Swift" xml:id="subtitle733">We can set<br/>you down there</p>
+<p begin="22843650830t" end="22857414580t" style="Swift" xml:id="subtitle734">completely unobserved.</p>
+<p begin="22858245410t" end="22888275410t" style="Swift" xml:id="subtitle735">(<span style="Swift_5"> low-pitched buzzing </span><span style="Swift">)</span></p>
+<p begin="22939997080t" end="22962940000t" style="Swift_1" xml:id="subtitle736">(<span style="Swift_2"> loud whirring </span><span style="Swift_1">)</span></p>
+<p begin="22963770830t" end="22981708750t" style="Swift_1" xml:id="subtitle737">(<span style="Swift_2"> mechanical screeching </span><span style="Swift_1">)</span></p>
+<p begin="22982539580t" end="22997554580t" style="Swift_1" xml:id="subtitle738">(<span style="Swift_2"> sustained whirring </span><span style="Swift_1">)</span></p>
+<p begin="23036763750t" end="23056783750t" style="Swift_1" xml:id="subtitle739">(<span style="Swift_2"> trilling hum </span><span style="Swift_1">)</span></p>
+<p begin="23083890830t" end="23103910830t" style="Swift_1" xml:id="subtitle740">(<span style="Swift_2"> high-pitched hum </span><span style="Swift_1">)</span></p>
+<p begin="23138115000t" end="23151458330t" style="Swift_1" xml:id="subtitle741">(<span style="Swift_2"> hummng trails off </span><span style="Swift_1">)</span></p>
+<p begin="23164391250t" end="23194000830t" style="Swift_1" xml:id="subtitle742">(<span style="Swift_2"> high-pitched humming </span><span style="Swift_1">)</span></p>
+<p begin="23194831660t" end="23205682500t" style="Swift_1" xml:id="subtitle743">(<span style="Swift_2"> humming stops </span><span style="Swift_1">)</span></p>
+<p begin="23206513330t" end="23246553330t" style="Swift_1" xml:id="subtitle744">(<span style="Swift_2"> soft, sustained,</span><br/><span style="Swift_2">deep humming </span><span style="Swift_1">)</span></p>
+<p begin="23357083750t" end="23382939580t" style="Swift_1" xml:id="subtitle745">(<span style="Swift_2"> soft sustained humming </span><span style="Swift_1">)</span></p>
+<p begin="23532669160t" end="23567704160t" style="Swift_1" xml:id="subtitle746">(<span style="Swift_2"> humming growing louder </span><span style="Swift_1">)</span></p>
+<p begin="23650707080t" end="23685742080t" style="Swift_1" xml:id="subtitle747">(<span style="Swift_2"> deep humming</span><br/><span style="Swift_2">grows even louder </span><span style="Swift_1">)</span></p>
+<p begin="23779165410t" end="23802528750t" style="Swift_1" xml:id="subtitle748">(<span style="Swift_2"> humming quiets </span><span style="Swift_1">)</span></p>
+<p begin="23842568750t" end="23872598750t" style="Swift_1" xml:id="subtitle749">(<span style="Swift_2"> humming growing louder </span><span style="Swift_1">)</span></p>
+<p begin="23993970000t" end="24027333330t" style="Swift_1" xml:id="subtitle750">(<span style="Swift_2"> sustained deep humming </span><span style="Swift_1">)</span></p>
+<p begin="24109495410t" end="24121177080t" style="Swift_1" xml:id="subtitle751">Sir.</p>
+<p begin="24276332080t" end="24303859580t" style="Swift_3" xml:id="subtitle752">They're men.</p>
+<p begin="24304690410t" end="24323048750t" style="Swift_3" xml:id="subtitle753">They're humans.</p>
+<p begin="24364750410t" end="24393949580t" style="Swift_1" xml:id="subtitle754">Captain Christopher Pike,<br/>United Space Ship<span style="Swift_2"> Enterprise.</span></p>
+<p begin="24394780410t" end="24433989580t" style="Swift_1" xml:id="subtitle755">Dr. Theodore Hess,<br/>American Continent Institute.</p>
+<p begin="24434820410t" end="24447332910t" style="Swift_3" xml:id="subtitle756">Is Earth all right?</p>
+<p begin="24448173750t" end="24469024580t" style="Swift_3" xml:id="subtitle757">Same old Earth,<br/>and you'll see it very soon.</p>
+<p begin="24469855410t" end="24490716250t" style="Swift_1" xml:id="subtitle758">And you won't believe<br/>how fast you can get back.</p>
+<p begin="24491547080t" end="24506141660t" style="Swift_1" xml:id="subtitle759">CREWMAN:<br/>Well, the time barrier's<br/>been broken.</p>
+<p begin="24506982500t" end="24525330830t" style="Swift_1" xml:id="subtitle760">Our new ships can...</p>
+<p begin="24635440830t" end="24654630000t" style="Swift_3" xml:id="subtitle761">This is Vina.</p>
+<p begin="24655460830t" end="24668393750t" style="Swift" xml:id="subtitle762">Her parents are dead.</p>
+<p begin="24669224580t" end="24692577910t" style="Swift" xml:id="subtitle763">She was born almost<br/>as we crashed.</p>
+<p begin="24968693750t" end="24992877910t" style="Swift_1" xml:id="subtitle764">♪ ♪</p>
+<p begin="25146371250t" end="25158883750t" style="Swift_1" xml:id="subtitle765">(<span style="Swift_2"> communicator chirps </span><span style="Swift_1">)</span></p>
+<p begin="25159714580t" end="25170555410t" style="Swift_1" xml:id="subtitle766"><span style="Swift_2">Enterprise.</span></p>
+<p begin="25171396250t" end="25183908750t" style="Swift_1" xml:id="subtitle767">WOMAN:<br/>Landing party, come in.</p>
+<p begin="25184739580t" end="25202257080t" style="Swift_3" xml:id="subtitle768">We'll begin transporting<br/>the survivors</p>
+<p begin="25203087910t" end="25227282080t" style="Swift_3" xml:id="subtitle769">and their effects up to you<br/>very shortly.</p>
+<p begin="25228112910t" end="25241466250t" style="Swift_1" xml:id="subtitle770">Quarters<br/>are being prepared, sir.</p>
+<p begin="25242297080t" end="25254809580t" style="Swift_1" xml:id="subtitle771">Have I permission to send out</p>
+<p begin="25255640410t" end="25269824580t" style="Swift_1" xml:id="subtitle772">scouting and scientific<br/>parties now?</p>
+<p begin="25270655410t" end="25285260000t" style="Swift_3" xml:id="subtitle773">Yes, affirmative on the...</p>
+<p begin="25307362080t" end="25348232910t" style="Swift_1" xml:id="subtitle774">You appear to be healthy<br/>and intelligent, Captain.</p>
+<p begin="25349073750t" end="25375350000t" style="Swift_1" xml:id="subtitle775">Prime specimen.</p>
+<p begin="25376180830t" end="25403287910t" style="Swift_1" xml:id="subtitle776">I didn't get that last message,<br/>Captain.</p>
+<p begin="25404128750t" end="25441666250t" style="Swift_1" xml:id="subtitle777">Uh... affirmative on request.</p>
+<p begin="25442497080t" end="25465019580t" style="Swift_3" xml:id="subtitle778">Landing party out.</p>
+<p begin="25465850410t" end="25495049580t" style="Swift" xml:id="subtitle779">You must forgive her<br/>choice of words, Captain.</p>
+<p begin="25495880410t" end="25513397910t" style="Swift" xml:id="subtitle780">She's lived<br/>her whole life</p>
+<p begin="25514238750t" end="25535089580t" style="Swift" xml:id="subtitle781">with a collection<br/>of aging scientists.</p>
+<p begin="25535920410t" end="25560114580t" style="Swift_1" xml:id="subtitle782">If they can, uh,<br/>spare you a moment,</p>
+<p begin="25560945410t" end="25583467910t" style="Swift_1" xml:id="subtitle783">I'd like to make<br/>my medical report.</p>
+<p begin="25584308750t" end="25616841250t" style="Swift_1" xml:id="subtitle784">I think it's time to show<br/>the captain our secret.</p>
+<p begin="25617672080t" end="25646030410t" style="Swift" xml:id="subtitle785">Their health is<br/>excellent, almost...</p>
+<p begin="25646871250t" end="25657712080t" style="Swift_3" xml:id="subtitle786">too good.</p>
+<p begin="25658542910t" end="25673557910t" style="Swift" xml:id="subtitle787">There's a reason<br/>for our condition,</p>
+<p begin="25674398750t" end="25688572910t" style="Swift" xml:id="subtitle788">but we've had<br/>some doubt</p>
+<p begin="25689413750t" end="25715269580t" style="Swift" xml:id="subtitle789">if Earth is ready<br/>to learn the secret.</p>
+<p begin="25716100410t" end="25733617910t" style="Swift" xml:id="subtitle790">Let the girl show you.</p>
+<p begin="25734458750t" end="25753227500t" style="Swift" xml:id="subtitle791">We'll accept<br/>your judgment.</p>
+<p begin="25942576660t" end="25961765830t" style="Swift_3" xml:id="subtitle792">You're tired,<br/>but don't worry.</p>
+<p begin="25962596660t" end="25982616660t" style="Swift_3" xml:id="subtitle793">You'll feel much better soon.</p>
+<p begin="26086060000t" end="26104408330t" style="Swift_3" xml:id="subtitle794">Don't you see it?</p>
+<p begin="26126510410t" end="26146530410t" style="Swift_1" xml:id="subtitle795">Here and here.</p>
+<p begin="26179483330t" end="26194918750t" style="Swift_1" xml:id="subtitle796">I don't understand.</p>
+<p begin="26195749580t" end="26218692500t" style="Swift_1" xml:id="subtitle797">You will.</p>
+<p begin="26219523330t" end="26237871660t" style="Swift_1" xml:id="subtitle798">You're a perfect choice.</p>
+<p begin="26353827500t" end="26363837500t" style="Swift_1" xml:id="subtitle799">(<span style="Swift_2"> crackling </span><span style="Swift_1">)</span></p>
+<p begin="26420143750t" end="26429312910t" style="Swift_1" xml:id="subtitle800">Captain!</p>
+<p begin="27084137079t" end="27096649579t" style="Swift_3" xml:id="subtitle801">    (<span style="Swift_4"> communicator chirps </span><span style="Swift_3">)</span><br/><br/>    Spock here.</p>
+<p begin="27097480409t" end="27115838749t" style="Swift_1" xml:id="subtitle802">WOMAN:<br/>Landing party, come in.</p>
+<p begin="27116669579t" end="27146699579t" style="Swift_1" xml:id="subtitle803">There is no survivors<br/>encampment, Number One.</p>
+<p begin="27147530409t" end="27172144999t" style="Swift_1" xml:id="subtitle804">This is all some sort of trap.</p>
+<p begin="27172975829t" end="27190913749t" style="Swift_1" xml:id="subtitle805">We've lost the Captain.</p>
+<p begin="27191744579t" end="27208431249t" style="Swift_1" xml:id="subtitle806">Do you read?</p>
+<p begin="27209262079t" end="27228030829t" style="Swift_1" xml:id="subtitle807">(<span style="Swift_2"> bosun's whistle sounds </span><span style="Swift_1">)</span></p>
+<p begin="27265988749t" end="27276829579t" style="Swift_3" xml:id="subtitle808">What is it?</p>
+<p begin="27277660409t" end="27293926659t" style="Swift_1" xml:id="subtitle809">UHURA:<br/>It's for Commodore Mendez.</p>
+<p begin="27294767499t" end="27321874579t" style="Swift_1" xml:id="subtitle810">Fleet signal for you, sir.<br/>Go ahead, Uhura.</p>
+<p begin="27322705409t" end="27341894579t" style="Swift_1" xml:id="subtitle811">Commodore Mendez. Urgent.</p>
+<p begin="27342725409t" end="27380262909t" style="Swift_1" xml:id="subtitle812"> Subspace monitors show...<br/><span style="Swift_2">Enterprise</span></p>
+<p begin="27381103749t" end="27421974579t" style="Swift_1" xml:id="subtitle813">receiving transmissions<br/>from Planet Talos IV</p>
+<p begin="27422805409t" end="27464096659t" style="Swift_1" xml:id="subtitle814">in violation<br/>of Starfleet general orders.</p>
+<p begin="27464937499t" end="27500803329t" style="Swift_1" xml:id="subtitle815">Receiving transmissions<br/>from Talos IV?</p>
+<p begin="27501634159t" end="27517069579t" style="Swift_1" xml:id="subtitle816">KIRK:<br/>Then the images<br/>we've been seeing are...</p>
+<p begin="27517900409t" end="27537089579t" style="Swift_3" xml:id="subtitle817">Are coming from Talos IV, sir.</p>
+<p begin="27537920409t" end="27556278749t" style="Swift_1" xml:id="subtitle818">UHURA:<br/>Captain Kirk is hereby relieved.</p>
+<p begin="27557109579t" end="27593816249t" style="Swift_1" xml:id="subtitle819">You are ordered to assume<br/>command of the<span style="Swift_2"> Enterprise.</span></p>
+<p begin="27594647079t" end="27618000409t" style="Swift_1" xml:id="subtitle820">Disable vessel, if necessary,<br/>to prevent further contact.</p>
+<p begin="27618841249t" end="27652204579t" style="Swift_1" xml:id="subtitle821">Message signed:<br/>Comsol, Starfleet Command.</p>
+<p begin="27653035409t" end="27671393749t" style="Swift_1" xml:id="subtitle822">Mr. Spock, you're aware<br/>of the orders</p>
+<p begin="27672224579t" end="27693916249t" style="Swift_1" xml:id="subtitle823">regarding any contact<br/>with Talos IV.</p>
+<p begin="27694747079t" end="27718100409t" style="Swift" xml:id="subtitle824">You have deliberately<br/>invited the death penalty.</p>
+<p begin="27718941249t" end="27738120409t" style="Swift" xml:id="subtitle825">You've not only finished<br/>yourself, Spock,</p>
+<p begin="27738961249t" end="27763145409t" style="Swift" xml:id="subtitle826">but you finished<br/>your captain as well.</p>
+<p begin="27763986249t" end="27778160409t" style="Swift_1" xml:id="subtitle827">The Commodore must be aware</p>
+<p begin="27779001249t" end="27794847079t" style="Swift_3" xml:id="subtitle828">that Captain Kirk<br/>knew nothing of this.</p>
+<p begin="27795677909t" end="27815697909t" style="Swift_1" xml:id="subtitle829">And you're aware that<br/>a captain is responsible</p>
+<p begin="27816538749t" end="27832384579t" style="Swift_1" xml:id="subtitle830">for everything<br/>that occurs on his ship.</p>
+<p begin="27833215409t" end="27861583749t" style="Swift_1" xml:id="subtitle831">I order you to return this<br/>vessel back to manual control.</p>
+<p begin="27937489579t" end="27982534579t" style="Swift_1" xml:id="subtitle832">Sir... I respectfully decline.</p>
+<p begin="27983365409t" end="28000052079t" style="Swift_1" xml:id="subtitle833">Very well.</p>
+<p begin="28000882909t" end="28014646659t" style="Swift_1" xml:id="subtitle834">You've earned the consequences.</p>
+<p begin="28015487499t" end="28035507499t" style="Swift_1" xml:id="subtitle835">The court is in recess.</p>
+<p begin="28298680409t" end="28321202909t" style="Swift" xml:id="subtitle836">Do you know what<br/>you're doing?</p>
+<p begin="28322043749t" end="28332884579t" style="Swift" xml:id="subtitle837">Have you lost your mind?</p>
+<p begin="28333715409t" end="28342894579t" style="Swift_3" xml:id="subtitle838">    Captain...</p>
+<p begin="28343725409t" end="28376257909t" style="Swift_1" xml:id="subtitle839">Jim, please... don't stop me.</p>
+<p begin="28377098749t" end="28397949579t" style="Swift_1" xml:id="subtitle840">Don't let him stop me.</p>
+<p begin="28398780409t" end="28432984579t" style="Swift_3" xml:id="subtitle841">It's your career<br/>and Captain Pike's life.</p>
+<p begin="28433815409t" end="28460932499t" style="Swift_1" xml:id="subtitle842">You must see<br/>the rest of the transmission.</p>
+<p begin="28562283749t" end="28580632079t" style="Swift_3" xml:id="subtitle843">                    Lock him up.</p>
+</div>
+</body>
+</tt>
